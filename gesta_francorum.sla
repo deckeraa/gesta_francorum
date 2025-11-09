@@ -143,14 +143,14 @@
         <PAGE PAGEXPOS="712.001" PAGEYPOS="8340.032" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="20" NAM="" MNAM="Vocab right" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
         <PAGE PAGEXPOS="100.001" PAGEYPOS="9172.035" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="21" NAM="" MNAM="Latin left" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
         <PAGE PAGEXPOS="712.001" PAGEYPOS="9172.035" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="22" NAM="" MNAM="Vocab right" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
-        <MASTEROBJECT XPOS="136.001" YPOS="776.002" OwnPage="2" ItemID="271364971" PTYPE="4" WIDTH="522" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 18 L0 18 L0 0 Z" copath="M0 0 L522 0 L522 18 L0 18 L0 0 Z" OnMasterPage="Latin left" gXpos="12376.001" gYpos="949386637169.693" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <MASTEROBJECT XPOS="136.001" YPOS="776.002" OwnPage="2" ItemID="271364971" PTYPE="4" WIDTH="522" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 18 L0 18 L0 0 Z" copath="M0 0 L522 0 L522 18 L0 18 L0 0 Z" OnMasterPage="Latin left" gXpos="12376.001" gYpos="949417442912.769" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <var name="pgno" FONTSIZE="12"/>
                 <trail ALIGN="1"/>
             </StoryText>
         </MASTEROBJECT>
-        <MASTEROBJECT XPOS="154.001" YPOS="776.002" OwnPage="3" ItemID="271359595" PTYPE="4" WIDTH="522" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 18 L0 18 L0 0 Z" copath="M0 0 L522 0 L522 18 L0 18 L0 0 Z" OnMasterPage="Vocab right" gXpos="14927397418.001" gYpos="949386078899.095" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <MASTEROBJECT XPOS="154.001" YPOS="776.002" OwnPage="3" ItemID="271359595" PTYPE="4" WIDTH="522" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 18 L0 18 L0 0 Z" copath="M0 0 L522 0 L522 18 L0 18 L0 0 Z" OnMasterPage="Vocab right" gXpos="14931174070.001" gYpos="949416884642.172" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <var name="pgno" FONTSIZE="12"/>
@@ -2029,6 +2029,218 @@
                 <ITEXT CH="versus: turned; singular masculine nominative perfect passive participle from vertō, vertere, vertī, versus"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="vīvōs: those alive; plural masculine accusative from vīvus, vīva, vīvum"/>
+                <trail PARENT="Vocab"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="136.001" YPOS="9208.035" OwnPage="21" ItemID="264283499" PTYPE="4" WIDTH="522" HEIGHT="323.48092356688" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 323.481 L0 323.481 L0 0 Z" copath="M0 0 L522 0 L522 323.481 L0 323.481 L0 0 Z" gXpos="136.001" gYpos="9208.035" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="Pars 3: TODO"/>
+                <para PARENT="Latin"/>
+                <ITEXT CH="Secunda vērō pars intrāvit in Sclaviniae partēs, scīlicet comes dē Sānctō Egidīō Raimundus et Podiēnsis epīscopus. Tertia autem pars per antīquam Rōmae viam vēnit. In hāc parte fuērunt Boamundus, et Richardus dē Prīncipātū, Rotbertus comes Flandrēnsis, Rotbertus Nortmannus, Hugō Magnus, Eurardus dē Puisātiō, Achardus dē Monte Merloi, Isuardus dē Musōne, et aliī plūrēs. Deinde vēnērunt ad portum Brandosim aut Barim sīve Otrentum. Hugō dēnique Magnus et Willelmus Marchīsī fīlius intrāvērunt mare ad portum Bārī, et trānsfretantēs vēnērunt Durachium. Audiēns vērō dux"/>
+                <ITEXT FEATURES="inherit superscript" CH="1"/>
+                <ITEXT CH=" illīus locī hōs prūdentissimōs virōs illīc esse applicātōs, mox mala cōgitātiō"/>
+                <ITEXT FEATURES="inherit superscript" CH="2"/>
+                <ITEXT CH=" cor eius tetigit, illōsque apprehendit, ac iussit Cōnstantīnopolim imperātōrī cautē dūcī, quō eī fidēlitātem facerent."/>
+                <para PARENT="Latin"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="136.001" YPOS="9531.51592356688" OwnPage="21" ItemID="264942571" PTYPE="4" WIDTH="522" HEIGHT="77.9617834394921" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 77.9618 L0 77.9618 L0 0 Z" copath="M0 0 L522 0 L522 77.9618 L0 77.9618 L0 0 Z" gXpos="136.001" gYpos="9531.51592356688" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FEATURES="inherit superscript" CH="1"/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="And the leader of that place hearing these most prudent men to have landed."/>
+                <para PARENT="footnotes"/>
+                <ITEXT FEATURES="inherit superscript" CH="2"/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="Soon an evil thought touched his heart, and he apprehended them, and ordered them to be lead cautiously to the emperor in Constantinople, to whom they might swear (make) fidelity."/>
+                <trail PARENT="footnotes"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="766.001" YPOS="9208.035" OwnPage="22" ItemID="267549083" PTYPE="4" WIDTH="522" HEIGHT="720" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="2" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 720 L0 720 L0 0 Z" copath="M0 0 L522 0 L522 720 L0 720 L0 0 Z" gXpos="766.001" gYpos="9208.035" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="ac: and"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="Achardus: Achard, Castellan of Montmerie"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="ad: to, towards, at, according to"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="aliī: others; singular  dative from alius, alia, aliud"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="antīquam: ancient; singular feminine accusative from antīquus, antīqua -um, antīquior -or -us, antīquissimus -a -um"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="applico, applicare, applicavi, applicatus: connect, place near, bring into contact; land (ship); adapt; apply/devote to; infinitive"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="apprehendit: he seizes, he seized; 3rd person singular present active from apprehendō, apprehendere, apprehendī, apprehēnsus"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="audiēns: hearing; singular nominative present participle from audio, audire, audivi, auditus"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="aut: or"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="autem: but, however, moreover"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="bari: Bari, a large city on the eastern coast of Italy"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="Barim: Bari, a large city on the eastern coast of Italy (accusative case)"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="Boamundus: Bohemond"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="Brandosim: Brindisi, a city on the eastern coast of Italy"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="cautē: cautiously"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="cōgitātiō: thought; singular feminine nominative from cōgitātiō, cōgitātiōnis"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="comes: comrade; singular common nominative from comes, comitis"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="cōnstantīnopolim: Constantinople; singular feminine accusative from Constantinopolis, Constantinopolis"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="cor: heart; singular neuter nominative from cor, cordis"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="dē: of, from, away from, down from"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="deinde: after"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="dēnique: finally"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="dūcī: to be lead;  person  present passive from dūcō, dūcere, dūxī, ductus"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="Durachium: Durrës, a large city on the western coast of Albania"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="dux: leader; singular masculine nominative from dux, ducis"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="Egidīō: Raimundus comes dē Sānctō Egidīō = Raymond of Saint-Gilles"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="eī: to him, her, or it; singular dative from is, ea, id"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="eius: his/her/its"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="episcopus: overseer, bishop; singular masculine nominative from episcopus, episcopī"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="esse: to be"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="et: and"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="Eurardus: Everard III of Le Puiset"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="facerent: they did; 3rd person plural imperfect active subjunctive from faciō, facere, fēcī, factus"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="fidēlitātem: faithfulness, fidelity; singular feminine accusative from fidēlitās, fidēlitātis"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="fīlius: son; singular masculine nominative from fīlius, fīlī"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="flandrensis: Flemish; from Flanders; singular common nominative from flandrensis, flandrensis, flandrense"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="fuērunt: they were; 3rd person plural perfect active from sum, esse, fuī, futūrus"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="hāc: this; singular feminine ablative of hic, haec, hoc"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="hōs: these; plural masculine accusative from hic, haec, hoc"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="illīc: there"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="illīus: of that; singular genitive from ille, illa, illud"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="illōs: that; plural masculine accusative from ille, illa, illud"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="imperātōrī: commander; singular masculine  from imperātor, imperātōris"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="in: into (with accusative), in (with ablative)"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="intrāvērunt: they entered; 3rd person plural perfect active from intrō, intrāre, intrāvī, intrātus"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="intrāvit: he entered; 3rd person singular perfect active from intrō, intrāre, intrāvī, intrātus"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="Isuardus: Isoard"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="iussit: he commanded; infinitive"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="locī: place; singular masculine genitive from locus, locī"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="māgnus: large; singular masculine nominative from māgnus, māgna -um, major -or -us, maximus -a -um"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="mala: evil, bad"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="Marchīsī: of the Marquis"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="mare: sea; singular neuter nominative from mare, maris"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="Merloi: Achardus dē Monte Merloi = Achard of Montmerle"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="monte: mountain; singular masculine  from mōns, montis"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="mox: soon"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="Musōne: Mousson"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="Nortmannus: Norman"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="Otrentum: Otranto, a city on the eastern coast of Italy"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="pars: part; singular feminine nominative from pars, partis"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="parte: part; singular masculine vocative perfect passive participle from pariō, parere, peperī, partus"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="partēs: parts; plural feminine nominative from pars, partis"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="per: through"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="plūrēs: more; plural common nominative from plus, (gen.), pluris"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="Podiēnsis: of Le Puy Cathedral, in Auvergne, France"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="portum: harbor, port; singular masculine accusative from portus, portūs"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="prīncipātū: sovereignty, empire; singular neuter ablative from principor, principari, principatus sum"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="prūdentissimōs: very prudent, competent; plural masculine accusative from prūdēns, prūdentis (gen.), prūdentior -or -us, prūdentissimus -a -um"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="Puisātiō: Eurardus dē Puisātiō = Everard III of Le Puiset"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="quō: what; singular ablative of quis"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="Raimundus: Raymond"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="rōmae: Rome; singular feminine genitive from Rōma, Rōmae"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="Rotbertus: Robert"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="sānctō: holy"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="scīlicet: obviously"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="Sclaviniae: Slavinia"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="secunda: second; singular feminine nominative from duo -ae o, secundus -a -um, bīnī -ae -a, bis"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="sīve: or, what if"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="tertia: third; singular feminine nominative from trēs -es -ia, tertius -a -um, terni -ae -a, ter"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="tetigit: he touched; 3rd person singular perfect active from tangō, tangere, tetigī, tāctus"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="trānsfretantēs: passing over, ferrying; plural common nominative present participle from trānsfretō, trānsfretāre, trānsfretāvī, trānsfretātus"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="UNKNOWN: {:word &quot;Hugo&quot;, :part-of-speech :unknown}"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="UNKNOWN: {:word &quot;Richardus&quot;, :part-of-speech :unknown}"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="UNKNOWN: {:word &quot;Willelmus&quot;, :part-of-speech :unknown}"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="vēnērunt: they came; 3rd person plural perfect active from veniō, venīre, vēnī, ventus"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="vēnit: he came; 3rd person singular present active from veniō, venīre, vēnī, ventus"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="vērō: truly, even so, still"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="viam: road; singular feminine accusative from via, viae"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="virōs: men; plural masculine accusative from vir, virī"/>
+                <para PARENT="Vocab"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="(Hugo Richardus Willelmus applico, applicare, applicavi, applicatus)"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="4"/>
                 <trail PARENT="Vocab"/>
             </StoryText>
         </PAGEOBJECT>
