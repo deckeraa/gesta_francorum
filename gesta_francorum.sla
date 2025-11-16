@@ -161,14 +161,14 @@
         <PAGE PAGEXPOS="712.001" PAGEYPOS="15828.059" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="38" NAM="" MNAM="Vocab right" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
         <PAGE PAGEXPOS="100.001" PAGEYPOS="16660.062" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="39" NAM="" MNAM="Latin left" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
         <PAGE PAGEXPOS="712.001" PAGEYPOS="16660.062" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="40" NAM="" MNAM="Vocab right" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
-        <MASTEROBJECT XPOS="136.001" YPOS="776.002" OwnPage="2" ItemID="1320289448" PTYPE="4" WIDTH="522" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 18 L0 18 L0 0 Z" copath="M0 0 L522 0 L522 18 L0 18 L0 0 Z" OnMasterPage="Latin left" gXpos="12376.001" gYpos="950476999565.099" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <MASTEROBJECT XPOS="136.001" YPOS="776.002" OwnPage="2" ItemID="1320289448" PTYPE="4" WIDTH="522" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 18 L0 18 L0 0 Z" copath="M0 0 L522 0 L522 18 L0 18 L0 0 Z" OnMasterPage="Latin left" gXpos="12376.001" gYpos="950633723970.213" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <var name="pgno" FONTSIZE="12"/>
                 <trail ALIGN="1"/>
             </StoryText>
         </MASTEROBJECT>
-        <MASTEROBJECT XPOS="154.001" YPOS="776.002" OwnPage="3" ItemID="1320319960" PTYPE="4" WIDTH="522" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 18 L0 18 L0 0 Z" copath="M0 0 L522 0 L522 18 L0 18 L0 0 Z" OnMasterPage="Vocab right" gXpos="15019439158.001" gYpos="950476441294.502" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <MASTEROBJECT XPOS="154.001" YPOS="776.002" OwnPage="3" ItemID="1320319960" PTYPE="4" WIDTH="522" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 18 L0 18 L0 0 Z" copath="M0 0 L522 0 L522 18 L0 18 L0 0 Z" OnMasterPage="Vocab right" gXpos="15030418438.001" gYpos="950633165699.616" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <var name="pgno" FONTSIZE="12"/>
@@ -3707,6 +3707,178 @@
                 <ITEXT CH="vocant: they call; 3rd person plural present active from vocō, vocāre, vocāvī, vocātus"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="voluērunt: they wanted; 3rd person plural perfect active from volō, velle, voluī, -"/>
+                <trail PARENT="Vocab"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="136.001" YPOS="15864.059" OwnPage="37" ItemID="1390468264" PTYPE="4" WIDTH="522" HEIGHT="231.380490445858" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 231.38 L0 231.38 L0 0 Z" copath="M0 0 L522 0 L522 231.38 L0 231.38 L0 0 Z" gXpos="136.001" gYpos="15864.059" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="Deinde vēnimus ad quamdam urbem quae dīcitur Serra, ubi nostra fīximus tentōria, et sat1 habuimus mercātum, illīs diēbus conveniēns. Ibique doctus Boamundus optimē concordātus est cum duōbus corpalatīīs, et prō amīcitiā eōrum ac prō iūstitiā terrae iussit reddī"/>
+                <ITEXT FEATURES="inherit superscript" CH="2"/>
+                <ITEXT CH=" omnia animālia quae nostrī depredāta tenēbant; et Corpalātius illī prōmīserat missōs retrō mandāre et hominibus illīs animālia per ōrdinem reddī. Deinde pervēnimus ad Rūsam cīvitātem. Graecōrum autem gēns exībat et veniēbat gaudēns in occursum dominī Boamundī, nōbīs dēferēns maximum mercātum, ibique nostrōs tetendimus pāpiliōnēs in quārtā fēriā ante Cēnam Dominī;"/>
+                <trail PARENT="Latin"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="136.001" YPOS="16095.4394904459" OwnPage="37" ItemID="1441548008" PTYPE="4" WIDTH="522" HEIGHT="93.0955414012715" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 93.0955 L0 93.0955 L0 0 Z" copath="M0 0 L522 0 L522 93.0955 L0 93.0955 L0 0 Z" gXpos="136.001" gYpos="16095.4394904459" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="1We had a sufficient market (for purchasing food and other necessities), befitting those days (that were spent camped outside Serres). Serres is about 330 miles from Constantinople."/>
+                <para PARENT="footnotes"/>
+                <ITEXT CH="2He (Bohemond) ordered to be returned all the animals which, having been plundered, we were holding; and the palace minister had promised to him to command (messengers) to be sent back and the animals to be returned to those people though the route (that the crusaders had taken)."/>
+                <trail PARENT="footnotes"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="766.001" YPOS="15864.059" OwnPage="38" ItemID="1315345432" PTYPE="4" WIDTH="522" HEIGHT="720" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="2" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 720 L0 720 L0 0 Z" copath="M0 0 L522 0 L522 720 L0 720 L0 0 Z" gXpos="766.001" gYpos="15864.059" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="ac: and"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="ad: to, towards, at, according to"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="amīcitia: friendship; singular feminine nominative from amīcitia, amīcitiae"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="animālia: animals; plural neuter nominative from animal, animālis"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="ante: before, in front, forwards"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="autem: but, however, moreover"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="Boamundī: of Bohemond"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="Boamundus: Bohemond"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="cēnam: dinner; singular feminine accusative from cēna, cēnae"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="cīvitātem: civilization; singular feminine accusative from cīvitās, cīvitātis"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="concordātus: having been agreed; singular masculine nominative perfect passive participle from "/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="conveniēns: meeting, coming together; singular nominative present participle from conveniō, convenīre, convēnī, conventus"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="cor: heart; singular neuter nominative from cor, cordis"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="Cōrpalātius: palace minister (cūrpalātius, nominative case)"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="cum: with"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="dam: from qu PACK [XXXBX]{:word &quot;dam&quot;, :part-of-speech :tackon, :dictionary-entry &quot;qu PACK [XXXBX]&quot;, :definition &quot;(w/-dam) certain; as INDEF a certain thing; somebody, one, something;&quot;}"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="dēferēns: transferring; singular nominative present participle from dēferō, dēferre, dētulī, dēlātus"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="deinde: after"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="dēpraedāta: having been plundered; singular feminine nominative perfect passive participle from depraedo, depraedare, depraedavi, depraedatus"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="dīcitur: it is said; 3rd person singular present passive from dīcō, dīcere, dīxī, dictus"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="diēbus: days; plural common dative from diēs, diēī"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="doctus: learned, knowledgeable; singular masculine nominative perfect passive participle from doceō, docēre, docuī, doctus"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="dominī: of the lord; singular masculine genitive from dominus, dominī"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="duōbus: two; plural masculine dative from duo -ae o, secundus -a -um, bīnī -ae -a, bis"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="eōrum: their; plural masc. or neuter. genitive"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="et: and"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="exībat: he was going out; 3rd person singular imperfect active from exeō, exīre, exivī(iī), exitus"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="fēria: festival, holiday; singular feminine nominative from fēria, fēriae"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="fīximus: we fixed; 1st person plural perfect active from fīgō, fīgere, fīxī, fīxus"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="gaudēns: rejoicing; singular nominative present participle from gaudeō, gaudēre, gavīsus sum"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="gēns: people, clan, nation; singular feminine nominative from gēns, gentis"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="graecōrum: of the Greeks; plural masculine genitive from Graecus, Graecī"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="habuimus: we had; 1st person plural perfect active from habeō, habēre, habuī, habitus"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="hominibus: persons, men; plural masculine  from homō, hominis"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="ibī: there, then"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="illī: that; singular dative or plural masculine nominative from ille, illa, illud"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="illīs: those; plural dative or ablative from ille, illa, illud"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="in: into (with accusative), in (with ablative)"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="iussit: he commanded; infinitive"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="iūstitia: justice, fairness; singular feminine nominative from justitia, justitiae"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="mandāre: to entrust;  person  present active from mandō, mandāre, mandāvī, mandātus"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="maximum: biggest; singular neuter nominative from māgnus, māgna -um, major -or -us, maximus -a -um"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="mercātum: trade, market, fair; singular neuter nominative perfect participle from mercat.um"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="missōs: having been sent; plural masculine accusative perfect passive participle from mittō, mittere, mīsī, missus"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="nōbīs: us; singular dative or ablative from ego"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="nostra: our; singular feminine nominative from noster, nostra, nostrum"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="nostrī: our; sing. masc. gen. or pl. masc. nom. or sing. neut. gen. of noster"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="nostrōs: our"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="occursum: meeting; singular neuter nominative perfect passive participle from occurs.um"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="omnia: all, every; plural neuter nominative from omnis, omnis, omne"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="optime: very, rightly, best"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="ōrdinem: order; singular masculine accusative from ōrdō, ōrdinis"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="pāpiliōnēs: tents; plural masculine nominative from pāpiliō, pāpiliōnis"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="per: through"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="pervenīmus: we arrived; 1st person plural present active from perveniō, pervenīre, pervēnī, perventus"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="prō: for, in favor of, before, in place of"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="prōmīserat: he had promised; 3rd person singular pluperfect active from prōmittō, prōmittere, prōmīsī, prōmissus"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="quae: who; plural female nom. or neuter nom. or acc. of quis"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="quarta: fourth; singular feminine nominative from quattuor, quartus -a -um, quaterni -ae -a, -"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="reddī: to be returned;  person  present passive from reddō, reddere, reddidī, redditus"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="retrō: behind, backwards"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="Rusam: Ρούσιον, modern-day Keşan, Turkey, which lies about 140 miles from Constantinople"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="sat: enough"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="serra: saw; singular feminine nominative from serra, serrae"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="tenēbant: they were holding; 3rd person plural imperfect active from teneō, tenēre, tenuī, tentus"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="tentōria: tents; plural neuter nominative from tentorium, tentori(i)"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="terrae: land; singular feminine genitive from terra, terrae"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="tetendimus: we stretched out, extended; 1st person plural perfect active from tendo, tendere, tetendi, tensus"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="ubī: where, when if"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="urbem: city; singular feminine accusative from urbs, urbis"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="veniēbat: he was coming; 3rd person singular imperfect active from veniō, venīre, vēnī, ventus"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="venīmus: we come, we came; 1st person plural present active from veniō, venīre, vēnī, ventus"/>
+                <para PARENT="Vocab"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="(dam serra)"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="2"/>
                 <trail PARENT="Vocab"/>
             </StoryText>
         </PAGEOBJECT>
