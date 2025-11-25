@@ -105,16 +105,16 @@
             <Section Number="0" Name="Section 1" From="0" To="60" Type="Type_1_2_3" Start="1" Reversed="0" Active="1" FillChar="0" FieldWidth="0"/>
         </Sections>
         <Pattern Name="Arrow1Lend (2)" width="14.8" height="8.80000000000291" scaleX="1" scaleY="1" xoffset="0" yoffset="0">
-            <PatternItem XPOS="0.4" YPOS="0.4" OwnPage="-1" ItemID="188387103" PTYPE="6" WIDTH="14" HEIGHT="8" FRTYPE="3" CLIPEDIT="1" PWIDTH="0.8" PCOLOR="FromSVG#000000" PCOLOR2="FromSVG#000000" PLINEART="1" ANNAME=" path55955" TEXTFLOWMODE="1" path="M4 4 L0 8 L14 4 L0 0 L4 4 Z" copath="M4 4 L0 8 L14 4 L0 0 L4 4 Z" gXpos="0.4" gYpos="0.4" gWidth="14.8" gHeight="8.8" LAYER="0"/>
-        </Pattern>
-        <Pattern Name="Arrow1Lend (4)" width="14.8" height="8.80000000000291" scaleX="1" scaleY="1" xoffset="0" yoffset="0">
-            <PatternItem XPOS="0.4" YPOS="0.4" OwnPage="-1" ItemID="190518943" PTYPE="6" WIDTH="14" HEIGHT="8" FRTYPE="3" CLIPEDIT="1" PWIDTH="0.8" PCOLOR="FromSVG#000000" PCOLOR2="FromSVG#000000" PLINEART="1" ANNAME=" path55955" TEXTFLOWMODE="1" path="M4 4 L0 8 L14 4 L0 0 L4 4 Z" copath="M4 4 L0 8 L14 4 L0 0 L4 4 Z" gXpos="0.4" gYpos="0.4" gWidth="14.8" gHeight="8.8" LAYER="0"/>
-        </Pattern>
-        <Pattern Name="Arrow1Lend (3)" width="14.8" height="8.80000000000291" scaleX="1" scaleY="1" xoffset="0" yoffset="0">
-            <PatternItem XPOS="0.4" YPOS="0.4" OwnPage="-1" ItemID="188199871" PTYPE="6" WIDTH="14" HEIGHT="8" FRTYPE="3" CLIPEDIT="1" PWIDTH="0.8" PCOLOR="FromSVG#000000" PCOLOR2="FromSVG#000000" PLINEART="1" ANNAME=" path55955" TEXTFLOWMODE="1" path="M4 4 L0 8 L14 4 L0 0 L4 4 Z" copath="M4 4 L0 8 L14 4 L0 0 L4 4 Z" gXpos="0.4" gYpos="0.4" gWidth="14.8" gHeight="8.8" LAYER="0"/>
+            <PatternItem XPOS="0.4" YPOS="0.4" OwnPage="-1" ItemID="84734250" PTYPE="6" WIDTH="14" HEIGHT="8" FRTYPE="3" CLIPEDIT="1" PWIDTH="0.8" PCOLOR="FromSVG#000000" PCOLOR2="FromSVG#000000" PLINEART="1" ANNAME=" path55955" TEXTFLOWMODE="1" path="M4 4 L0 8 L14 4 L0 0 L4 4 Z" copath="M4 4 L0 8 L14 4 L0 0 L4 4 Z" gXpos="0.4" gYpos="0.4" gWidth="14.8" gHeight="8.8" LAYER="0"/>
         </Pattern>
         <Pattern Name="Arrow1Lend" width="14.8" height="8.80000000000291" scaleX="1" scaleY="1" xoffset="0" yoffset="0">
-            <PatternItem XPOS="0.4" YPOS="0.4" OwnPage="-1" ItemID="1992887070" PTYPE="6" WIDTH="14" HEIGHT="8" FRTYPE="3" CLIPEDIT="1" PWIDTH="0.8" PCOLOR="FromSVG#000000" PCOLOR2="FromSVG#000000" PLINEART="1" ANNAME=" path55955" TEXTFLOWMODE="1" path="M4 4 L0 8 L14 4 L0 0 L4 4 Z" copath="M4 4 L0 8 L14 4 L0 0 L4 4 Z" gXpos="0.4" gYpos="0.4" gWidth="14.8" gHeight="8.8" LAYER="0"/>
+            <PatternItem XPOS="0.4" YPOS="0.4" OwnPage="-1" ItemID="84727434" PTYPE="6" WIDTH="14" HEIGHT="8" FRTYPE="3" CLIPEDIT="1" PWIDTH="0.8" PCOLOR="FromSVG#000000" PCOLOR2="FromSVG#000000" PLINEART="1" ANNAME=" path55955" TEXTFLOWMODE="1" path="M4 4 L0 8 L14 4 L0 0 L4 4 Z" copath="M4 4 L0 8 L14 4 L0 0 L4 4 Z" gXpos="0.4" gYpos="0.4" gWidth="14.8" gHeight="8.8" LAYER="0"/>
+        </Pattern>
+        <Pattern Name="Arrow1Lend (4)" width="14.8" height="8.80000000000291" scaleX="1" scaleY="1" xoffset="0" yoffset="0">
+            <PatternItem XPOS="0.4" YPOS="0.4" OwnPage="-1" ItemID="84635658" PTYPE="6" WIDTH="14" HEIGHT="8" FRTYPE="3" CLIPEDIT="1" PWIDTH="0.8" PCOLOR="FromSVG#000000" PCOLOR2="FromSVG#000000" PLINEART="1" ANNAME=" path55955" TEXTFLOWMODE="1" path="M4 4 L0 8 L14 4 L0 0 L4 4 Z" copath="M4 4 L0 8 L14 4 L0 0 L4 4 Z" gXpos="0.4" gYpos="0.4" gWidth="14.8" gHeight="8.8" LAYER="0"/>
+        </Pattern>
+        <Pattern Name="Arrow1Lend (3)" width="14.8" height="8.80000000000291" scaleX="1" scaleY="1" xoffset="0" yoffset="0">
+            <PatternItem XPOS="0.4" YPOS="0.4" OwnPage="-1" ItemID="84618154" PTYPE="6" WIDTH="14" HEIGHT="8" FRTYPE="3" CLIPEDIT="1" PWIDTH="0.8" PCOLOR="FromSVG#000000" PCOLOR2="FromSVG#000000" PLINEART="1" ANNAME=" path55955" TEXTFLOWMODE="1" path="M4 4 L0 8 L14 4 L0 0 L4 4 Z" copath="M4 4 L0 8 L14 4 L0 0 L4 4 Z" gXpos="0.4" gYpos="0.4" gWidth="14.8" gHeight="8.8" LAYER="0"/>
         </Pattern>
         <MASTERPAGE PAGEXPOS="100.001" PAGEYPOS="20.002" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="0" NAM="Normal Left" MNAM="" Size="Letter" Orientation="0" LEFT="1" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
         <MASTERPAGE PAGEXPOS="100.001" PAGEYPOS="20.002" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="1" NAM="Normal Right" MNAM="" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
@@ -181,21 +181,21 @@
         <PAGE PAGEXPOS="712.001" PAGEYPOS="24148.089" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="58" NAM="" MNAM="Vocab right" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
         <PAGE PAGEXPOS="100.001" PAGEYPOS="24980.092" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="59" NAM="" MNAM="Latin left" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
         <PAGE PAGEXPOS="712.001" PAGEYPOS="24980.092" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="60" NAM="" MNAM="Vocab right" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
-        <MASTEROBJECT XPOS="136.001" YPOS="776.002" OwnPage="2" ItemID="191708255" PTYPE="4" WIDTH="522" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 18 L0 18 L0 0 Z" copath="M0 0 L522 0 L522 18 L0 18 L0 0 Z" OnMasterPage="Latin left" gXpos="12376.001" gYpos="954307159487.786" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <MASTEROBJECT XPOS="136.001" YPOS="776.002" OwnPage="2" ItemID="87108730" PTYPE="4" WIDTH="522" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 18 L0 18 L0 0 Z" copath="M0 0 L522 0 L522 18 L0 18 L0 0 Z" OnMasterPage="Latin left" gXpos="12376.001" gYpos="954509498457.381" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <var name="pgno" FONTSIZE="12"/>
                 <trail ALIGN="1"/>
             </StoryText>
         </MASTEROBJECT>
-        <MASTEROBJECT XPOS="154.001" YPOS="776.002" OwnPage="3" ItemID="691791871" PTYPE="4" WIDTH="522" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 18 L0 18 L0 0 Z" copath="M0 0 L522 0 L522 18 L0 18 L0 0 Z" OnMasterPage="Vocab right" gXpos="15231396178.001" gYpos="954306601217.188" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <MASTEROBJECT XPOS="154.001" YPOS="776.002" OwnPage="3" ItemID="84714266" PTYPE="4" WIDTH="522" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 18 L0 18 L0 0 Z" copath="M0 0 L522 0 L522 18 L0 18 L0 0 Z" OnMasterPage="Vocab right" gXpos="15240998458.001" gYpos="954508940186.783" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <var name="pgno" FONTSIZE="12"/>
                 <trail ALIGN="1"/>
             </StoryText>
         </MASTEROBJECT>
-        <PAGEOBJECT XPOS="136.001" YPOS="2552.011" OwnPage="5" ItemID="693174207" PTYPE="4" WIDTH="522" HEIGHT="390.817025477707" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 390.817 L0 390.817 L0 0 Z" copath="M0 0 L522 0 L522 390.817 L0 390.817 L0 0 Z" gXpos="136.001" gYpos="2552.011" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT XPOS="136.001" YPOS="2552.011" OwnPage="5" ItemID="84691050" PTYPE="4" WIDTH="522" HEIGHT="390.817025477707" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 390.817 L0 390.817 L0 0 Z" copath="M0 0 L522 0 L522 390.817 L0 390.817 L0 0 Z" gXpos="136.001" gYpos="2552.011" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <para PARENT="Chapter Heading"/>
@@ -222,7 +222,7 @@
                 <para PARENT="Latin"/>
             </StoryText>
         </PAGEOBJECT>
-        <PAGEOBJECT XPOS="136.001" YPOS="2942.82802547771" OwnPage="5" ItemID="191873039" PTYPE="4" WIDTH="522" HEIGHT="236.427121019113" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 236.427 L0 236.427 L0 0 Z" copath="M0 0 L522 0 L522 236.427 L0 236.427 L0 0 Z" gXpos="136.001" gYpos="2942.82802547771" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT XPOS="136.001" YPOS="2942.82802547771" OwnPage="5" ItemID="87187210" PTYPE="4" WIDTH="522" HEIGHT="236.427121019113" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 236.427 L0 236.427 L0 0 Z" copath="M0 0 L522 0 L522 236.427 L0 236.427 L0 0 Z" gXpos="136.001" gYpos="2942.82802547771" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <ITEXT FEATURES="inherit superscript" CH="1"/>
@@ -261,7 +261,7 @@
                 <trail PARENT="footnotes"/>
             </StoryText>
         </PAGEOBJECT>
-        <PAGEOBJECT XPOS="766.001" YPOS="2552.011" OwnPage="6" ItemID="191729135" PTYPE="4" WIDTH="522" HEIGHT="720" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="2" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 720 L0 720 L0 0 Z" copath="M0 0 L522 0 L522 720 L0 720 L0 0 Z" gXpos="766.001" gYpos="2552.011" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT XPOS="766.001" YPOS="2552.011" OwnPage="6" ItemID="87178474" PTYPE="4" WIDTH="522" HEIGHT="720" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="2" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 720 L0 720 L0 0 Z" copath="M0 0 L522 0 L522 720 L0 720 L0 0 Z" gXpos="766.001" gYpos="2552.011" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <ITEXT CH="abbātibus: abbots; plural masculine ablative from abbās, abbātis"/>
@@ -300,7 +300,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="cum: with"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="daret: it may give; 3rd person singular imperfect active subjunctive from do, dare, dedi, datus"/>
+                <ITEXT CH="daret: it may give; 3rd person singular imperfect active subjunctive from dō, dare, dedī, datus"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="dēesset: it may lack; 3rd person singular imperfect active subjunctive from dēsum, dēesse, dēfuī, dēfutūrus"/>
                 <para PARENT="Vocab"/>
@@ -448,7 +448,7 @@
                 <trail PARENT="Vocab"/>
             </StoryText>
         </PAGEOBJECT>
-        <PAGEOBJECT XPOS="136.001" YPOS="3384.014" OwnPage="7" ItemID="695242047" PTYPE="4" WIDTH="522" HEIGHT="262.361426751592" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 262.361 L0 262.361 L0 0 Z" copath="M0 0 L522 0 L522 262.361 L0 262.361 L0 0 Z" gXpos="136.001" gYpos="3384.014" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT XPOS="136.001" YPOS="3384.014" OwnPage="7" ItemID="87782266" PTYPE="4" WIDTH="522" HEIGHT="262.361426751592" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 262.361 L0 262.361 L0 0 Z" copath="M0 0 L522 0 L522 262.361 L0 262.361 L0 0 Z" gXpos="136.001" gYpos="3384.014" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <ITEXT CH="Ait namque domnus"/>
@@ -467,7 +467,7 @@
                 <para PARENT="Latin"/>
             </StoryText>
         </PAGEOBJECT>
-        <PAGEOBJECT XPOS="136.001" YPOS="3646.37542675159" OwnPage="7" ItemID="695035183" PTYPE="4" WIDTH="522" HEIGHT="181.299363057327" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 181.299 L0 181.299 L0 0 Z" copath="M0 0 L522 0 L522 181.299 L0 181.299 L0 0 Z" gXpos="136.001" gYpos="3646.37542675159" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT XPOS="136.001" YPOS="3646.37542675159" OwnPage="7" ItemID="88553834" PTYPE="4" WIDTH="522" HEIGHT="181.299363057327" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 181.299 L0 181.299 L0 0 Z" copath="M0 0 L522 0 L522 181.299 L0 181.299 L0 0 Z" gXpos="136.001" gYpos="3646.37542675159" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <ITEXT FEATURES="inherit superscript" CH="1"/>
@@ -497,7 +497,7 @@
                 <trail PARENT="footnotes"/>
             </StoryText>
         </PAGEOBJECT>
-        <PAGEOBJECT XPOS="766.001" YPOS="3384.014" OwnPage="8" ItemID="694663039" PTYPE="4" WIDTH="522" HEIGHT="720" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="2" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 720 L0 720 L0 0 Z" copath="M0 0 L522 0 L522 720 L0 720 L0 0 Z" gXpos="766.001" gYpos="3384.014" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT XPOS="766.001" YPOS="3384.014" OwnPage="8" ItemID="92280154" PTYPE="4" WIDTH="522" HEIGHT="720" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="2" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 720 L0 720 L0 0 Z" copath="M0 0 L522 0 L522 720 L0 720 L0 0 Z" gXpos="766.001" gYpos="3384.014" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <ITEXT CH="ac: and"/>
@@ -522,7 +522,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="cum: with"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="dabō: I will give; 1st person singular future active from do, dare, dedi, datus"/>
+                <ITEXT CH="dabō: I will give; 1st person singular future active from dō, dare, dedī, datus"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="dē: of, from, away from, down from"/>
                 <para PARENT="Vocab"/>
@@ -666,7 +666,7 @@
                 <trail PARENT="Vocab"/>
             </StoryText>
         </PAGEOBJECT>
-        <PAGEOBJECT XPOS="136.001" YPOS="4216.017" OwnPage="9" ItemID="705049167" PTYPE="4" WIDTH="522" HEIGHT="286.409382165605" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 286.409 L0 286.409 L0 0 Z" copath="M0 0 L522 0 L522 286.409 L0 286.409 L0 0 Z" gXpos="136.001" gYpos="4216.017" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT XPOS="136.001" YPOS="4216.017" OwnPage="9" ItemID="96496186" PTYPE="4" WIDTH="522" HEIGHT="286.409382165605" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 286.409 L0 286.409 L0 0 Z" copath="M0 0 L522 0 L522 286.409 L0 286.409 L0 0 Z" gXpos="136.001" gYpos="4216.017" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <ITEXT CH="Fēcērunt dēnique Gallī trēs partēs"/>
@@ -681,7 +681,7 @@
                 <para PARENT="Latin"/>
             </StoryText>
         </PAGEOBJECT>
-        <PAGEOBJECT XPOS="136.001" YPOS="4502.42638216561" OwnPage="9" ItemID="702192607" PTYPE="4" WIDTH="522" HEIGHT="118.59061783439" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 118.591 L0 118.591 L0 0 Z" copath="M0 0 L522 0 L522 118.591 L0 118.591 L0 0 Z" gXpos="136.001" gYpos="4502.42638216561" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT XPOS="136.001" YPOS="4502.42638216561" OwnPage="9" ItemID="93484122" PTYPE="4" WIDTH="522" HEIGHT="118.59061783439" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 118.591 L0 118.591 L0 0 Z" copath="M0 0 L522 0 L522 118.591 L0 118.591 L0 0 Z" gXpos="136.001" gYpos="4502.42638216561" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <ITEXT FEATURES="inherit superscript" CH="1"/>
@@ -698,7 +698,7 @@
                 <trail PARENT="footnotes"/>
             </StoryText>
         </PAGEOBJECT>
-        <PAGEOBJECT XPOS="766.001" YPOS="4216.017" OwnPage="10" ItemID="705253311" PTYPE="4" WIDTH="522" HEIGHT="720" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="2" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 720 L0 720 L0 0 Z" copath="M0 0 L522 0 L522 720 L0 720 L0 0 Z" gXpos="766.001" gYpos="4216.017" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT XPOS="766.001" YPOS="4216.017" OwnPage="10" ItemID="96595018" PTYPE="4" WIDTH="522" HEIGHT="720" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="2" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 720 L0 720 L0 0 Z" copath="M0 0 L522 0 L522 720 L0 720 L0 0 Z" gXpos="766.001" gYpos="4216.017" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <ITEXT CH="Alamannōrum: Of the Alamanni, a confederation of Germanic tribes"/>
@@ -879,7 +879,7 @@
                 <trail PARENT="Vocab"/>
             </StoryText>
         </PAGEOBJECT>
-        <PAGEOBJECT XPOS="136.001" YPOS="5048.02" OwnPage="11" ItemID="705557615" PTYPE="4" WIDTH="522" HEIGHT="324.521031847134" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 324.521 L0 324.521 L0 0 Z" copath="M0 0 L522 0 L522 324.521 L0 324.521 L0 0 Z" gXpos="136.001" gYpos="5048.02" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT XPOS="136.001" YPOS="5048.02" OwnPage="11" ItemID="96995434" PTYPE="4" WIDTH="522" HEIGHT="324.521031847134" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 324.521 L0 324.521 L0 0 Z" copath="M0 0 L522 0 L522 324.521 L0 324.521 L0 0 Z" gXpos="136.001" gYpos="5048.02" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <ITEXT CH="Ipsīque Chrīstiānī nēquiter dēdūcēbant"/>
@@ -898,7 +898,7 @@
                 <para PARENT="Latin"/>
             </StoryText>
         </PAGEOBJECT>
-        <PAGEOBJECT XPOS="136.001" YPOS="5372.54103184713" OwnPage="11" ItemID="705943359" PTYPE="4" WIDTH="522" HEIGHT="79.4904458598767" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 79.4904 L0 79.4904 L0 0 Z" copath="M0 0 L522 0 L522 79.4904 L0 79.4904 L0 0 Z" gXpos="136.001" gYpos="5372.54103184713" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT XPOS="136.001" YPOS="5372.54103184713" OwnPage="11" ItemID="97486122" PTYPE="4" WIDTH="522" HEIGHT="79.4904458598767" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 79.4904 L0 79.4904 L0 0 Z" copath="M0 0 L522 0 L522 79.4904 L0 79.4904 L0 0 Z" gXpos="136.001" gYpos="5372.54103184713" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <ITEXT FEATURES="inherit superscript" CH="1"/>
@@ -925,7 +925,7 @@
                 <trail PARENT="footnotes"/>
             </StoryText>
         </PAGEOBJECT>
-        <PAGEOBJECT XPOS="766.001" YPOS="5048.02" OwnPage="12" ItemID="709264527" PTYPE="4" WIDTH="522" HEIGHT="720" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="2" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 720 L0 720 L0 0 Z" copath="M0 0 L522 0 L522 720 L0 720 L0 0 Z" gXpos="766.001" gYpos="5048.02" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT XPOS="766.001" YPOS="5048.02" OwnPage="12" ItemID="101048010" PTYPE="4" WIDTH="522" HEIGHT="720" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="2" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 720 L0 720 L0 0 Z" copath="M0 0 L522 0 L522 720 L0 720 L0 0 Z" gXpos="766.001" gYpos="5048.02" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <ITEXT CH="ā: from, out of, by, since"/>
@@ -1100,7 +1100,7 @@
                 <trail PARENT="Vocab"/>
             </StoryText>
         </PAGEOBJECT>
-        <PAGEOBJECT XPOS="766.001" YPOS="131.15963566879" OwnPage="0" ItemID="709601615" PTYPE="4" WIDTH="522" HEIGHT="369.171974522293" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 369.172 L0 369.172 L0 0 Z" copath="M0 0 L522 0 L522 369.172 L0 369.172 L0 0 Z" gXpos="766.0006" gYpos="131.15883566879" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT XPOS="766.001" YPOS="131.15963566879" OwnPage="0" ItemID="101331738" PTYPE="4" WIDTH="522" HEIGHT="369.171974522293" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 369.172 L0 369.172 L0 0 Z" copath="M0 0 L522 0 L522 369.172 L0 369.172 L0 0 Z" gXpos="766.0006" gYpos="131.15883566879" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <para PARENT="Chapter Heading"/>
@@ -1128,7 +1128,7 @@
                 <trail ALIGN="1"/>
             </StoryText>
         </PAGEOBJECT>
-        <PAGEOBJECT XPOS="136.001" YPOS="1010.75179235669" OwnPage="1" ItemID="709815551" PTYPE="4" WIDTH="522" HEIGHT="238.104458598724" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 238.104 L0 238.104 L0 0 Z" copath="M0 0 L522 0 L522 238.104 L0 238.104 L0 0 Z" gXpos="136.0006" gYpos="1010.75139235669" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT XPOS="136.001" YPOS="1010.75179235669" OwnPage="1" ItemID="101643754" PTYPE="4" WIDTH="522" HEIGHT="238.104458598724" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 238.104 L0 238.104 L0 0 Z" copath="M0 0 L522 0 L522 238.104 L0 238.104 L0 0 Z" gXpos="136.0006" gYpos="1010.75139235669" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <ITEXT FONT="DejaVu Serif Italic" CH="Hic liber est dēdicātus "/>
@@ -1146,7 +1146,7 @@
                 <trail/>
             </StoryText>
         </PAGEOBJECT>
-        <PAGEOBJECT XPOS="766.001" YPOS="888.005" OwnPage="2" ItemID="713026879" PTYPE="4" WIDTH="522" HEIGHT="69.090541401274" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 69.0905 L0 69.0905 L0 0 Z" copath="M0 0 L522 0 L522 69.0905 L0 69.0905 L0 0 Z" gXpos="766.001" gYpos="888.005" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT XPOS="766.001" YPOS="888.005" OwnPage="2" ItemID="104934058" PTYPE="4" WIDTH="522" HEIGHT="69.090541401274" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 69.0905 L0 69.0905 L0 0 Z" copath="M0 0 L522 0 L522 69.0905 L0 69.0905 L0 0 Z" gXpos="766.001" gYpos="888.005" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <para PARENT="Chapter Heading"/>
@@ -1154,7 +1154,7 @@
                 <trail PARENT="Chapter Heading"/>
             </StoryText>
         </PAGEOBJECT>
-        <PAGEOBJECT XPOS="136.001" YPOS="1720.008" OwnPage="3" ItemID="713056703" PTYPE="4" WIDTH="522" HEIGHT="720" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 720 L0 720 L0 0 Z" copath="M0 0 L522 0 L522 720 L0 720 L0 0 Z" gXpos="748.0006" gYpos="888.0046" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT XPOS="136.001" YPOS="1720.008" OwnPage="3" ItemID="105096138" PTYPE="4" WIDTH="522" HEIGHT="720" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 720 L0 720 L0 0 Z" copath="M0 0 L522 0 L522 720 L0 720 L0 0 Z" gXpos="748.0006" gYpos="888.0046" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <para PARENT="Chapter Heading"/>
@@ -1209,7 +1209,7 @@
                 <ItemAttribute Name="TOC" Type="none" Value="Intrōductiō" Parameter="" Relationship="none" RelationshipTo="" AutoAddTo="none"/>
             </PageItemAttributes>
         </PAGEOBJECT>
-        <PAGEOBJECT XPOS="136.001" YPOS="5880.023" OwnPage="13" ItemID="713206047" PTYPE="4" WIDTH="522" HEIGHT="290.881458598727" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 290.881 L0 290.881 L0 0 Z" copath="M0 0 L522 0 L522 290.881 L0 290.881 L0 0 Z" gXpos="136.001" gYpos="5880.023" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT XPOS="136.001" YPOS="5880.023" OwnPage="13" ItemID="105147514" PTYPE="4" WIDTH="522" HEIGHT="290.881458598727" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 290.881 L0 290.881 L0 0 Z" copath="M0 0 L522 0 L522 290.881 L0 290.881 L0 0 Z" gXpos="136.001" gYpos="5880.023" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <ITEXT CH="Audientēs itaque Turcī quod Chrīstiānī essent in castrō, vēnērunt obsīdere illud. Ante portam castrī erat puteus, et ad pedem castrī fōns"/>
@@ -1224,7 +1224,7 @@
                 <para PARENT="Latin"/>
             </StoryText>
         </PAGEOBJECT>
-        <PAGEOBJECT XPOS="136.001" YPOS="6170.90445859873" OwnPage="13" ItemID="714127327" PTYPE="4" WIDTH="522" HEIGHT="134.369426751592" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 134.369 L0 134.369 L0 0 Z" copath="M0 0 L522 0 L522 134.369 L0 134.369 L0 0 Z" gXpos="136.001" gYpos="6170.90445859873" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT XPOS="136.001" YPOS="6170.90445859873" OwnPage="13" ItemID="105057594" PTYPE="4" WIDTH="522" HEIGHT="134.369426751592" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 134.369 L0 134.369 L0 0 Z" copath="M0 0 L522 0 L522 134.369 L0 134.369 L0 0 Z" gXpos="136.001" gYpos="6170.90445859873" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <ITEXT FEATURES="inherit superscript" CH="1"/>
@@ -1244,7 +1244,7 @@
                 <trail PARENT="footnotes"/>
             </StoryText>
         </PAGEOBJECT>
-        <PAGEOBJECT XPOS="766.001" YPOS="5880.023" OwnPage="14" ItemID="713131727" PTYPE="4" WIDTH="522" HEIGHT="720" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="2" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 720 L0 720 L0 0 Z" copath="M0 0 L522 0 L522 720 L0 720 L0 0 Z" gXpos="766.001" gYpos="5880.023" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT XPOS="766.001" YPOS="5880.023" OwnPage="14" ItemID="105667754" PTYPE="4" WIDTH="522" HEIGHT="720" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="2" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 720 L0 720 L0 0 Z" copath="M0 0 L522 0 L522 720 L0 720 L0 0 Z" gXpos="766.001" gYpos="5880.023" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <ITEXT CH="abstulērunt: they took away; 3rd person plural perfect active from auferō, auferre, abstulī, ablātus"/>
@@ -1421,7 +1421,7 @@
                 <trail PARENT="Vocab"/>
             </StoryText>
         </PAGEOBJECT>
-        <PAGEOBJECT XPOS="136.001" YPOS="6712.026" OwnPage="15" ItemID="714486399" PTYPE="4" WIDTH="522" HEIGHT="322.419859872613" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 322.42 L0 322.42 L0 0 Z" copath="M0 0 L522 0 L522 322.42 L0 322.42 L0 0 Z" gXpos="136.001" gYpos="6712.026" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT XPOS="136.001" YPOS="6712.026" OwnPage="15" ItemID="106737066" PTYPE="4" WIDTH="522" HEIGHT="322.419859872613" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 322.42 L0 322.42 L0 0 Z" copath="M0 0 L522 0 L522 322.42 L0 322.42 L0 0 Z" gXpos="136.001" gYpos="6712.026" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <ITEXT CH="Epīscopī vērō et presbitērī cōnfortābant nostrōs et commonēbant nē dēficerent, dīcentēs: &quot;Ēstote ubīque fortēs in fidē Chrīstī et nōlīte eōs timēre quī vōs persequuntur, sīcut Dominus dīcit: 'Nōlīte"/>
@@ -1440,7 +1440,7 @@
                 <para PARENT="Latin"/>
             </StoryText>
         </PAGEOBJECT>
-        <PAGEOBJECT XPOS="136.001" YPOS="7034.44585987261" OwnPage="15" ItemID="714907615" PTYPE="4" WIDTH="522" HEIGHT="168.764331210191" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 168.764 L0 168.764 L0 0 Z" copath="M0 0 L522 0 L522 168.764 L0 168.764 L0 0 Z" gXpos="136.001" gYpos="7034.44585987261" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT XPOS="136.001" YPOS="7034.44585987261" OwnPage="15" ItemID="107142634" PTYPE="4" WIDTH="522" HEIGHT="168.764331210191" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 168.764 L0 168.764 L0 0 Z" copath="M0 0 L522 0 L522 168.764 L0 168.764 L0 0 Z" gXpos="136.001" gYpos="7034.44585987261" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <ITEXT FEATURES="inherit superscript" CH="1"/>
@@ -1468,7 +1468,7 @@
                 <trail PARENT="footnotes"/>
             </StoryText>
         </PAGEOBJECT>
-        <PAGEOBJECT XPOS="766.001" YPOS="6712.026" OwnPage="16" ItemID="718277471" PTYPE="4" WIDTH="522" HEIGHT="720" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="2" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 720 L0 720 L0 0 Z" copath="M0 0 L522 0 L522 720 L0 720 L0 0 Z" gXpos="766.001" gYpos="6712.026" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT XPOS="766.001" YPOS="6712.026" OwnPage="16" ItemID="110523866" PTYPE="4" WIDTH="522" HEIGHT="720" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="2" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 720 L0 720 L0 0 Z" copath="M0 0 L522 0 L522 720 L0 720 L0 0 Z" gXpos="766.001" gYpos="6712.026" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <ITEXT CH="accēpērunt: they received; 3rd person plural perfect active from accipiō, accipere, accēpī, acceptus"/>
@@ -1665,7 +1665,7 @@
                 <trail PARENT="Vocab"/>
             </StoryText>
         </PAGEOBJECT>
-        <PAGEOBJECT XPOS="136.001" YPOS="7544.029" OwnPage="17" ItemID="723291663" PTYPE="4" WIDTH="522" HEIGHT="262.238515923569" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 262.239 L0 262.239 L0 0 Z" copath="M0 0 L522 0 L522 262.239 L0 262.239 L0 0 Z" gXpos="136.001" gYpos="7544.029" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT XPOS="136.001" YPOS="7544.029" OwnPage="17" ItemID="115510042" PTYPE="4" WIDTH="522" HEIGHT="262.238515923569" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 262.239 L0 262.239 L0 0 Z" copath="M0 0 L522 0 L522 262.239 L0 262.239 L0 0 Z" gXpos="136.001" gYpos="7544.029" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <ITEXT CH="Audientēs dēnique Turcī quod Petrus Heremīta et Guualterius sine"/>
@@ -1682,7 +1682,7 @@
                 <para PARENT="Latin"/>
             </StoryText>
         </PAGEOBJECT>
-        <PAGEOBJECT XPOS="136.001" YPOS="7806.26751592357" OwnPage="17" ItemID="719449215" PTYPE="4" WIDTH="522" HEIGHT="155.464968152864" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 155.465 L0 155.465 L0 0 Z" copath="M0 0 L522 0 L522 155.465 L0 155.465 L0 0 Z" gXpos="136.001" gYpos="7806.26751592357" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT XPOS="136.001" YPOS="7806.26751592357" OwnPage="17" ItemID="111649738" PTYPE="4" WIDTH="522" HEIGHT="155.464968152864" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 155.465 L0 155.465 L0 0 Z" copath="M0 0 L522 0 L522 155.465 L0 155.465 L0 0 Z" gXpos="136.001" gYpos="7806.26751592357" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <ITEXT FEATURES="inherit superscript" CH="1"/>
@@ -1704,7 +1704,7 @@
                 <para PARENT="footnotes"/>
             </StoryText>
         </PAGEOBJECT>
-        <PAGEOBJECT XPOS="766.001" YPOS="7544.029" OwnPage="18" ItemID="723258127" PTYPE="4" WIDTH="522" HEIGHT="720" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="2" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 720 L0 720 L0 0 Z" copath="M0 0 L522 0 L522 720 L0 720 L0 0 Z" gXpos="766.001" gYpos="7544.029" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT XPOS="766.001" YPOS="7544.029" OwnPage="18" ItemID="115475434" PTYPE="4" WIDTH="522" HEIGHT="720" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="2" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 720 L0 720 L0 0 Z" copath="M0 0 L522 0 L522 720 L0 720 L0 0 Z" gXpos="766.001" gYpos="7544.029" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <ITEXT CH="aliōs: others; plural masculine accusative from alius, alia, aliud"/>
@@ -1855,7 +1855,7 @@
                 <trail PARENT="Vocab"/>
             </StoryText>
         </PAGEOBJECT>
-        <PAGEOBJECT XPOS="136.001" YPOS="8376.032" OwnPage="19" ItemID="723725679" PTYPE="4" WIDTH="522" HEIGHT="294.694114649683" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 294.694 L0 294.694 L0 0 Z" copath="M0 0 L522 0 L522 294.694 L0 294.694 L0 0 Z" gXpos="136.001" gYpos="8376.032" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT XPOS="136.001" YPOS="8376.032" OwnPage="19" ItemID="115959978" PTYPE="4" WIDTH="522" HEIGHT="294.694114649683" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 294.694 L0 294.694 L0 0 Z" copath="M0 0 L522 0 L522 294.694 L0 294.694 L0 0 Z" gXpos="136.001" gYpos="8376.032" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <ITEXT CH="Illī vērō quī ēvādere potuērunt"/>
@@ -1872,7 +1872,7 @@
                 <para PARENT="Latin"/>
             </StoryText>
         </PAGEOBJECT>
-        <PAGEOBJECT XPOS="136.001" YPOS="8670.72611464968" OwnPage="19" ItemID="724257999" PTYPE="4" WIDTH="522" HEIGHT="140.331210191083" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 140.331 L0 140.331 L0 0 Z" copath="M0 0 L522 0 L522 140.331 L0 140.331 L0 0 Z" gXpos="136.001" gYpos="8670.72611464968" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT XPOS="136.001" YPOS="8670.72611464968" OwnPage="19" ItemID="116575130" PTYPE="4" WIDTH="522" HEIGHT="140.331210191083" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 140.331 L0 140.331 L0 0 Z" copath="M0 0 L522 0 L522 140.331 L0 140.331 L0 0 Z" gXpos="136.001" gYpos="8670.72611464968" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <ITEXT FEATURES="inherit superscript" CH="1"/>
@@ -1895,7 +1895,7 @@
                 <trail PARENT="footnotes"/>
             </StoryText>
         </PAGEOBJECT>
-        <PAGEOBJECT XPOS="766.001" YPOS="8376.032" OwnPage="20" ItemID="726937807" PTYPE="4" WIDTH="522" HEIGHT="720" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="2" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 720 L0 720 L0 0 Z" copath="M0 0 L522 0 L522 720 L0 720 L0 0 Z" gXpos="766.001" gYpos="8376.032" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT XPOS="766.001" YPOS="8376.032" OwnPage="20" ItemID="119164042" PTYPE="4" WIDTH="522" HEIGHT="720" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="2" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 720 L0 720 L0 0 Z" copath="M0 0 L522 0 L522 720 L0 720 L0 0 Z" gXpos="766.001" gYpos="8376.032" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <ITEXT CH="ab: from, out of, by, since"/>
@@ -2070,7 +2070,7 @@
                 <trail PARENT="Vocab"/>
             </StoryText>
         </PAGEOBJECT>
-        <PAGEOBJECT XPOS="136.001" YPOS="9208.035" OwnPage="21" ItemID="727461983" PTYPE="4" WIDTH="522" HEIGHT="323.48092356688" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 323.481 L0 323.481 L0 0 Z" copath="M0 0 L522 0 L522 323.481 L0 323.481 L0 0 Z" gXpos="136.001" gYpos="9208.035" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT XPOS="136.001" YPOS="9208.035" OwnPage="21" ItemID="119689482" PTYPE="4" WIDTH="522" HEIGHT="323.48092356688" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 323.481 L0 323.481 L0 0 Z" copath="M0 0 L522 0 L522 323.481 L0 323.481 L0 0 Z" gXpos="136.001" gYpos="9208.035" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <ITEXT CH="Pars 3: TODO"/>
@@ -2083,7 +2083,7 @@
                 <para PARENT="Latin"/>
             </StoryText>
         </PAGEOBJECT>
-        <PAGEOBJECT XPOS="136.001" YPOS="9531.51592356688" OwnPage="21" ItemID="727961759" PTYPE="4" WIDTH="522" HEIGHT="77.9617834394921" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 77.9618 L0 77.9618 L0 0 Z" copath="M0 0 L522 0 L522 77.9618 L0 77.9618 L0 0 Z" gXpos="136.001" gYpos="9531.51592356688" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT XPOS="136.001" YPOS="9531.51592356688" OwnPage="21" ItemID="120173530" PTYPE="4" WIDTH="522" HEIGHT="77.9617834394921" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 77.9618 L0 77.9618 L0 0 Z" copath="M0 0 L522 0 L522 77.9618 L0 77.9618 L0 0 Z" gXpos="136.001" gYpos="9531.51592356688" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <ITEXT FEATURES="inherit superscript" CH="1"/>
@@ -2095,7 +2095,7 @@
                 <trail PARENT="footnotes"/>
             </StoryText>
         </PAGEOBJECT>
-        <PAGEOBJECT XPOS="766.001" YPOS="9208.035" OwnPage="22" ItemID="731334959" PTYPE="4" WIDTH="522" HEIGHT="720" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="2" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 720 L0 720 L0 0 Z" copath="M0 0 L522 0 L522 720 L0 720 L0 0 Z" gXpos="766.001" gYpos="9208.035" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT XPOS="766.001" YPOS="9208.035" OwnPage="22" ItemID="123653210" PTYPE="4" WIDTH="522" HEIGHT="720" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="2" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 720 L0 720 L0 0 Z" copath="M0 0 L522 0 L522 720 L0 720 L0 0 Z" gXpos="766.001" gYpos="9208.035" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <ITEXT CH="ac: and"/>
@@ -2278,7 +2278,7 @@
                 <trail PARENT="Vocab"/>
             </StoryText>
         </PAGEOBJECT>
-        <PAGEOBJECT XPOS="136.001" YPOS="10040.038" OwnPage="23" ItemID="732010239" PTYPE="4" WIDTH="522" HEIGHT="262.382382165606" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 262.382 L0 262.382 L0 0 Z" copath="M0 0 L522 0 L522 262.382 L0 262.382 L0 0 Z" gXpos="136.001" gYpos="10040.038" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT XPOS="136.001" YPOS="10040.038" OwnPage="23" ItemID="124255978" PTYPE="4" WIDTH="522" HEIGHT="262.382382165606" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 262.382 L0 262.382 L0 0 Z" copath="M0 0 L522 0 L522 262.382 L0 262.382 L0 0 Z" gXpos="136.001" gYpos="10040.038" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <ITEXT CH="Dux dēnique Godefridus prīmus omnium seniōrum Cōnstantīnopolim vēnit cum magnō exercitū, duōbus"/>
@@ -2293,7 +2293,7 @@
                 <para PARENT="Latin"/>
             </StoryText>
         </PAGEOBJECT>
-        <PAGEOBJECT XPOS="136.001" YPOS="10302.4203821656" OwnPage="23" ItemID="732122607" PTYPE="4" WIDTH="522" HEIGHT="191.235668789808" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 191.236 L0 191.236 L0 0 Z" copath="M0 0 L522 0 L522 191.236 L0 191.236 L0 0 Z" gXpos="136.001" gYpos="10302.4203821656" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT XPOS="136.001" YPOS="10302.4203821656" OwnPage="23" ItemID="124442090" PTYPE="4" WIDTH="522" HEIGHT="191.235668789808" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 191.236 L0 191.236 L0 0 Z" copath="M0 0 L522 0 L522 191.236 L0 191.236 L0 0 Z" gXpos="136.001" gYpos="10302.4203821656" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <ITEXT FEATURES="inherit superscript" CH="1"/>
@@ -2313,7 +2313,7 @@
                 <trail PARENT="footnotes"/>
             </StoryText>
         </PAGEOBJECT>
-        <PAGEOBJECT XPOS="766.001" YPOS="10040.038" OwnPage="24" ItemID="735144879" PTYPE="4" WIDTH="522" HEIGHT="720" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="2" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 720 L0 720 L0 0 Z" copath="M0 0 L522 0 L522 720 L0 720 L0 0 Z" gXpos="766.001" gYpos="10040.038" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT XPOS="766.001" YPOS="10040.038" OwnPage="24" ItemID="127351690" PTYPE="4" WIDTH="522" HEIGHT="720" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="2" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 720 L0 720 L0 0 Z" copath="M0 0 L522 0 L522 720 L0 720 L0 0 Z" gXpos="766.001" gYpos="10040.038" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <ITEXT CH="ac: and"/>
@@ -2478,7 +2478,7 @@
                 <trail PARENT="Vocab"/>
             </StoryText>
         </PAGEOBJECT>
-        <PAGEOBJECT XPOS="136.001" YPOS="10872.041" OwnPage="25" ItemID="735606943" PTYPE="4" WIDTH="522" HEIGHT="262.736070063695" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 262.736 L0 262.736 L0 0 Z" copath="M0 0 L522 0 L522 262.736 L0 262.736 L0 0 Z" gXpos="136.001" gYpos="10872.041" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT XPOS="136.001" YPOS="10872.041" OwnPage="25" ItemID="127805034" PTYPE="4" WIDTH="522" HEIGHT="262.736070063695" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 262.736 L0 262.736 L0 0 Z" copath="M0 0 L522 0 L522 262.736 L0 262.736 L0 0 Z" gXpos="136.001" gYpos="10872.041" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <ITEXT CH="Et apprehendēns sexāgintā ex eīs, partem occīdit, partem dūcī frātrī suō praesentāvit. Quod cum audīsset imperātor, valdē īrātus est. Vidēns"/>
@@ -2491,7 +2491,7 @@
                 <para PARENT="Latin"/>
             </StoryText>
         </PAGEOBJECT>
-        <PAGEOBJECT XPOS="136.001" YPOS="11134.7770700637" OwnPage="25" ItemID="736316527" PTYPE="4" WIDTH="522" HEIGHT="106.853503184713" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 106.854 L0 106.854 L0 0 Z" copath="M0 0 L522 0 L522 106.854 L0 106.854 L0 0 Z" gXpos="136.001" gYpos="11134.7770700637" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT XPOS="136.001" YPOS="11134.7770700637" OwnPage="25" ItemID="128637658" PTYPE="4" WIDTH="522" HEIGHT="106.853503184713" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 106.854 L0 106.854 L0 0 Z" copath="M0 0 L522 0 L522 106.854 L0 106.854 L0 0 Z" gXpos="136.001" gYpos="11134.7770700637" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <ITEXT FEATURES="inherit superscript" CH="1"/>
@@ -2505,7 +2505,7 @@
                 <trail PARENT="footnotes"/>
             </StoryText>
         </PAGEOBJECT>
-        <PAGEOBJECT XPOS="766.001" YPOS="10872.041" OwnPage="26" ItemID="739694639" PTYPE="4" WIDTH="522" HEIGHT="720" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="2" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 720 L0 720 L0 0 Z" copath="M0 0 L522 0 L522 720 L0 720 L0 0 Z" gXpos="766.001" gYpos="10872.041" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT XPOS="766.001" YPOS="10872.041" OwnPage="26" ItemID="131877274" PTYPE="4" WIDTH="522" HEIGHT="720" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="2" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 720 L0 720 L0 0 Z" copath="M0 0 L522 0 L522 720 L0 720 L0 0 Z" gXpos="766.001" gYpos="10872.041" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <ITEXT CH="ad: to, towards, at, according to"/>
@@ -2682,7 +2682,7 @@
                 <trail PARENT="Vocab"/>
             </StoryText>
         </PAGEOBJECT>
-        <PAGEOBJECT XPOS="136.001" YPOS="11704.044" OwnPage="27" ItemID="740175455" PTYPE="4" WIDTH="522" HEIGHT="354.809503184713" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 354.81 L0 354.81 L0 0 Z" copath="M0 0 L522 0 L522 354.81 L0 354.81 L0 0 Z" gXpos="136.001" gYpos="11704.044" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT XPOS="136.001" YPOS="11704.044" OwnPage="27" ItemID="132415370" PTYPE="4" WIDTH="522" HEIGHT="354.809503184713" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 354.81 L0 354.81 L0 0 Z" copath="M0 0 L522 0 L522 354.81 L0 354.81 L0 0 Z" gXpos="136.001" gYpos="11704.044" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <ITEXT CH="At bellipotēns Boamundus quī erat in obsidiōne"/>
@@ -2705,7 +2705,7 @@
                 <trail PARENT="Latin"/>
             </StoryText>
         </PAGEOBJECT>
-        <PAGEOBJECT XPOS="136.001" YPOS="12059.3121019108" OwnPage="27" ItemID="740482591" PTYPE="4" WIDTH="522" HEIGHT="336.152866242068" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 336.153 L0 336.153 L0 0 Z" copath="M0 0 L522 0 L522 336.153 L0 336.153 L0 0 Z" gXpos="136.001" gYpos="12059.3121019108" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT XPOS="136.001" YPOS="12059.3121019108" OwnPage="27" ItemID="132665162" PTYPE="4" WIDTH="522" HEIGHT="336.152866242068" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 336.153 L0 336.153 L0 0 Z" copath="M0 0 L522 0 L522 336.153 L0 336.153 L0 0 Z" gXpos="136.001" gYpos="12059.3121019108" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <ITEXT FEATURES="inherit superscript" CH="1"/>
@@ -2743,7 +2743,7 @@
                 <trail PARENT="footnotes"/>
             </StoryText>
         </PAGEOBJECT>
-        <PAGEOBJECT XPOS="766.001" YPOS="11704.044" OwnPage="28" ItemID="743710319" PTYPE="4" WIDTH="522" HEIGHT="720" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="2" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 720 L0 720 L0 0 Z" copath="M0 0 L522 0 L522 720 L0 720 L0 0 Z" gXpos="766.001" gYpos="11704.044" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT XPOS="766.001" YPOS="11704.044" OwnPage="28" ItemID="135927146" PTYPE="4" WIDTH="522" HEIGHT="720" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="2" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 720 L0 720 L0 0 Z" copath="M0 0 L522 0 L522 720 L0 720 L0 0 Z" gXpos="766.001" gYpos="11704.044" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <ITEXT CH="ad: to, towards, at, according to"/>
@@ -2954,7 +2954,7 @@
                 <trail PARENT="Vocab"/>
             </StoryText>
         </PAGEOBJECT>
-        <PAGEOBJECT XPOS="136.001" YPOS="12536.047" OwnPage="29" ItemID="744346159" PTYPE="4" WIDTH="522" HEIGHT="442.755547770701" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 442.756 L0 442.756 L0 0 Z" copath="M0 0 L522 0 L522 442.756 L0 442.756 L0 0 Z" gXpos="136.001" gYpos="12536.047" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT XPOS="136.001" YPOS="12536.047" OwnPage="29" ItemID="136530426" PTYPE="4" WIDTH="522" HEIGHT="442.755547770701" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 442.756 L0 442.756 L0 0 Z" copath="M0 0 L522 0 L522 442.756 L0 442.756 L0 0 Z" gXpos="136.001" gYpos="12536.047" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <ITEXT CH="Dēnique reversus iterum in terram suam dominus Boamundus dīligenter honestāvit sēsē ad incipiendum Sānctī Sepulchrī iter. Tandem trānsfretāvit mare cum suō exercitū, et cum eō Tancredus"/>
@@ -2963,7 +2963,7 @@
                 <para PARENT="Latin"/>
             </StoryText>
         </PAGEOBJECT>
-        <PAGEOBJECT XPOS="136.001" YPOS="12978.8025477707" OwnPage="29" ItemID="745565087" PTYPE="4" WIDTH="522" HEIGHT="50.9044585987249" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 50.9045 L0 50.9045 L0 0 Z" copath="M0 0 L522 0 L522 50.9045 L0 50.9045 L0 0 Z" gXpos="136.001" gYpos="12978.8025477707" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT XPOS="136.001" YPOS="12978.8025477707" OwnPage="29" ItemID="137871834" PTYPE="4" WIDTH="522" HEIGHT="50.9044585987249" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 50.9045 L0 50.9045 L0 0 Z" copath="M0 0 L522 0 L522 50.9045 L0 50.9045 L0 0 Z" gXpos="136.001" gYpos="12978.8025477707" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <ITEXT FEATURES="inherit superscript" CH="1"/>
@@ -2971,14 +2971,14 @@
                 <trail PARENT="footnotes"/>
             </StoryText>
         </PAGEOBJECT>
-        <PAGEOBJECT XPOS="766.001" YPOS="12536.047" OwnPage="30" ItemID="749754911" PTYPE="4" WIDTH="522" HEIGHT="372.589942675158" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 372.59 L0 372.59 L0 0 Z" copath="M0 0 L522 0 L522 372.59 L0 372.59 L0 0 Z" gXpos="766.001" gYpos="12536.047" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT XPOS="766.001" YPOS="12536.047" OwnPage="30" ItemID="142071194" PTYPE="4" WIDTH="522" HEIGHT="372.589942675158" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 372.59 L0 372.59 L0 0 Z" copath="M0 0 L522 0 L522 372.59 L0 372.59 L0 0 Z" gXpos="766.001" gYpos="12536.047" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <ITEXT CH="TODO 01_orig_13.txt"/>
                 <trail/>
             </StoryText>
         </PAGEOBJECT>
-        <PAGEOBJECT XPOS="136.001" YPOS="13368.05" OwnPage="31" ItemID="750730399" PTYPE="4" WIDTH="522" HEIGHT="352.79076433121" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 352.791 L0 352.791 L0 0 Z" copath="M0 0 L522 0 L522 352.791 L0 352.791 L0 0 Z" gXpos="136.001" gYpos="13368.05" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT XPOS="136.001" YPOS="13368.05" OwnPage="31" ItemID="142965514" PTYPE="4" WIDTH="522" HEIGHT="352.79076433121" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 352.791 L0 352.791 L0 0 Z" copath="M0 0 L522 0 L522 352.791 L0 352.791 L0 0 Z" gXpos="136.001" gYpos="13368.05" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <ITEXT CH="Tunc exeuntēs"/>
@@ -2997,7 +2997,7 @@
                 <para PARENT="Latin"/>
             </StoryText>
         </PAGEOBJECT>
-        <PAGEOBJECT XPOS="136.001" YPOS="13720.8407643312" OwnPage="31" ItemID="750740847" PTYPE="4" WIDTH="522" HEIGHT="227.439490445871" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 227.439 L0 227.439 L0 0 Z" copath="M0 0 L522 0 L522 227.439 L0 227.439 L0 0 Z" gXpos="136.001" gYpos="13720.8407643312" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT XPOS="136.001" YPOS="13720.8407643312" OwnPage="31" ItemID="142950154" PTYPE="4" WIDTH="522" HEIGHT="227.439490445871" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 227.439 L0 227.439 L0 0 Z" copath="M0 0 L522 0 L522 227.439 L0 227.439 L0 0 Z" gXpos="136.001" gYpos="13720.8407643312" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <ITEXT FEATURES="inherit superscript" CH="1"/>
@@ -3032,7 +3032,7 @@
                 <trail PARENT="footnotes"/>
             </StoryText>
         </PAGEOBJECT>
-        <PAGEOBJECT XPOS="766.001" YPOS="13368.05" OwnPage="32" ItemID="749796831" PTYPE="4" WIDTH="522" HEIGHT="720" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="2" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 720 L0 720 L0 0 Z" copath="M0 0 L522 0 L522 720 L0 720 L0 0 Z" gXpos="766.001" gYpos="13368.05" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT XPOS="766.001" YPOS="13368.05" OwnPage="32" ItemID="141997658" PTYPE="4" WIDTH="522" HEIGHT="720" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="2" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 720 L0 720 L0 0 Z" copath="M0 0 L522 0 L522 720 L0 720 L0 0 Z" gXpos="766.001" gYpos="13368.05" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <ITEXT CH="Doubly-completed vocab"/>
@@ -3247,7 +3247,7 @@
                 <trail PARENT="Vocab"/>
             </StoryText>
         </PAGEOBJECT>
-        <PAGEOBJECT XPOS="136.001" YPOS="14200.053" OwnPage="33" ItemID="751344095" PTYPE="4" WIDTH="522" HEIGHT="296.252732484076" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 296.253 L0 296.253 L0 0 Z" copath="M0 0 L522 0 L522 296.253 L0 296.253 L0 0 Z" gXpos="136.001" gYpos="14200.053" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT XPOS="136.001" YPOS="14200.053" OwnPage="33" ItemID="143561386" PTYPE="4" WIDTH="522" HEIGHT="296.252732484076" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 296.253 L0 296.253 L0 0 Z" copath="M0 0 L522 0 L522 296.253 L0 296.253 L0 0 Z" gXpos="136.001" gYpos="14200.053" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <ITEXT CH="Quod audiēns Tancredus rediit retrō, et prōiectus in flūmen natandō pervēnit ad aliōs, et duo mīlia mīsērunt sē in flūmen sequendō Tancredum. Tandem invēnērunt Turcopūlōs et Pinzinacōs dīmicantēs cum nostrīs. Quōs repente"/>
@@ -3264,7 +3264,7 @@
                 <para PARENT="Latin"/>
             </StoryText>
         </PAGEOBJECT>
-        <PAGEOBJECT XPOS="136.001" YPOS="14496.3057324841" OwnPage="33" ItemID="752074063" PTYPE="4" WIDTH="522" HEIGHT="107.312101910808" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 107.312 L0 107.312 L0 0 Z" copath="M0 0 L522 0 L522 107.312 L0 107.312 L0 0 Z" gXpos="136.001" gYpos="14496.3057324841" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT XPOS="136.001" YPOS="14496.3057324841" OwnPage="33" ItemID="144307482" PTYPE="4" WIDTH="522" HEIGHT="107.312101910808" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 107.312 L0 107.312 L0 0 Z" copath="M0 0 L522 0 L522 107.312 L0 107.312 L0 0 Z" gXpos="136.001" gYpos="14496.3057324841" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <ITEXT FEATURES="inherit superscript" CH="1"/>
@@ -3282,7 +3282,7 @@
                 <trail PARENT="footnotes"/>
             </StoryText>
         </PAGEOBJECT>
-        <PAGEOBJECT XPOS="766.001" YPOS="14200.053" OwnPage="34" ItemID="755788479" PTYPE="4" WIDTH="522" HEIGHT="720" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="2" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 720 L0 720 L0 0 Z" copath="M0 0 L522 0 L522 720 L0 720 L0 0 Z" gXpos="766.001" gYpos="14200.053" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT XPOS="766.001" YPOS="14200.053" OwnPage="34" ItemID="148099066" PTYPE="4" WIDTH="522" HEIGHT="720" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="2" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 720 L0 720 L0 0 Z" copath="M0 0 L522 0 L522 720 L0 720 L0 0 Z" gXpos="766.001" gYpos="14200.053" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <ITEXT CH="abīre: to depart;  person  present active from abeo, abire, abivi(ii), abitus"/>
@@ -3469,7 +3469,7 @@
                 <trail PARENT="Vocab"/>
             </StoryText>
         </PAGEOBJECT>
-        <PAGEOBJECT XPOS="136.001" YPOS="15032.056" OwnPage="35" ItemID="756288303" PTYPE="4" WIDTH="522" HEIGHT="419.510878980889" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 419.511 L0 419.511 L0 0 Z" copath="M0 0 L522 0 L522 419.511 L0 419.511 L0 0 Z" gXpos="136.001" gYpos="15032.056" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT XPOS="136.001" YPOS="15032.056" OwnPage="35" ItemID="148516362" PTYPE="4" WIDTH="522" HEIGHT="419.510878980889" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 419.511 L0 419.511 L0 0 Z" copath="M0 0 L522 0 L522 419.511 L0 419.511 L0 0 Z" gXpos="136.001" gYpos="15032.056" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <para PARENT="Chapter Heading"/>
@@ -3490,7 +3490,7 @@
                 <trail PARENT="Latin"/>
             </StoryText>
         </PAGEOBJECT>
-        <PAGEOBJECT XPOS="136.001" YPOS="15451.5668789809" OwnPage="35" ItemID="756627487" PTYPE="4" WIDTH="522" HEIGHT="154.089171974521" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 154.089 L0 154.089 L0 0 Z" copath="M0 0 L522 0 L522 154.089 L0 154.089 L0 0 Z" gXpos="136.001" gYpos="15451.5668789809" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT XPOS="136.001" YPOS="15451.5668789809" OwnPage="35" ItemID="148864618" PTYPE="4" WIDTH="522" HEIGHT="154.089171974521" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 154.089 L0 154.089 L0 0 Z" copath="M0 0 L522 0 L522 154.089 L0 154.089 L0 0 Z" gXpos="136.001" gYpos="15451.5668789809" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <ITEXT FEATURES="inherit superscript" CH="1"/>
@@ -3515,7 +3515,7 @@
                 <trail PARENT="footnotes"/>
             </StoryText>
         </PAGEOBJECT>
-        <PAGEOBJECT XPOS="766.001" YPOS="15032.056" OwnPage="36" ItemID="760503279" PTYPE="4" WIDTH="522" HEIGHT="720" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="2" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 720 L0 720 L0 0 Z" copath="M0 0 L522 0 L522 720 L0 720 L0 0 Z" gXpos="766.001" gYpos="15032.056" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT XPOS="766.001" YPOS="15032.056" OwnPage="36" ItemID="152823466" PTYPE="4" WIDTH="522" HEIGHT="720" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="2" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 720 L0 720 L0 0 Z" copath="M0 0 L522 0 L522 720 L0 720 L0 0 Z" gXpos="766.001" gYpos="15032.056" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <ITEXT CH="abīre: to depart; present active infinitive from abeō, abīre, abiī, abitus"/>
@@ -3730,7 +3730,7 @@
                 <trail PARENT="Vocab"/>
             </StoryText>
         </PAGEOBJECT>
-        <PAGEOBJECT XPOS="136.001" YPOS="15864.059" OwnPage="37" ItemID="761145983" PTYPE="4" WIDTH="522" HEIGHT="231.380490445858" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 231.38 L0 231.38 L0 0 Z" copath="M0 0 L522 0 L522 231.38 L0 231.38 L0 0 Z" gXpos="136.001" gYpos="15864.059" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT XPOS="136.001" YPOS="15864.059" OwnPage="37" ItemID="153359242" PTYPE="4" WIDTH="522" HEIGHT="231.380490445858" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 231.38 L0 231.38 L0 0 Z" copath="M0 0 L522 0 L522 231.38 L0 231.38 L0 0 Z" gXpos="136.001" gYpos="15864.059" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <ITEXT CH="Deinde vēnimus ad quamdam urbem quae dīcitur Serra, ubi nostra fīximus tentōria, et sat1 habuimus mercātum, illīs diēbus conveniēns. Ibique doctus Boamundus optimē concordātus est cum duōbus corpalatīīs, et prō amīcitiā eōrum ac prō iūstitiā terrae iussit reddī"/>
@@ -3739,7 +3739,7 @@
                 <trail PARENT="Latin"/>
             </StoryText>
         </PAGEOBJECT>
-        <PAGEOBJECT XPOS="136.001" YPOS="16095.4394904459" OwnPage="37" ItemID="761698751" PTYPE="4" WIDTH="522" HEIGHT="93.0955414012715" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 93.0955 L0 93.0955 L0 0 Z" copath="M0 0 L522 0 L522 93.0955 L0 93.0955 L0 0 Z" gXpos="136.001" gYpos="16095.4394904459" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT XPOS="136.001" YPOS="16095.4394904459" OwnPage="37" ItemID="153919946" PTYPE="4" WIDTH="522" HEIGHT="93.0955414012715" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 93.0955 L0 93.0955 L0 0 Z" copath="M0 0 L522 0 L522 93.0955 L0 93.0955 L0 0 Z" gXpos="136.001" gYpos="16095.4394904459" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <ITEXT FEATURES="inherit superscript" CH="1"/>
@@ -3751,7 +3751,7 @@
                 <trail PARENT="footnotes"/>
             </StoryText>
         </PAGEOBJECT>
-        <PAGEOBJECT XPOS="766.001" YPOS="15864.059" OwnPage="38" ItemID="765897679" PTYPE="4" WIDTH="522" HEIGHT="720" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="2" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 720 L0 720 L0 0 Z" copath="M0 0 L522 0 L522 720 L0 720 L0 0 Z" gXpos="766.001" gYpos="15864.059" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT XPOS="766.001" YPOS="15864.059" OwnPage="38" ItemID="158111642" PTYPE="4" WIDTH="522" HEIGHT="720" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="2" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 720 L0 720 L0 0 Z" copath="M0 0 L522 0 L522 720 L0 720 L0 0 Z" gXpos="766.001" gYpos="15864.059" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <ITEXT CH="ac: and"/>
@@ -3898,7 +3898,7 @@
                 <trail PARENT="Vocab"/>
             </StoryText>
         </PAGEOBJECT>
-        <PAGEOBJECT XPOS="136.001" YPOS="16696.062" OwnPage="39" ItemID="766330287" PTYPE="4" WIDTH="522" HEIGHT="205.173668789805" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 205.174 L0 205.174 L0 0 Z" copath="M0 0 L522 0 L522 205.174 L0 205.174 L0 0 Z" gXpos="136.001" gYpos="16696.062" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT XPOS="136.001" YPOS="16696.062" OwnPage="39" ItemID="158658474" PTYPE="4" WIDTH="522" HEIGHT="205.173668789805" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 205.174 L0 205.174 L0 0 Z" copath="M0 0 L522 0 L522 205.174 L0 205.174 L0 0 Z" gXpos="136.001" gYpos="16696.062" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <ITEXT CH="ibi etiam doctus Boamundus tōtam gentem suam dīmīsit, perrēxitque"/>
@@ -3913,7 +3913,7 @@
                 <para PARENT="Latin"/>
             </StoryText>
         </PAGEOBJECT>
-        <PAGEOBJECT XPOS="136.001" YPOS="16901.2356687898" OwnPage="39" ItemID="766594911" PTYPE="4" WIDTH="522" HEIGHT="81.6305732484107" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 81.6306 L0 81.6306 L0 0 Z" copath="M0 0 L522 0 L522 81.6306 L0 81.6306 L0 0 Z" gXpos="136.001" gYpos="16901.2356687898" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT XPOS="136.001" YPOS="16901.2356687898" OwnPage="39" ItemID="158923306" PTYPE="4" WIDTH="522" HEIGHT="81.6305732484107" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 81.6306 L0 81.6306 L0 0 Z" copath="M0 0 L522 0 L522 81.6306 L0 81.6306 L0 0 Z" gXpos="136.001" gYpos="16901.2356687898" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <ITEXT FEATURES="inherit superscript" CH="1"/>
@@ -3933,7 +3933,7 @@
                 <trail PARENT="footnotes"/>
             </StoryText>
         </PAGEOBJECT>
-        <PAGEOBJECT XPOS="766.001" YPOS="16696.062" OwnPage="40" ItemID="769495551" PTYPE="4" WIDTH="522" HEIGHT="720" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="2" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 720 L0 720 L0 0 Z" copath="M0 0 L522 0 L522 720 L0 720 L0 0 Z" gXpos="766.001" gYpos="16696.062" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT XPOS="766.001" YPOS="16696.062" OwnPage="40" ItemID="161632698" PTYPE="4" WIDTH="522" HEIGHT="720" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="2" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 720 L0 720 L0 0 Z" copath="M0 0 L522 0 L522 720 L0 720 L0 0 Z" gXpos="766.001" gYpos="16696.062" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <ITEXT CH="āit: he said; 3rd person singular present active from aio, -, -"/>
@@ -4078,7 +4078,7 @@
                 <trail PARENT="Vocab"/>
             </StoryText>
         </PAGEOBJECT>
-        <PAGEOBJECT XPOS="136.001" YPOS="17528.065" OwnPage="41" ItemID="769895615" PTYPE="4" WIDTH="522" HEIGHT="203.654745222924" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 203.655 L0 203.655 L0 0 Z" copath="M0 0 L522 0 L522 203.655 L0 203.655 L0 0 Z" gXpos="136.001" gYpos="17528.065" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT XPOS="136.001" YPOS="17528.065" OwnPage="41" ItemID="162111034" PTYPE="4" WIDTH="522" HEIGHT="203.654745222924" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 203.655 L0 203.655 L0 0 Z" copath="M0 0 L522 0 L522 203.655 L0 203.655 L0 0 Z" gXpos="136.001" gYpos="17528.065" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <ITEXT CH="[vī] Cum imperātor audīsset honestissimum virum Boamundum ad sē vēnisse, iussit eum honōrābiliter recipī, et cautē hospitārī extrā urbem. Quō hospitātō"/>
@@ -4089,7 +4089,7 @@
                 <para PARENT="Latin"/>
             </StoryText>
         </PAGEOBJECT>
-        <PAGEOBJECT XPOS="136.001" YPOS="17731.7197452229" OwnPage="41" ItemID="770151055" PTYPE="4" WIDTH="522" HEIGHT="108.687898089174" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 108.688 L0 108.688 L0 0 Z" copath="M0 0 L522 0 L522 108.688 L0 108.688 L0 0 Z" gXpos="136.001" gYpos="17731.7197452229" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT XPOS="136.001" YPOS="17731.7197452229" OwnPage="41" ItemID="162374874" PTYPE="4" WIDTH="522" HEIGHT="108.687898089174" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 108.688 L0 108.688 L0 0 Z" copath="M0 0 L522 0 L522 108.688 L0 108.688 L0 0 Z" gXpos="136.001" gYpos="17731.7197452229" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <ITEXT FEATURES="inherit superscript" CH="1"/>
@@ -4100,7 +4100,7 @@
                 <trail PARENT="footnotes"/>
             </StoryText>
         </PAGEOBJECT>
-        <PAGEOBJECT XPOS="766.001" YPOS="17528.065" OwnPage="42" ItemID="772698879" PTYPE="4" WIDTH="522" HEIGHT="720" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="2" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 720 L0 720 L0 0 Z" copath="M0 0 L522 0 L522 720 L0 720 L0 0 Z" gXpos="766.001" gYpos="17528.065" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT XPOS="766.001" YPOS="17528.065" OwnPage="42" ItemID="164962634" PTYPE="4" WIDTH="522" HEIGHT="720" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="2" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 720 L0 720 L0 0 Z" copath="M0 0 L522 0 L522 720 L0 720 L0 0 Z" gXpos="766.001" gYpos="17528.065" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <ITEXT CH="ā: from, out of, by, since"/>
@@ -4243,7 +4243,7 @@
                 <trail PARENT="Vocab"/>
             </StoryText>
         </PAGEOBJECT>
-        <PAGEOBJECT XPOS="136.001" YPOS="18360.068" OwnPage="43" ItemID="773149103" PTYPE="4" WIDTH="522" HEIGHT="170.072127388532" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 170.072 L0 170.072 L0 0 Z" copath="M0 0 L522 0 L522 170.072 L0 170.072 L0 0 Z" gXpos="136.001" gYpos="18360.068" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT XPOS="136.001" YPOS="18360.068" OwnPage="43" ItemID="165471594" PTYPE="4" WIDTH="522" HEIGHT="170.072127388532" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 170.072 L0 170.072 L0 0 Z" copath="M0 0 L522 0 L522 170.072 L0 170.072 L0 0 Z" gXpos="136.001" gYpos="18360.068" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <ITEXT CH="Novissimē vērō congregātī omnēs maiōrēs"/>
@@ -4256,7 +4256,7 @@
                 <trail PARENT="Latin"/>
             </StoryText>
         </PAGEOBJECT>
-        <PAGEOBJECT XPOS="136.001" YPOS="18530.1401273885" OwnPage="43" ItemID="773262767" PTYPE="4" WIDTH="522" HEIGHT="120.611464968151" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 120.611 L0 120.611 L0 0 Z" copath="M0 0 L522 0 L522 120.611 L0 120.611 L0 0 Z" gXpos="136.001" gYpos="18530.1401273885" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT XPOS="136.001" YPOS="18530.1401273885" OwnPage="43" ItemID="165593450" PTYPE="4" WIDTH="522" HEIGHT="120.611464968151" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 120.611 L0 120.611 L0 0 Z" copath="M0 0 L522 0 L522 120.611 L0 120.611 L0 0 Z" gXpos="136.001" gYpos="18530.1401273885" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <ITEXT FEATURES="inherit superscript" CH="1"/>
@@ -4271,7 +4271,7 @@
                 <trail PARENT="footnotes"/>
             </StoryText>
         </PAGEOBJECT>
-        <PAGEOBJECT XPOS="766.001" YPOS="18360.068" OwnPage="44" ItemID="775917087" PTYPE="4" WIDTH="522" HEIGHT="720" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="2" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 720 L0 720 L0 0 Z" copath="M0 0 L522 0 L522 720 L0 720 L0 0 Z" gXpos="766.001" gYpos="18360.068" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT XPOS="766.001" YPOS="18360.068" OwnPage="44" ItemID="168118314" PTYPE="4" WIDTH="522" HEIGHT="720" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="2" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 720 L0 720 L0 0 Z" copath="M0 0 L522 0 L522 720 L0 720 L0 0 Z" gXpos="766.001" gYpos="18360.068" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <ITEXT CH="ā: from, out of, by, since"/>
@@ -4378,7 +4378,7 @@
                 <trail PARENT="Vocab"/>
             </StoryText>
         </PAGEOBJECT>
-        <PAGEOBJECT XPOS="136.001" YPOS="19192.071" OwnPage="45" ItemID="776241695" PTYPE="4" WIDTH="522" HEIGHT="229.126452229295" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 229.126 L0 229.126 L0 0 Z" copath="M0 0 L522 0 L522 229.126 L0 229.126 L0 0 Z" gXpos="136.001" gYpos="19192.071" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT XPOS="136.001" YPOS="19192.071" OwnPage="45" ItemID="168476250" PTYPE="4" WIDTH="522" HEIGHT="229.126452229295" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 229.126 L0 229.126 L0 0 Z" copath="M0 0 L522 0 L522 229.126 L0 229.126 L0 0 Z" gXpos="136.001" gYpos="19192.071" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <ITEXT CH="Ad ultimum quid factūrī erunt? Dīcent quoniam necessitāte compulsī, nōlentēs"/>
@@ -4393,7 +4393,7 @@
                 <para PARENT="Latin"/>
             </StoryText>
         </PAGEOBJECT>
-        <PAGEOBJECT XPOS="136.001" YPOS="19422.1146496815" OwnPage="45" ItemID="776531647" PTYPE="4" WIDTH="522" HEIGHT="156.956350318476" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 156.956 L0 156.956 L0 0 Z" copath="M0 0 L522 0 L522 156.956 L0 156.956 L0 0 Z" gXpos="136.001" gYpos="19422.1146496815" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT XPOS="136.001" YPOS="19422.1146496815" OwnPage="45" ItemID="168716330" PTYPE="4" WIDTH="522" HEIGHT="156.956350318476" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 156.956 L0 156.956 L0 0 Z" copath="M0 0 L522 0 L522 156.956 L0 156.956 L0 0 Z" gXpos="136.001" gYpos="19422.1146496815" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <ITEXT FEATURES="inherit superscript" CH="1"/>
@@ -4412,7 +4412,7 @@
                 <trail PARENT="footnotes"/>
             </StoryText>
         </PAGEOBJECT>
-        <PAGEOBJECT XPOS="766.001" YPOS="19192.071" OwnPage="46" ItemID="778609183" PTYPE="4" WIDTH="522" HEIGHT="720" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="2" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 720 L0 720 L0 0 Z" copath="M0 0 L522 0 L522 720 L0 720 L0 0 Z" gXpos="766.001" gYpos="19192.071" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT XPOS="766.001" YPOS="19192.071" OwnPage="46" ItemID="170828282" PTYPE="4" WIDTH="522" HEIGHT="720" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="2" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 720 L0 720 L0 0 Z" copath="M0 0 L522 0 L522 720 L0 720 L0 0 Z" gXpos="766.001" gYpos="19192.071" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <ITEXT CH="ab: from, out of, by, since"/>
@@ -4565,7 +4565,7 @@
                 <trail PARENT="Vocab"/>
             </StoryText>
         </PAGEOBJECT>
-        <PAGEOBJECT XPOS="136.001" YPOS="20024.074" OwnPage="47" ItemID="778990607" PTYPE="4" WIDTH="522" HEIGHT="140.970585987256" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 140.971 L0 140.971 L0 0 Z" copath="M0 0 L522 0 L522 140.971 L0 140.971 L0 0 Z" gXpos="136.001" gYpos="20024.074" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT XPOS="136.001" YPOS="20024.074" OwnPage="47" ItemID="171299882" PTYPE="4" WIDTH="522" HEIGHT="140.970585987256" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 140.971 L0 140.971 L0 0 Z" copath="M0 0 L522 0 L522 140.971 L0 140.971 L0 0 Z" gXpos="136.001" gYpos="20024.074" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <ITEXT CH="Imperātor quoque omnibus nostrīs fidem et sēcūritātem dedit, iūrāvit etiam 'quia"/>
@@ -4574,7 +4574,7 @@
                 <para PARENT="Latin"/>
             </StoryText>
         </PAGEOBJECT>
-        <PAGEOBJECT XPOS="136.001" YPOS="20165.0445859873" OwnPage="47" ItemID="779511887" PTYPE="4" WIDTH="522" HEIGHT="116.942675159233" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 116.943 L0 116.943 L0 0 Z" copath="M0 0 L522 0 L522 116.943 L0 116.943 L0 0 Z" gXpos="136.001" gYpos="20165.0445859873" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT XPOS="136.001" YPOS="20165.0445859873" OwnPage="47" ItemID="171829434" PTYPE="4" WIDTH="522" HEIGHT="116.942675159233" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 116.943 L0 116.943 L0 0 Z" copath="M0 0 L522 0 L522 116.943 L0 116.943 L0 0 Z" gXpos="136.001" gYpos="20165.0445859873" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <ITEXT FEATURES="inherit superscript" CH="1"/>
@@ -4582,7 +4582,7 @@
                 <trail PARENT="footnotes"/>
             </StoryText>
         </PAGEOBJECT>
-        <PAGEOBJECT XPOS="766.001" YPOS="20024.074" OwnPage="48" ItemID="782195311" PTYPE="4" WIDTH="522" HEIGHT="720" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="2" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 720 L0 720 L0 0 Z" copath="M0 0 L522 0 L522 720 L0 720 L0 0 Z" gXpos="766.001" gYpos="20024.074" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT XPOS="766.001" YPOS="20024.074" OwnPage="48" ItemID="174521546" PTYPE="4" WIDTH="522" HEIGHT="720" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="2" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 720 L0 720 L0 0 Z" copath="M0 0 L522 0 L522 720 L0 720 L0 0 Z" gXpos="766.001" gYpos="20024.074" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <ITEXT CH="ac: and"/>
@@ -4677,7 +4677,7 @@
                 <trail PARENT="Vocab"/>
             </StoryText>
         </PAGEOBJECT>
-        <PAGEOBJECT XPOS="136.001" YPOS="20856.077" OwnPage="49" ItemID="782563471" PTYPE="4" WIDTH="522" HEIGHT="320.636375796174" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 320.636 L0 320.636 L0 0 Z" copath="M0 0 L522 0 L522 320.636 L0 320.636 L0 0 Z" gXpos="136.001" gYpos="20856.077" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT XPOS="136.001" YPOS="20856.077" OwnPage="49" ItemID="174742538" PTYPE="4" WIDTH="522" HEIGHT="320.636375796174" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 320.636 L0 320.636 L0 0 Z" copath="M0 0 L522 0 L522 320.636 L0 320.636 L0 0 Z" gXpos="136.001" gYpos="20856.077" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <ITEXT CH="Comes autem Sānctī Egidīī erat hospitātus extrā cīvitātem in burgō, gēnsque sua remānserat retrō. Mandāvit itaque imperātor comitī, 'ut faceret eī hominium"/>
@@ -4694,7 +4694,7 @@
                 <trail PARENT="Latin"/>
             </StoryText>
         </PAGEOBJECT>
-        <PAGEOBJECT XPOS="136.001" YPOS="21176.7133757962" OwnPage="49" ItemID="782753567" PTYPE="4" WIDTH="522" HEIGHT="219.363624203826" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 219.364 L0 219.364 L0 0 Z" copath="M0 0 L522 0 L522 219.364 L0 219.364 L0 0 Z" gXpos="136.001" gYpos="21176.7133757962" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT XPOS="136.001" YPOS="21176.7133757962" OwnPage="49" ItemID="174915994" PTYPE="4" WIDTH="522" HEIGHT="219.363624203826" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 219.364 L0 219.364 L0 0 Z" copath="M0 0 L522 0 L522 219.364 L0 219.364 L0 0 Z" gXpos="136.001" gYpos="21176.7133757962" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <ITEXT FEATURES="inherit superscript" CH="1"/>
@@ -4717,7 +4717,7 @@
                 <trail PARENT="footnotes"/>
             </StoryText>
         </PAGEOBJECT>
-        <PAGEOBJECT XPOS="766.001" YPOS="20856.077" OwnPage="50" ItemID="784201023" PTYPE="4" WIDTH="522" HEIGHT="720" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="2" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 720 L0 720 L0 0 Z" copath="M0 0 L522 0 L522 720 L0 720 L0 0 Z" gXpos="766.001" gYpos="20856.077" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT XPOS="766.001" YPOS="20856.077" OwnPage="50" ItemID="176380202" PTYPE="4" WIDTH="522" HEIGHT="720" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="2" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 720 L0 720 L0 0 Z" copath="M0 0 L522 0 L522 720 L0 720 L0 0 Z" gXpos="766.001" gYpos="20856.077" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <ITEXT CH="ā: from, out of, by, since"/>
@@ -4914,7 +4914,7 @@
                 <trail PARENT="Vocab"/>
             </StoryText>
         </PAGEOBJECT>
-        <PAGEOBJECT XPOS="136.001" YPOS="21688.08" OwnPage="51" ItemID="784670847" PTYPE="4" WIDTH="522" HEIGHT="199.461401273878" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 199.461 L0 199.461 L0 0 Z" copath="M0 0 L522 0 L522 199.461 L0 199.461 L0 0 Z" gXpos="136.001" gYpos="21688.08" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT XPOS="136.001" YPOS="21688.08" OwnPage="51" ItemID="176891818" PTYPE="4" WIDTH="522" HEIGHT="199.461401273878" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 199.461 L0 199.461 L0 0 Z" copath="M0 0 L522 0 L522 199.461 L0 199.461 L0 0 Z" gXpos="136.001" gYpos="21688.08" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <ITEXT CH="Tancredus vērō et Richardus dē Prīncipātū propter iūsiūrandum imperātōris latenter trānsfretāvērunt Brāchium, et ferē omnis gēns Boamundī iuxtā illōs. Et mox exercitus comitis Sānctī Egidīī appropinquāvit Cōnstantīnopolī. Comes vērō remānsit ibi cum ipsā suā gente. Vir itaque prūdēns"/>
@@ -4923,7 +4923,7 @@
                 <para PARENT="Latin"/>
             </StoryText>
         </PAGEOBJECT>
-        <PAGEOBJECT XPOS="136.001" YPOS="21887.5414012739" OwnPage="51" ItemID="785340991" PTYPE="4" WIDTH="522" HEIGHT="43.1082802547753" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 43.1083 L0 43.1083 L0 0 Z" copath="M0 0 L522 0 L522 43.1083 L0 43.1083 L0 0 Z" gXpos="136.001" gYpos="21887.5414012739" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT XPOS="136.001" YPOS="21887.5414012739" OwnPage="51" ItemID="177636010" PTYPE="4" WIDTH="522" HEIGHT="43.1082802547753" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 43.1083 L0 43.1083 L0 0 Z" copath="M0 0 L522 0 L522 43.1083 L0 43.1083 L0 0 Z" gXpos="136.001" gYpos="21887.5414012739" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <ITEXT FEATURES="inherit superscript" CH="1"/>
@@ -4931,7 +4931,7 @@
                 <trail PARENT="footnotes"/>
             </StoryText>
         </PAGEOBJECT>
-        <PAGEOBJECT XPOS="766.001" YPOS="21688.08" OwnPage="52" ItemID="789065887" PTYPE="4" WIDTH="522" HEIGHT="720" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="2" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 720 L0 720 L0 0 Z" copath="M0 0 L522 0 L522 720 L0 720 L0 0 Z" gXpos="766.001" gYpos="21688.08" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT XPOS="766.001" YPOS="21688.08" OwnPage="52" ItemID="181280234" PTYPE="4" WIDTH="522" HEIGHT="720" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="2" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 720 L0 720 L0 0 Z" copath="M0 0 L522 0 L522 720 L0 720 L0 0 Z" gXpos="766.001" gYpos="21688.08" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <ITEXT CH="acciperet: he might accept, receive; 3rd person singular imperfect active subjunctive from accipiō, accipere, accēpī, acceptus"/>
@@ -5062,7 +5062,7 @@
                 <trail PARENT="Vocab"/>
             </StoryText>
         </PAGEOBJECT>
-        <PAGEOBJECT XPOS="136.001" YPOS="22520.083" OwnPage="53" ItemID="789511455" PTYPE="4" WIDTH="522" HEIGHT="203.483878980885" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 203.484 L0 203.484 L0 0 Z" copath="M0 0 L522 0 L522 203.484 L0 203.484 L0 0 Z" gXpos="136.001" gYpos="22520.083" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT XPOS="136.001" YPOS="22520.083" OwnPage="53" ItemID="181692186" PTYPE="4" WIDTH="522" HEIGHT="203.483878980885" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 203.484 L0 203.484 L0 0 Z" copath="M0 0 L522 0 L522 203.484 L0 203.484 L0 0 Z" gXpos="136.001" gYpos="22520.083" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <ITEXT CH="Vidēns vērō dux quod nūlla via pateret per quam posset condūcere hās gentēs usque Nicēnam cīvitātem, quoniam per illam viam, per quam prius aliī trānsierant, nōn posset modō tanta gens trānsīre, mīsit ante sē tria mīlia hominum cum secūribus et gladiīs, quī incīdissent et aperīrent hanc viam, quae patefacta"/>
@@ -5073,7 +5073,7 @@
                 <trail PARENT="Latin"/>
             </StoryText>
         </PAGEOBJECT>
-        <PAGEOBJECT XPOS="136.001" YPOS="22723.5668789809" OwnPage="53" ItemID="789637183" PTYPE="4" WIDTH="522" HEIGHT="63.2866242038217" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 63.2866 L0 63.2866 L0 0 Z" copath="M0 0 L522 0 L522 63.2866 L0 63.2866 L0 0 Z" gXpos="136.001" gYpos="22723.5668789809" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT XPOS="136.001" YPOS="22723.5668789809" OwnPage="53" ItemID="181827002" PTYPE="4" WIDTH="522" HEIGHT="63.2866242038217" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 63.2866 L0 63.2866 L0 0 Z" copath="M0 0 L522 0 L522 63.2866 L0 63.2866 L0 0 Z" gXpos="136.001" gYpos="22723.5668789809" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <ITEXT FEATURES="inherit superscript" CH="1"/>
@@ -5084,7 +5084,7 @@
                 <trail PARENT="footnotes"/>
             </StoryText>
         </PAGEOBJECT>
-        <PAGEOBJECT XPOS="766.001" YPOS="22520.083" OwnPage="54" ItemID="791982431" PTYPE="4" WIDTH="522" HEIGHT="720" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="2" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 720 L0 720 L0 0 Z" copath="M0 0 L522 0 L522 720 L0 720 L0 0 Z" gXpos="766.001" gYpos="22520.083" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT XPOS="766.001" YPOS="22520.083" OwnPage="54" ItemID="184197498" PTYPE="4" WIDTH="522" HEIGHT="720" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="2" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 720 L0 720 L0 0 Z" copath="M0 0 L522 0 L522 720 L0 720 L0 0 Z" gXpos="766.001" gYpos="22520.083" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <ITEXT CH="ac: and"/>
@@ -5225,7 +5225,7 @@
                 <trail PARENT="Vocab"/>
             </StoryText>
         </PAGEOBJECT>
-        <PAGEOBJECT XPOS="136.001" YPOS="23352.086" OwnPage="55" ItemID="792289551" PTYPE="4" WIDTH="522" HEIGHT="174.945847133749" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 174.946 L0 174.946 L0 0 Z" copath="M0 0 L522 0 L522 174.946 L0 174.946 L0 0 Z" gXpos="136.001" gYpos="23352.086" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT XPOS="136.001" YPOS="23352.086" OwnPage="55" ItemID="184610874" PTYPE="4" WIDTH="522" HEIGHT="174.945847133749" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 174.946 L0 174.946 L0 0 Z" copath="M0 0 L522 0 L522 174.946 L0 174.946 L0 0 Z" gXpos="136.001" gYpos="23352.086" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <ITEXT CH="Intereā pervēnimus ad Nīcēam, quae est caput tōtīus Romāniae"/>
@@ -5236,7 +5236,7 @@
                 <para PARENT="Latin"/>
             </StoryText>
         </PAGEOBJECT>
-        <PAGEOBJECT XPOS="136.001" YPOS="23527.4904458599" OwnPage="55" ItemID="792574703" PTYPE="4" WIDTH="522" HEIGHT="95.3885350318451" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 95.3885 L0 95.3885 L0 0 Z" copath="M0 0 L522 0 L522 95.3885 L0 95.3885 L0 0 Z" gXpos="136.001" gYpos="23527.4904458599" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT XPOS="136.001" YPOS="23527.4904458599" OwnPage="55" ItemID="184790362" PTYPE="4" WIDTH="522" HEIGHT="95.3885350318451" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 95.3885 L0 95.3885 L0 0 Z" copath="M0 0 L522 0 L522 95.3885 L0 95.3885 L0 0 Z" gXpos="136.001" gYpos="23527.4904458599" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <ITEXT FEATURES="inherit superscript" CH="1"/>
@@ -5250,7 +5250,7 @@
                 <trail PARENT="footnotes"/>
             </StoryText>
         </PAGEOBJECT>
-        <PAGEOBJECT XPOS="766.001" YPOS="23352.086" OwnPage="56" ItemID="795038447" PTYPE="4" WIDTH="522" HEIGHT="720" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="2" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 720 L0 720 L0 0 Z" copath="M0 0 L522 0 L522 720 L0 720 L0 0 Z" gXpos="766.001" gYpos="23352.086" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT XPOS="766.001" YPOS="23352.086" OwnPage="56" ItemID="187335706" PTYPE="4" WIDTH="522" HEIGHT="720" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="2" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 720 L0 720 L0 0 Z" copath="M0 0 L522 0 L522 720 L0 720 L0 0 Z" gXpos="766.001" gYpos="23352.086" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <ITEXT CH="ad: to, towards, at, according to"/>
@@ -5367,7 +5367,7 @@
                 <trail PARENT="Vocab"/>
             </StoryText>
         </PAGEOBJECT>
-        <PAGEOBJECT XPOS="136.001" YPOS="24184.089" OwnPage="57" ItemID="477959391" PTYPE="4" WIDTH="522" HEIGHT="231.707178343939" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 231.707 L0 231.707 L0 0 Z" copath="M0 0 L522 0 L522 231.707 L0 231.707 L0 0 Z" gXpos="136.001" gYpos="24184.089" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT XPOS="136.001" YPOS="24184.089" OwnPage="57" ItemID="187751290" PTYPE="4" WIDTH="522" HEIGHT="231.707178343939" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 231.707 L0 231.707 L0 0 Z" copath="M0 0 L522 0 L522 231.707 L0 231.707 L0 0 Z" gXpos="136.001" gYpos="24184.089" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <ITEXT CH="In diē autem Ascēnsiōnis Dominī coepimus urbem circumquāque invādere et aedificāre īnstrūmenta lignōrum atque turrēs ligneās, quō"/>
@@ -5380,7 +5380,7 @@
                 <trail PARENT="Latin"/>
             </StoryText>
         </PAGEOBJECT>
-        <PAGEOBJECT XPOS="136.001" YPOS="24415.7961783439" OwnPage="57" ItemID="179810751" PTYPE="4" WIDTH="522" HEIGHT="138.496815286624" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 138.497 L0 138.497 L0 0 Z" copath="M0 0 L522 0 L522 138.497 L0 138.497 L0 0 Z" gXpos="136.001" gYpos="24415.7961783439" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT XPOS="136.001" YPOS="24415.7961783439" OwnPage="57" ItemID="187781818" PTYPE="4" WIDTH="522" HEIGHT="138.496815286624" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 138.497 L0 138.497 L0 0 Z" copath="M0 0 L522 0 L522 138.497 L0 138.497 L0 0 Z" gXpos="136.001" gYpos="24415.7961783439" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <ITEXT FEATURES="inherit superscript" CH="1"/>
@@ -5395,20 +5395,20 @@
                 <trail PARENT="footnotes"/>
             </StoryText>
         </PAGEOBJECT>
-        <PAGEOBJECT XPOS="766.001" YPOS="24184.089" OwnPage="58" ItemID="179724735" PTYPE="4" WIDTH="522" HEIGHT="720" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="2" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 720 L0 720 L0 0 Z" copath="M0 0 L522 0 L522 720 L0 720 L0 0 Z" gXpos="766.001" gYpos="24184.089" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT XPOS="766.001" YPOS="24184.089" OwnPage="58" ItemID="189716330" PTYPE="4" WIDTH="522" HEIGHT="720" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="2" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 720 L0 720 L0 0 Z" copath="M0 0 L522 0 L522 720 L0 720 L0 0 Z" gXpos="766.001" gYpos="24184.089" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <ITEXT CH="ā: from, out of, by, since"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="ācriter: sharply"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="adiūtōrium: help, support; plural masculine genitive from adjutor, adjutoris"/>
+                <ITEXT CH="adiūtōrium: help, support; plural neuter accusative from adiūtōrium, adiūtōriī"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="aedificāre: to build;  person  present active from aedificō, aedificāre, aedificāvī, aedificātus"/>
+                <ITEXT CH="aedificāre: to build; present active infinitive from aedificō, aedificāre, aedificāvī, aedificātus"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="aggredimur: he attacks; 1st person plural present passive from aggredio, aggredere, aggressī, aggressus"/>
+                <ITEXT CH="aggredimur: we attack; 3rd person plural present from the deponent aggredior, aggredī, aggressus"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="aliīs: others; plural  dative from alius, alia, aliud"/>
+                <ITEXT CH="aliīs: to others; plural dative from alius, alia, aliud"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="approximent: they might approach; 3rd person plural present active subjunctive from approximō, approximāre, approximāvī, approximātus"/>
                 <para PARENT="Vocab"/>
@@ -5426,29 +5426,29 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="circumquaque: on every side; all around"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="cīvitātī: citizens, city-state; singular feminine  from cīvitās, cīvitātis"/>
+                <ITEXT CH="cīvitātī: to the city; singular feminine dative from cīvitās, cīvitātis"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="coepimus: we started; 1st person plural present active from coepio, coepere, coepi, coeptus"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="comite: comrade; singular common  from comes, comitis"/>
+                <ITEXT CH="comite: comrade; singular common ablative from comes, comitis"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="contrīstābit: he will sadden; 3rd person singular future active from contrīstō, contrīstāre, contrīstāvī, contrīstātus"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="dare: to give;  person  present active from do, dare, dedi, datus"/>
+                <ITEXT CH="dare: to give; present active infinitive from dō, dare, dedī, datus"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="diē: day; singular common genitive from diēs, diēī"/>
+                <ITEXT CH="diē: day; singular common ablative from diēs, diēī"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="diēs: day; singular common nominative from diēs, diēī"/>
+                <ITEXT CH="diēs: day; singular common accusative from diēs, diēī"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="dominī: of the lord; singular masculine genitive from dominus, dominī"/>
+                <ITEXT CH="Dominī: of the lord; singular masculine genitive from dominus, dominī"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="duōs: two"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="Egidīī: Egidīī: comes dē Sānctō Egidīō = Raymond of Saint-Gilles"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="eīs: to them; plural dative or ablative from is, ea, id"/>
+                <ITEXT CH="eīs: to them; plural dative from is, ea, id"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="episcopō: overseer, bishop; singular masculine dative from episcopus, episcopī"/>
+                <ITEXT CH="episcopō: with the bishop; singular masculine ablative from episcopus, episcopī"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="erant: they were; 3rd person plural imperfect active from sum, esse, fuī, futūrus"/>
                 <para PARENT="Vocab"/>
@@ -5460,27 +5460,27 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="ex: out of, from"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="foderēmus: we were digging; 1st person plural imperfect active subjunctive from fodiō, fodere, fōdī, fossus"/>
+                <ITEXT CH="foderēmus: we might undermine; 1st person plural imperfect active subjunctive from fodiō, fodere, fōdī, fossus"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="fortiter: strongly (adverb from fortis, forte)"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="fuit: he was; 3rd person singular perfect active from sum, esse, fuī, futūrus"/>
+                <ITEXT CH="fuit: hospitāta fuit = he had been lodged; 3rd person singular perfect active from sum, esse, fuī, futūrus"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="gēns: people, clan, nation; singular feminine nominative from gēns, gentis"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="hospitor, hospitari, hospitatus sum: be a guest; lodge; stay; put up as a guest/lodger; infinitive"/>
+                <ITEXT CH="hospitāta: hospitāta fuit = he had been lodged;"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="hunc: this; singular masculine accusative of hic, haec, hoc"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="illa: that; singular feminine nominative from ille, illa, illud"/>
+                <ITEXT CH="illā: that; singular feminine ablative from ille, illa, illud"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="in: into (with accusative), in (with ablative)"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="īnstrūmenta: instruments, tools; plural neuter nominative from īnstrūmentum, īnstrūmentī"/>
+                <ITEXT CH="īnstrūmenta: instruments, tools; plural neuter accusative from īnstrūmentum, īnstrūmentī"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="introeant: they might go in, invade; 3rd person plural present active subjunctive from introeō, introīre, introivi(iī), introitus"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="invādere: to invade;  person  present active from invādō, invādere, invāsī, invāsus"/>
+                <ITEXT CH="invādere: to invade; present active infinitive from invādō, invādere, invāsī, invāsus"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="ipsa: itself; singular feminine nominative from ipse, ipsa, ipsum"/>
                 <para PARENT="Vocab"/>
@@ -5490,13 +5490,13 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="lignōrum: of wood; plural neuter genitive from lignum, lignī"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="merīdiānam: noon, southern; singular feminine accusative from meridianus, meridiana, meridianum"/>
+                <ITEXT CH="merīdiānam: southern; singular feminine accusative from meridianus, meridiana, meridianum"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="mīsērunt: they sent; 3rd person plural perfect active from mittō, mittere, mīsī, missus"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="modum: mode, manner, way, measure, size; singular masculine accusative from modus, modī"/>
+                <ITEXT CH="modum: mode, manner, way; singular masculine accusative from modus, modī"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="mūrālēs: walled; plural common nominative from mūrālis, mūrālis, mūrāle"/>
+                <ITEXT CH="mūrālēs: walled; plural common accusative from mūrālis, mūrālis, mūrāle"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="mūrum: city wall; singular masculine accusative from mūrus, mūrī"/>
                 <para PARENT="Vocab"/>
@@ -5504,11 +5504,13 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="nēmō: no one; singular common nominative from nēmō, nēminis"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="nūntiōs: messengers; plural masculine accusative from nuntius, nunti(i)"/>
+                <ITEXT CH="nūntiōs: messengers; plural masculine accusative from nuntius, nuntiī"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="obviam: in the path"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="per: through"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="Podiēnsi: Le Puy Cathedral, in Auvergne, France (ablative case)"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="porta: gate; singular feminine nominative from porta, portae"/>
                 <para PARENT="Vocab"/>
@@ -5518,35 +5520,33 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="post: behind, after, since"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="quae: who; plural female nom. or neuter nom. or acc. of quis"/>
+                <ITEXT CH="quae: which; singular female nominative from quī"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="quī: who; plural masculine nominative of quis"/>
+                <ITEXT CH="quī: who; plural masculine nominative of quī"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="quippe: surely, indeed, the thing is"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="quō: what; singular ablative of quis"/>
+                <ITEXT CH="quō: with which; singular ablative of quī"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="quod: what; singular neuter nom. or acc. of qui"/>
+                <ITEXT CH="quod: that"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="quoniam: after"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="sabbatī: Sabbath; singular neuter genitive from sabbatum, sabbatī"/>
+                <ITEXT CH="Sabbatī: Sabbath; singular neuter genitive from sabbatum, sabbatī"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="sānctī: holy"/>
+                <ITEXT CH="Sānctī: holy; comite Sānctī Egidīī = Raymond of Saint-Gilles"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="sēcūrē: safely, securly"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="sternere: to spread, to lay out;  person  present active from sternō, sternere, strāvī, strātus"/>
+                <ITEXT CH="sternere: to overthrow, to spread, to lay out; present active infinitive from sternō, sternere, strāvī, strātus"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="tam: as much, as much as"/>
+                <ITEXT CH="tam: so, as much, as much as"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="Turcī: of the Turk"/>
+                <ITEXT CH="Turcī: the Turks"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="turrēs: towers; plural feminine nominative from turris, turris"/>
+                <ITEXT CH="turrēs: towers; plural feminine accusative from turris, turris"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="UNKNOWN: {:word &quot;Podiensi&quot;, :part-of-speech :unknown}"/>
-                <para PARENT="Vocab"/>
-                <ITEXT CH="urbe: city; singular feminine  from urbs, urbis"/>
+                <ITEXT CH="urbe: city; singular feminine ablative from urbs, urbis"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="urbem: city; singular feminine accusative from urbs, urbis"/>
                 <para PARENT="Vocab"/>
@@ -5555,15 +5555,10 @@
                 <ITEXT CH="ut: so that"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="vēnērant: they had came; 3rd person plural pluperfect active indicative from veniō, venīre, vēnī, ventus"/>
-                <para PARENT="Vocab"/>
-                <para PARENT="Vocab"/>
-                <ITEXT CH="(Podiensi hospitor, hospitari, hospitatus sum)"/>
-                <para PARENT="Vocab"/>
-                <ITEXT CH="2"/>
                 <trail PARENT="Vocab"/>
             </StoryText>
         </PAGEOBJECT>
-        <PAGEOBJECT XPOS="136.001" YPOS="25016.092" OwnPage="59" ItemID="896113183" PTYPE="4" WIDTH="522" HEIGHT="261" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 261 L0 261 L0 0 Z" copath="M0 0 L522 0 L522 261 L0 261 L0 0 Z" gXpos="136.001" gYpos="25016.092" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT XPOS="136.001" YPOS="25016.092" OwnPage="59" ItemID="190066954" PTYPE="4" WIDTH="522" HEIGHT="261" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 261 L0 261 L0 0 Z" copath="M0 0 L522 0 L522 261 L0 261 L0 0 Z" gXpos="136.001" gYpos="25016.092" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <ITEXT CH="Quī comes, veniēns ex aliā parte, prōtēctus dīvīnā virtūte ac terrēnīs fulgēbat"/>
@@ -5582,7 +5577,7 @@
                 <trail PARENT="Latin"/>
             </StoryText>
         </PAGEOBJECT>
-        <PAGEOBJECT XPOS="136.001" YPOS="25277.5031847134" OwnPage="59" ItemID="887975183" PTYPE="4" WIDTH="522" HEIGHT="194.904458598725" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 194.904 L0 194.904 L0 0 Z" copath="M0 0 L522 0 L522 194.904 L0 194.904 L0 0 Z" gXpos="136.001" gYpos="25277.5031847134" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT XPOS="136.001" YPOS="25277.5031847134" OwnPage="59" ItemID="190401146" PTYPE="4" WIDTH="522" HEIGHT="194.904458598725" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 194.904 L0 194.904 L0 0 Z" copath="M0 0 L522 0 L522 194.904 L0 194.904 L0 0 Z" gXpos="136.001" gYpos="25277.5031847134" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <ITEXT FEATURES="inherit superscript" CH="1"/>
@@ -5614,7 +5609,7 @@
                 <trail PARENT="footnotes"/>
             </StoryText>
         </PAGEOBJECT>
-        <PAGEOBJECT XPOS="766.001" YPOS="25016.092" OwnPage="60" ItemID="896600127" PTYPE="4" WIDTH="522" HEIGHT="720" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="2" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 720 L0 720 L0 0 Z" copath="M0 0 L522 0 L522 720 L0 720 L0 0 Z" gXpos="766.001" gYpos="25016.092" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT XPOS="766.001" YPOS="25016.092" OwnPage="60" ItemID="193283930" PTYPE="4" WIDTH="522" HEIGHT="720" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="2" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 720 L0 720 L0 0 Z" copath="M0 0 L522 0 L522 720 L0 720 L0 0 Z" gXpos="766.001" gYpos="25016.092" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <ITEXT CH="ā: from, out of, by, since"/>
@@ -5659,7 +5654,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="cum: with"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="dedērunt: they gave; 3rd person plural perfect active from do, dare, dedi, datus"/>
+                <ITEXT CH="dedērunt: they gave; 3rd person plural perfect active from dō, dare, dedī, datus"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="dēscendere: to descend;  person  present active from dēscendō, dēscendere, dēscendī, dēscēnsus"/>
                 <para PARENT="Vocab"/>
