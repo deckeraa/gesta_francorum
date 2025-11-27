@@ -199,14 +199,14 @@
         <PAGE PAGEXPOS="712.001" PAGEYPOS="31636.116" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="76" NAM="" MNAM="Vocab right" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
         <PAGE PAGEXPOS="100.001" PAGEYPOS="32468.119" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="77" NAM="" MNAM="Latin left" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
         <PAGE PAGEXPOS="712.001" PAGEYPOS="32468.119" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="78" NAM="" MNAM="Vocab right" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
-        <MASTEROBJECT XPOS="136.001" YPOS="776.002" OwnPage="2" ItemID="163653105" PTYPE="4" WIDTH="522" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 18 L0 18 L0 0 Z" copath="M0 0 L522 0 L522 18 L0 18 L0 0 Z" OnMasterPage="Latin left" gXpos="12376.001" gYpos="959444297115.138" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <MASTEROBJECT XPOS="136.001" YPOS="776.002" OwnPage="2" ItemID="163653105" PTYPE="4" WIDTH="522" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 18 L0 18 L0 0 Z" copath="M0 0 L522 0 L522 18 L0 18 L0 0 Z" OnMasterPage="Latin left" gXpos="12376.001" gYpos="959911549999.913" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <var name="pgno" FONTSIZE="12"/>
                 <trail ALIGN="1"/>
             </StoryText>
         </MASTEROBJECT>
-        <MASTEROBJECT XPOS="154.001" YPOS="776.002" OwnPage="3" ItemID="163758865" PTYPE="4" WIDTH="522" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 18 L0 18 L0 0 Z" copath="M0 0 L522 0 L522 18 L0 18 L0 0 Z" OnMasterPage="Vocab right" gXpos="15439225870.001" gYpos="959443738844.54" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <MASTEROBJECT XPOS="154.001" YPOS="776.002" OwnPage="3" ItemID="163758865" PTYPE="4" WIDTH="522" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 18 L0 18 L0 0 Z" copath="M0 0 L522 0 L522 18 L0 18 L0 0 Z" OnMasterPage="Vocab right" gXpos="15456410830.001" gYpos="959910991729.315" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <var name="pgno" FONTSIZE="12"/>
@@ -7400,6 +7400,165 @@
                 <ITEXT CH="virīliter: strongly"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="volunt: they want; singular 3rd person present from volō, velle, voluī (irr.)"/>
+                <trail PARENT="Vocab"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="136.001" YPOS="32504.119" OwnPage="77" ItemID="412557745" PTYPE="4" WIDTH="522" HEIGHT="204.498834394893" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 204.499 L0 204.499 L0 0 Z" copath="M0 0 L522 0 L522 204.499 L0 204.499 L0 0 Z" gXpos="136.001" gYpos="32504.119" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="Mīrābantur ergō nostrī"/>
+                <ITEXT FEATURES="inherit superscript" CH="1"/>
+                <ITEXT CH=" valdē, unde esset exorta tanta multitūdō Turcōrum et Arabum et Saracēnōrum et aliōrum quōs ēnumerāre ignōrō; quia paene omnēs montēs et collēs et vallēs et omnia plāna loca intus et extrā undique erant cooperta dē illā excommūnicātā"/>
+                <ITEXT FEATURES="inherit superscript" CH="2"/>
+                <ITEXT CH=" generātiōne. Factus est itaque sermō sēcrētus inter nōs laudantēs et cōnsulentēs atque dīcentēs: &quot;Ēstote omnimodō ūnanimēs in fide Chrīstī et Sānctae Crucis vexillī victōriā, quia hodiē omnēs dīvitēs, sī Deō placet, effectī eritis.&quot;"/>
+                <trail PARENT="Latin"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="136.001" YPOS="32708.6178343949" OwnPage="77" ItemID="410892609" PTYPE="4" WIDTH="522" HEIGHT="107.331210191074" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 107.331 L0 107.331 L0 0 Z" copath="M0 0 L522 0 L522 107.331 L0 107.331 L0 0 Z" gXpos="136.001" gYpos="32708.6178343949" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FEATURES="inherit superscript" CH="1"/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="Therefore our (soldiers) marveled greatly, from whence had arisen such a multitude of Turks and Arabs and Saracenes and other whom I do not know how to enumerate."/>
+                <para PARENT="footnotes"/>
+                <ITEXT FEATURES="inherit superscript" CH="2"/>
+                <ITEXT CH="Here 'excommunicate generation' is likely used in a non-technical sense, and the author just means that the peoples were non-Christian."/>
+                <para PARENT="footnotes"/>
+                <ITEXT FEATURES="inherit superscript" CH="3"/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="There was made therefore a secret word (or conversation) amongst us, praising (God) and consulting (together) and saying 'Be altogether of one spirit in the faith of Christ and in the victory of the flag of the Holy Cross, because today you will all be made rich, if it pleases God."/>
+                <trail PARENT="footnotes"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="766.001" YPOS="32504.119" OwnPage="78" ItemID="157697041" PTYPE="4" WIDTH="522" HEIGHT="720.000000000004" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="2" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 720 L0 720 L0 0 Z" copath="M0 0 L522 0 L522 720 L0 720 L0 0 Z" gXpos="766.001" gYpos="32504.119" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="aliōrum: of others; plural masculine genitive from alius, alia, aliud"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="arabum: of the Arabs; plural masculine genitive from Arabs, Arabis"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="atque: and"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="chrīstī: Christ; singular masculine genitive from Chrīstus, Chrīstī"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="collēs: hills; plural masculine nominative from collis, collis"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="cōnsulentēs: consulting; plural common nominative present participle from cōnsulō, cōnsulere, cōnsuluī, cōnsultus"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="cooperta: covered; singular feminine nominative perfect passive participle from cooperiō, cooperīre, cooperuī, coopertus"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="crucis: cross's; singular feminine genitive from crux, crucis"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="dē: of, from, away from, down from"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="deō: god; singular masculine dative from Deus, Dei"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="dīcentēs: saying; plural common nominative present participle from dīcō, dīcere, dīxī, dictus"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="dīvitēs: rich; plural common nominative from dīves, dīvitis (gen.), dīvitior -or -us, dīvitissimus -a -um"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="effectī: having been achieved, produced; singular masculine genitive perfect passive participle from efficiō, efficere, effēcī, effectus"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="ēnumerāre: to count up, enumerate;  person  present active from ēnumerō, ēnumerāre, ēnumerāvī, ēnumerātus"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="erant: they were; 3rd person plural imperfect active from sum, esse, fuī, futūrus"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="ergō: therefore"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="eritis: you will be; 2nd person plural future active from sum, esse, fuī, futūrus"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="esset: he (might) have been; 3rd person singular imperfect active subjunctive from sum, esse, fuī, futūrus"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="estōte: be! (in the future); 2nd person plural future active imperative from sum, esse, fuī, futūrus"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="et: and"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="excommūnicātā: having been excommunicated; singular feminine nominative perfect passive participle from excommūnicō, excommūnicāre, excommūnicāvī, excommūnicātus"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="exorta: having come out, appeared; singular feminine nominative perfect participle from exorior, exoriri, exortus sum"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="extrā: outside of, beyond"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="factus: made; singular masculine nominative perfect passive participle from "/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="fidē: faith; singular feminine genitive from fidēs, fideī"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="generātiōne: generation; singular feminine  from generātiō, generātiōnis"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="hodiē: today"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="īgnōrō: I do not know; 1st person singular present active from īgnōrō, īgnōrāre, īgnōrāvī, īgnōrātus"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="illa: that; singular feminine nominative from ille, illa, illud"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="in: into (with accusative), in (with ablative)"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="inter: between, among, during"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="intus: inside"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="itaque: so then, therefore"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="laudantēs: praising; plural common nominative present participle from laudō, laudāre, laudāvī, laudātus"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="loca: places; 2nd person singular present active imperative from locō, locāre, locāvī, locātus"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="miror, mirari, miratus sum: be amazed/surprised/bewildered (at); look in wonder/awe/admiration at; admire/revere; wonder; marvel at; infinitive"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="montēs: mountains; plural masculine nominative from mōns, montis"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="multitūdō: multitude, great number; singular feminine nominative from multitūdō, multitūdinis"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="nōs: us; plural nominative or accusative of ego"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="nostrī: our; sing. masc. gen. or pl. masc. nom. or sing. neut. gen. of noster"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="omnēs: all, every; plural common nominative from omnis, omnis, omne"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="omnia: all, every; plural neuter nominative from omnis, omnis, omne"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="omnimodō: by any means"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="paene: almost"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="placet: it pleases; 3rd person singular present active from placeō, placēre, placuī, placitus"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="plāna: flat, clear, even, easy; singular feminine nominative from plānus, plāna -um, planior -or -us, planissimus -a -um"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="quia: because"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="quōs: who; plural masculine accusative of quis"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="sānctae: holy"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="Saracēnōrum: of Saracenes, muslims"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="sēcrētus: secret; singular masculine nominative from secretus, secreta -um, secretior -or -us, secretissimus -a -um"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="sermō: conversation, speech; singular masculine nominative from sermō, sermōnis"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="sī: if"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="tanta: so much, so great, this many; singular feminine nominative from tantus, tanta, tantum"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="Turcōrum: of the Turks"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="ūnanimēs: acting in accord; sharing a single purpose; plural common nominative from ūnanimis, ūnanimis, ūnanime"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="unde: from where?"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="undique: from all sides"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="valdē: very"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="vallēs: valleys; singular feminine nominative from vall.es"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="vexillī: flag, banner; singular neuter genitive from vexillum, vexillī"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="victōria: victory; singular feminine nominative from victōria, victōriae"/>
+                <para PARENT="Vocab"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="(miror, mirari, miratus sum)"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="1"/>
                 <trail PARENT="Vocab"/>
             </StoryText>
         </PAGEOBJECT>
