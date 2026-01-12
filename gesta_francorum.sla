@@ -397,14 +397,14 @@
         <PAGE PAGEXPOS="712.001" PAGEYPOS="114004.413" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="274" NAM="" MNAM="Vocab right" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
         <PAGE PAGEXPOS="100.001" PAGEYPOS="114836.416" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="275" NAM="" MNAM="Latin left" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
         <PAGE PAGEXPOS="712.001" PAGEYPOS="114836.416" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="276" NAM="" MNAM="Vocab right" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
-        <MASTEROBJECT XPOS="136.001" YPOS="776.002" OwnPage="2" ItemID="1794748500" PTYPE="4" WIDTH="522" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 18 L0 18 L0 0 Z" copath="M0 0 L522 0 L522 18 L0 18 L0 0 Z" OnMasterPage="Latin left" gXpos="12376.001" gYpos="1395344331966.23" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <MASTEROBJECT XPOS="136.001" YPOS="776.002" OwnPage="2" ItemID="1794748500" PTYPE="4" WIDTH="522" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 18 L0 18 L0 0 Z" copath="M0 0 L522 0 L522 18 L0 18 L0 0 Z" OnMasterPage="Latin left" gXpos="12376.001" gYpos="1406412232418.31" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <var name="pgno" FONTSIZE="12"/>
                 <trail ALIGN="1"/>
             </StoryText>
         </MASTEROBJECT>
-        <MASTEROBJECT XPOS="154.001" YPOS="776.002" OwnPage="3" ItemID="1794655220" PTYPE="4" WIDTH="522" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 18 L0 18 L0 0 Z" copath="M0 0 L522 0 L522 18 L0 18 L0 0 Z" OnMasterPage="Vocab right" gXpos="21612608794.001" gYpos="1395334450270.01" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <MASTEROBJECT XPOS="154.001" YPOS="776.002" OwnPage="3" ItemID="1794655220" PTYPE="4" WIDTH="522" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 18 L0 18 L0 0 Z" copath="M0 0 L522 0 L522 18 L0 18 L0 0 Z" OnMasterPage="Vocab right" gXpos="21729749266.001" gYpos="1406402350722.09" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <var name="pgno" FONTSIZE="12"/>
@@ -28993,11 +28993,234 @@
             <StoryText>
                 <DefaultStyle/>
                 <tab/>
-                <ITEXT CH="Postquam vērō haec omnia facta sunt, congregātī omnēs nostrī maiōrēs ōrdināvērunt concilium, quemadmodum hunc fēlīciter valērent condūcere et regere populum, dōnec peragerent iter Sānctī Sepulchrī, prō quō hūc usque multa erant passī perīcula. Inventum est in conciliō, quia nōndum audērent intrāre in pāgānōrum terram, eō quod valdē in aestīvō tempore est ārida et inaquōsa; ideōque accēpērunt terminum attendendum ad kalendās Novembrīs."/>
+                <ITEXT CH="Postquam vērō haec omnia facta sunt, congregātī omnēs nostrī maiōrēs ōrdināvērunt concilium, quemadmodum"/>
+                <ITEXT FEATURES="inherit superscript" CH="1"/>
+                <ITEXT CH=" hunc fēlīciter valērent condūcere et regere populum, dōnec peragerent iter Sānctī Sepulchrī, prō quō hūc usque multa erant passī perīcula. Inventum est in conciliō, quia nōndum audērent intrāre in pāgānōrum terram, eō quod valdē in aestīvō tempore est ārida et inaquōsa; ideōque accēpērunt terminum"/>
+                <ITEXT FEATURES="inherit superscript" CH="2"/>
+                <ITEXT CH=" attendendum ad kalendās Novembrīs."/>
                 <para PARENT="Latin"/>
                 <tab/>
-                <ITEXT CH="Dēnique dīvīsī sunt seniōrēs, et ūnusquisque profectus est in terram suam, dōnec esset prope terminus eundī, fēcēruntque prīncipēs praecōnārī per urbem ūniversam, ut, sī forte aliquis egēns illīc adesset et aurō et argentō cāreret, conventiōne facta cum illīs remanēre sī vellet, ab eīs cum gaudiō retentus esset."/>
+                <ITEXT CH="Dēnique dīvīsī sunt seniōrēs, et ūnusquisque profectus est in terram suam, dōnec esset prope terminus"/>
+                <ITEXT FEATURES="inherit superscript" CH="3"/>
+                <ITEXT CH=" eundī, fēcēruntque prīncipēs praecōnārī per urbem ūniversam, ut, sī forte aliquis egēns"/>
+                <ITEXT FEATURES="inherit superscript" CH="4"/>
+                <ITEXT CH=" illīc adesset et aurō et argentō cāreret, conventiōne facta cum illīs remanēre sī vellet, ab eīs cum gaudiō retentus esset."/>
                 <para PARENT="Latin"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="136.001" YPOS="115171.108280255" OwnPage="275" ItemID="623505701" PTYPE="4" WIDTH="522" HEIGHT="139.414012738576" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 139.414 L0 139.414 L0 0 Z" copath="M0 0 L522 0 L522 139.414 L0 139.414 L0 0 Z" gXpos="136.001" gYpos="115171.108280255" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FEATURES="inherit superscript" CH="1"/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="In what whay they might be able to happily conduct and rule the people, until they had completed the trip of the Holy Sepulchre, for which, up to now, they had suffered many dangers."/>
+                <para PARENT="footnotes"/>
+                <ITEXT FEATURES="inherit superscript" CH="2"/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="And for that reason they received a date for re-convening at the start of November."/>
+                <ITEXT CH=" Here "/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="terminum"/>
+                <ITEXT CH=" has the meaning of an appointed date; this usage appears in Medieval Latin."/>
+                <para PARENT="footnotes"/>
+                <ITEXT FEATURES="inherit superscript" CH="3"/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="Until it was the appointed time for going."/>
+                <para PARENT="footnotes"/>
+                <ITEXT FEATURES="inherit superscript" CH="4"/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="That if perhaps someone poor was there and lacked both gold and silver, an agreement would be made with those if he wished to remain, that he might be retained by them with gladness."/>
+                <ITEXT CH=" The Crusader princes made a deal that if anyone was too poor to complete the trip to Jerusalem they could be retained in employment with one of the princes."/>
+                <trail PARENT="footnotes"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="766.001" YPOS="114872.416" OwnPage="276" ItemID="633611925" PTYPE="4" WIDTH="522" HEIGHT="720" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="2" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 720 L0 720 L0 0 Z" copath="M0 0 L522 0 L522 720 L0 720 L0 0 Z" gXpos="766.001" gYpos="114872.416" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="ab: from, out of, by, since"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="accēpērunt: they accepted, they received; 3rd person plural perfect active from accipiō, accipere, accēpī, acceptus"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="ad: to, towards, at, according to"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="adesset: he (might) have been present; 3rd person singular imperfect active subjunctive from adsum, adesse, adfui, adfuturus"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="aestīvō: summer; singular masculine dative from aestivus, aestiva, aestivum"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="aliquis: someone"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="argentō: silver; singular neuter ablative from argentum, argentī"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="ārida: dry; singular feminine nominative from arid.a"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="attendendum: attending; singular neuter nominative future passive participle from attendō, attendere, attendī, attentus"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="audērent: they had dared; 3rd person plural imperfect active subjunctive from audeō, audēre, ausus sum"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="aurō: gold; singular neuter ablative from aurum, aurī"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="cāreret: it might have lacked; 3rd person singular imperfect active subjunctive from careō, carēre, caruī, caritus"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="conciliō: I win; 1st person singular present active from conciliō, conciliāre, conciliāvī, conciliātus"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="concilium: council, assembly; singular neuter nominative from concilium, concili(i)"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="condūcere: to assemble; present active infinitive from condūcō, condūcere, condūxī, conductus"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="congregātī: having been gathered; singular masculine genitive perfect passive participle from congregō, congregāre, congregāvī, congregātus"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="conventiōne: agreement, meeting of people; singular feminine ablative from conventiō, conventiōnis"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="cum: with"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="dēnique: finally"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="dīvīsī: having been divided; infinitive"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="dōnec: while, as long as, until"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="egēns: lacking, being poor; singular nominative present participle from egeō, egēre, eguī, -"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="eīs: them; plural dative or ablative from is, ea, id"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="eō: I go; 1st person singular present active from eo, ire, ivi(ii), itus"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="erant: they were; 3rd person plural imperfect active from sum, esse, fuī, futūrus"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="esset: he (might) have been; 3rd person singular imperfect active subjunctive from sum, esse, fuī, futūrus"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="est: he is; 3rd person singular present active from sum, esse, fuī, futūrus"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="et: and"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="eundī: of going; singular masculine genitive future passive participle from eo, ire, ivi(ii), itus"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="facta: having been made; singular feminine nominative perfect passive participle from faciō, facere, fēcī, factus"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="fēcērunt: they did, they made; 3rd person plural perfect active from faciō, facere, fēcī, factus"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="fēlīciter: happily"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="forte: by chance"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="gaudiō: joy, delight; singular neuter ablative from gaudium, gaudi(i)"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="haec: this, these; singular feminine nominative or plural neuter nom. or acc. of hic, haec, hoc"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="hūc: toward here"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="hunc: this; singular masculine accusative of hic, haec, hoc"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="ideō: for that reason"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="illīc: there"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="illīs: those; plural dative or ablative from ille, illa, illud"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="in: into (with accusative), in (with ablative)"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="inaquōsa: waterless; singular feminine nominative from inaquōsus, inaquōsa, inaquōsum"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="intrāre: to enter; present active infinitive from intrō, intrāre, intrāvī, intrātus"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="inventum: having been found; singular neuter nominative perfect passive participle from invent.um"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="iter: journey, trip; singular neuter nominative from iter, itineris"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="kalendās: calends, first day of the month; plural feminine accusative from Kalenda, Kalendae"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="maiōrēs: bigger; plural common nominative from magnus, magna -um, major -or -us, maximus -a -um"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="multa: many; singular feminine nominative from multus, multa -um, -, plūrimus -a -um"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="nōndum: not yet"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="nostrī: our; plural masculine nominative from noster"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="novembris: of November; singular feminine nominative from November, Novembris, Novembre"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="omnēs: all, every; plural common nominative from omnis, omnis, omne"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="omnia: all, every; plural neuter nominative from omnis, omnis, omne"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="ōrdināvērunt: they ordained, set in order; 3rd person plural perfect active from ōrdinō, ōrdināre, ōrdināvī, ōrdinātus"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="pāgānōrum: of peasants, villagers, rustics; plural masculine genitive from pāgānus, pāgānī"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="passī: passī + est = they suffered"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="per: through"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="peragerent: they might have completed; 3rd person plural imperfect active subjunctive from peragō, peragere, perēgī, perāctus"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="perīcula: dangers; plural neuter nominative from perīculum, perīculī"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="populum: people, populace; singular masculine accusative from populus, populī"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="postquam: since, since then, after"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="praeconārī: to proclaim, to herald; infinitive"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="prīncipēs: first men, chiefs; plural masculine nominative from prīnceps, prīncipis"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="prō: for, in favor of, before, in place of"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="profectus: profectus sum = I set out; singular masculine nominative perfect passive participle from proficio, proficere, profeci, profectus"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="prope: near, close"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="quemadmodum: how"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="quia: because"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="quō: what; singular ablative from quī"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="quod: what; singular neuter nom. or acc. of qui"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="regere: to rule; present active infinitive from regō, regere, rēxī, rēctus"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="remanēre: to remain; present active infinitive from remaneō, remanēre, remānsī, remānsus"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="retentus: having been retained; singular masculine nominative perfect passive participle from retineō, retinēre, retinuī, retentus"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="sānctī: holy"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="seniōrēs: elders; plural common nominative from senex, senis (gen.), senior -or -us, -"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="sepulchrī: grave; singular neuter genitive from sepulchrum, sepulchrī"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="sī: if"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="suam: her; singular feminine acc. from suus"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="sunt: they are; 3rd person plural present active from sum, esse, fuī, futūrus"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="tempore: time, period; singular neuter ablative from tempus, temporis"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="terminum: end, boundary, limit; from termin.um"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="terminus: end, boundary, limit; singular masculine nominative from terminus, terminī"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="terram: land; singular feminine accusative from terra, terrae"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="ūniversam: whole, entire; singular feminine accusative from ūniversus, ūniversa, ūniversum"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="ūnusquisque: each one"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="urbem: city; singular feminine accusative from urbs, urbis"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="ūsque: until, all the way, up until"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="ut: so that"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="valdē: very"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="valērent: they were healthy, able, strong; 3rd person plural imperfect active subjunctive from valeo, valere, valui, valitus"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="vellet: he was wanting; 3rd person singular future active from vellō, vellere, vellī, vulsus"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="vērō: and, truly, even so, still"/>
+                <para PARENT="Vocab"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="()"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="0"/>
+                <trail PARENT="Vocab"/>
             </StoryText>
         </PAGEOBJECT>
     </DOCUMENT>
