@@ -405,14 +405,14 @@
         <PAGE PAGEXPOS="712.001" PAGEYPOS="117332.425" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="282" NAM="" MNAM="Vocab right" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
         <PAGE PAGEXPOS="100.001" PAGEYPOS="118164.428" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="283" NAM="" MNAM="Latin left" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
         <PAGE PAGEXPOS="712.001" PAGEYPOS="118164.428" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="284" NAM="" MNAM="Vocab right" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
-        <MASTEROBJECT XPOS="136.001" YPOS="776.002" OwnPage="2" ItemID="1088071861" PTYPE="4" WIDTH="522" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 18 L0 18 L0 0 Z" copath="M0 0 L522 0 L522 18 L0 18 L0 0 Z" OnMasterPage="Latin left" gXpos="12376.001" gYpos="1435156617343.21" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <MASTEROBJECT XPOS="136.001" YPOS="776.002" OwnPage="2" ItemID="1088071861" PTYPE="4" WIDTH="522" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 18 L0 18 L0 0 Z" copath="M0 0 L522 0 L522 18 L0 18 L0 0 Z" OnMasterPage="Latin left" gXpos="12376.001" gYpos="1440191223912.76" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <var name="pgno" FONTSIZE="12"/>
                 <trail ALIGN="1"/>
             </StoryText>
         </MASTEROBJECT>
-        <MASTEROBJECT XPOS="154.001" YPOS="776.002" OwnPage="3" ItemID="1088063301" PTYPE="4" WIDTH="522" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 18 L0 18 L0 0 Z" copath="M0 0 L522 0 L522 18 L0 18 L0 0 Z" OnMasterPage="Vocab right" gXpos="22028994010.001" gYpos="1435146735646.99" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <MASTEROBJECT XPOS="154.001" YPOS="776.002" OwnPage="3" ItemID="1088063301" PTYPE="4" WIDTH="522" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 18 L0 18 L0 0 Z" copath="M0 0 L522 0 L522 18 L0 18 L0 0 Z" OnMasterPage="Vocab right" gXpos="22080788794.001" gYpos="1440181342216.54" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <var name="pgno" FONTSIZE="12"/>
@@ -29892,6 +29892,190 @@
                 <ITEXT CH="vincula: chains; plural neuter accusative from vinculum, vinculī"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="voluntās: will; singular feminine nominative from voluntās, voluntātis"/>
+                <trail PARENT="Vocab"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="136.001" YPOS="118200.428" OwnPage="283" ItemID="2093707381" PTYPE="4" WIDTH="522" HEIGHT="206.094292993934" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 206.094 L0 206.094 L0 0 Z" copath="M0 0 L522 0 L522 206.094 L0 206.094 L0 0 Z" gXpos="136.001" gYpos="118200.428" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <tab/>
+                <ITEXT CH="Unde magna angustia et trībulātiō immēnsusque dolor fuit in tōtā Chrīstī mīlitiā, quia ille erat sustentāmentum"/>
+                <ITEXT FEATURES="inherit superscript" CH="1"/>
+                <ITEXT CH=" pauperum, cōnsilium dīvitum, ipseque ōrdinābat clēricōs, praedicābat et summonēbat mīlitēs dīcēns: &quot;Quia nēmō ex vōbīs salvārī potest, nisi honōrificet"/>
+                <ITEXT FEATURES="inherit superscript" CH="2"/>
+                <ITEXT CH=" pauperēs et reficiat, vōsque nōn potestis salvārī sine illīs, ipsīque"/>
+                <ITEXT FEATURES="inherit superscript" CH="3"/>
+                <ITEXT CH=" vīvere nequeunt sine vōbīs. Oportet igitur ut ipsī cotīdiānā supplicātiōne prō vestrīs ōrent"/>
+                <ITEXT FEATURES="inherit superscript" CH="4"/>
+                <ITEXT CH=" dēlictīs Deum, quem in multīs cotīdiē offenditis. Unde vōs rogō ut prō Deī amōre eōs dīligātis et in quantum potestis eōs sustentētis.&quot;"/>
+                <para PARENT="Latin"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="136.001" YPOS="118406.522292994" OwnPage="283" ItemID="2093884981" PTYPE="4" WIDTH="522" HEIGHT="74.2929936305736" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 74.293 L0 74.293 L0 0 Z" copath="M0 0 L522 0 L522 74.293 L0 74.293 L0 0 Z" gXpos="136.001" gYpos="118406.522292994" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FEATURES="inherit superscript" CH="1"/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="He was (giving) the sustenance of the poor, divine plans, and he himself was ordaining "/>
+                <ITEXT FONT="DejaVu Serif Italic" FEATURES="inherit" CH="clerics."/>
+                <para PARENT="footnotes"/>
+                <ITEXT FEATURES="inherit superscript" CH="2"/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="That no one of you can be saved, unless he might honor and refesh the poor."/>
+                <para PARENT="footnotes"/>
+                <ITEXT FEATURES="inherit superscript" CH="3"/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="And they themselves are not able to live without you."/>
+                <para PARENT="footnotes"/>
+                <ITEXT FEATURES="inherit superscript" CH="4"/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="They should pray to God for your sins."/>
+                <trail PARENT="footnotes"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="766.001" YPOS="118200.428" OwnPage="284" ItemID="2091728517" PTYPE="4" WIDTH="522" HEIGHT="720" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="2" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 720 L0 720 L0 0 Z" copath="M0 0 L522 0 L522 720 L0 720 L0 0 Z" gXpos="766.001" gYpos="118200.428" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="amōre: with love; singular masculine ablative from amor, amōris"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="angustia: small space, narrow passage, being boxed in; singular feminine nominative from angustia, angustiae"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="chrīstī: Christ; singular masculine genitive from Chrīstus, Chrīstī"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="clēricōs: clerics; plural masculine accusative from clēricus, clēricī"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="cōnsilium: plan, advice, council; singular neuter nominative from consilium, consili(i)"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="cotīdiānā: every day; singular feminine nominative from cōtīdiānus, cōtīdiāna, cōtīdiānum"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="cotīdiē: daily"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="deī: god, diety; singular masculine genitive from Deus, Dei"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="dēlictīs: having been failed, offended; plural dative perfect passive participle from dēlinquō, dēlinquere, dēlīquī, dēlictus"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="deum: god; singular masculine accusative from Deus, Dei"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="dīcēns: saying; singular nominative present participle from dīcō, dīcere, dīxī, dictus"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="dīligātis: you might love; infinitive"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="dīvitum: rich; plural genitive from dīves, dīvitis (gen.), dīvitior -or -us, dīvitissimus -a -um"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="dolor: pain, sorrow; singular masculine nominative from dolor, dolōris"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="eōs: them; plural masculine accusative from is, ea, id"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="erat: he was; 3rd person singular imperfect active from sum, esse, fuī, futūrus"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="et: and"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="ex: out of, from"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="fuit: he was; 3rd person singular perfect active from sum, esse, fuī, futūrus"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="honōrificet: let him honor; 3rd person singular present active subjunctive from honōrificō, honōrificāre, honōrificāvī, honōrificātus"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="igitur: therefore"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="ille: that; singular masculine nominative from ille, illa, illud"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="illīs: those; plural dative or ablative from ille, illa, illud"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="immēnsus: immense, boundless; singular masculine nominative from immēnsus, immēnsa, immēnsum"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="in: into (with accusative), in (with ablative)"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="ipse: itself; singular masculine nominative from ipse, ipsa, ipsum"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="ipsī: itself; sing. dative or plural masc. nom. from ipse, ipsa, ipsum"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="magna: large; singular feminine nominative from magnus, magna -um, major -or -us, maximus -a -um"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="mīlitēs: soldiers; plural masculine nominative from mīles, mīlitis"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="mīlitia: military; singular feminine nominative from mīlitia, mīlitiae"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="multīs: many; plural dative from multus, multa -um, -, plūrimus -a -um"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="nēmō: no one; singular common nominative from nēmō, nēminis"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="nequeunt: they are unable; 3rd person plural present active from nequeō, nequīre, nequivī(iī), nequitus"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="nisī: if not, unless"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="nōn: not"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="offenditis: you offend; 2nd person plural present active from offendō, offendere, offendī, offēnsus"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="oportet, oportere, oportuit, -: it is right/proper/necessary; infinitive"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="ōrdinābat: he was setting in order; 3rd person singular imperfect active from ōrdinō, ōrdināre, ōrdināvī, ōrdinātus"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="ōrent: let them pray; 3rd person plural present active subjunctive from ōrō, ōrāre, ōrāvī, ōrātus"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="pauperēs: poor; plural common nominative from pauper, pauperis (gen.), pauperior -or -us, pauperrimus -a -um"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="pauperum: poor; plural genitive from pauper, pauperis (gen.), pauperior -or -us, pauperrimus -a -um"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="potest: he can; 3rd person singular present active from possum, posse, potuī, -"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="potestis: you can; 2nd person plural present active from possum, posse, potuī, -"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="praedicābat: he preached; 3rd person singular imperfect active from praedicō, praedicāre, praedicāvī, praedicātus"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="prō: for, in favor of, before, in place of"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="quantum: how much?"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="quem: what, singular masculine accusative from quī"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="quia: because"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="reficiat: let him refresh; 3rd person singular present active subjunctive from reficiō, reficere, refēcī, refectus"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="rogō: I ask; singular masculine ablative from rogus, rogī"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="salvārī: to be saved; present passive infinitive from salvō, salvāre, salvāvī, salvātus"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="sine: without"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="summonēbat: he was reminding, privately advising; 3rd person singular imperfect active from summoneo, summonere, -, -"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="supplicātiōne: thanksgiving, public prayer; singular feminine ablative from supplicātiō, supplicātiōnis"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="sustentāmentum: feeding, sustaining; singular neuter nominative from sustentō, sustentāre, sustentāvī, sustentātus"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="sustentētis: you might feed, sustain, endure; 2nd person plural present active subjunctive from sustentō, sustentāre, sustentāvī, sustentātus"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="tōta: whole, total; singular feminine nominative from tōtus, tōta, tōtum (gen -ius)"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="trībulātiō: distress, trouble, tribulation; singular feminine nominative from trībulātiō, trībulātiōnis"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="unde: from where?"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="ut: so that"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="vestrīs: your; plural dative or ablative from vester"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="vīvere: to live; present active infinitive from vīvō, vīvere, vīxī, vīctus"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="vōbīs: you; plural dative or ablative from tu"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="vōs: you;(pronoun)"/>
+                <para PARENT="Vocab"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="()"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="0"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="Potentially mis-parsed words: "/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="immēnsusque=&gt;immēnsus"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="ipseque=&gt;ipse"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="vōsque=&gt;vōs"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="ipsīque=&gt;ipsī"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="Oportet=&gt;oportet, oportere, oportuit, -"/>
                 <trail PARENT="Vocab"/>
             </StoryText>
         </PAGEOBJECT>
