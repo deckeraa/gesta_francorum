@@ -473,14 +473,14 @@
         <PAGE PAGEXPOS="712.001" PAGEYPOS="145620.527" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="350" NAM="" MNAM="Vocab right" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
         <PAGE PAGEXPOS="100.001" PAGEYPOS="146452.53" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="351" NAM="" MNAM="Latin left" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
         <PAGE PAGEXPOS="712.001" PAGEYPOS="146452.53" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="352" NAM="" MNAM="Vocab right" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
-        <MASTEROBJECT XPOS="136.001" YPOS="776.002" OwnPage="2" ItemID="789308355" PTYPE="4" WIDTH="522" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 18 L0 18 L0 0 Z" copath="M0 0 L522 0 L522 18 L0 18 L0 0 Z" OnMasterPage="Latin left" gXpos="12376.001" gYpos="1702016451955.66" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <MASTEROBJECT XPOS="136.001" YPOS="776.002" OwnPage="2" ItemID="789308355" PTYPE="4" WIDTH="522" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 18 L0 18 L0 0 Z" copath="M0 0 L522 0 L522 18 L0 18 L0 0 Z" OnMasterPage="Latin left" gXpos="12376.001" gYpos="1708858951124.06" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <var name="pgno" FONTSIZE="12"/>
                 <trail ALIGN="1"/>
             </StoryText>
         </MASTEROBJECT>
-        <MASTEROBJECT XPOS="154.001" YPOS="776.002" OwnPage="3" ItemID="789216979" PTYPE="4" WIDTH="522" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 18 L0 18 L0 0 Z" copath="M0 0 L522 0 L522 18 L0 18 L0 0 Z" OnMasterPage="Vocab right" gXpos="24524769178.001" gYpos="1702002653189.32" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <MASTEROBJECT XPOS="154.001" YPOS="776.002" OwnPage="3" ItemID="789216979" PTYPE="4" WIDTH="522" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 18 L0 18 L0 0 Z" copath="M0 0 L522 0 L522 18 L0 18 L0 0 Z" OnMasterPage="Vocab right" gXpos="24581641114.001" gYpos="1708845152357.71" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <var name="pgno" FONTSIZE="12"/>
@@ -36848,6 +36848,264 @@
                 <ITEXT CH="ut: so that"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="vērō: and, but"/>
+                <trail PARENT="Vocab"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="136.001" YPOS="146488.53" OwnPage="351" ItemID="2022515443" PTYPE="4" WIDTH="522" HEIGHT="392.081464968534" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 392.081 L0 392.081 L0 0 Z" copath="M0 0 L522 0 L522 392.081 L0 392.081 L0 0 Z" gXpos="136.001" gYpos="146488.53" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <tab/>
+                <ITEXT CH="Intrantēs autem nostrī cīvitātem peregrīnī, persequēbantur et occīdēbant Saracēnōs ūsque ad Templum Salomōnis, in quō congregātī dedērunt nostrīs maximum bellum per tōtum diem, ita ut sanguis illōrum per tōtum templum flueret. Tandem superātīs pāgānīs, apprehendērunt nostrī masculōs et fēminās sat in templō, et occīdērunt quōs voluērunt, et quōs voluērunt retinuērunt vīvōs. Super Templum vērō Salomōnis erat maxima pāgānōrum congregātiō utrīusque sexūs, quibus Tancredus et Gastōn dē Beert dedērunt"/>
+                <ITEXT FEATURES="inherit superscript" CH="1"/>
+                <ITEXT CH=" sua vexilla. Mox cucurrērunt"/>
+                <ITEXT FEATURES="inherit superscript" CH="2"/>
+                <ITEXT CH=" per ūniversam urbem, capientēs aurum et argentum, equōs et mūlōs domōsque plēnās omnibus bonīs. Vēnērunt autem omnēs nostrī gaudentēs et prae nimiō gaudiō plōrantēs ad nostrī Salvātōris Iēsū Sepulchrum adōrandum et reddidērunt"/>
+                <ITEXT FEATURES="inherit superscript" CH="3"/>
+                <ITEXT CH=" eī capitāle dēbitum. Māne autem factō ascendērunt nostrī cautē suprā tēctum templī, et invāsērunt Saracēnōs masculōs et fēminās, dēcollantēs eōs nūdīs ēnsibus; aliī vērō dabant"/>
+                <ITEXT FEATURES="inherit superscript" CH="4"/>
+                <ITEXT CH=" sē praecipitantēs"/>
+                <ITEXT FEATURES="inherit superscript" CH="5"/>
+                <ITEXT CH=" ē templō. Hoc vidēns Tancredus īrātus est nimis."/>
+                <para PARENT="Latin"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="136.001" YPOS="146880.611464968" OwnPage="351" ItemID="2009704771" PTYPE="4" WIDTH="522" HEIGHT="254.369426751597" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 254.369 L0 254.369 L0 0 Z" copath="M0 0 L522 0 L522 254.369 L0 254.369 L0 0 Z" gXpos="136.001" gYpos="146880.611464968" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FEATURES="inherit superscript" CH="1"/>
+                <ITEXT CH="Tancred and Gaston gave a group of pagans who had surrendered their war-banners so that the other Crusaders would not attack them. However, some of the Crusaders ignored these banners, killing them anyway. This disregard of military procedure and the concomitant killing of civilians is what caused the anger of Tancred mentioned below."/>
+                <para PARENT="footnotes"/>
+                <ITEXT FEATURES="inherit superscript" CH="2"/>
+                <ITEXT CH="The Crusaders ran through the city, not the group of pagans who had taken refuge on the roof of the temple. The sentence change here is abrupt."/>
+                <para PARENT="footnotes"/>
+                <ITEXT FEATURES="inherit superscript" CH="3"/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="And they gave to Him the owed capital."/>
+                <ITEXT CH=" This likely refers to them fulfilling their Crusader vow, not to the payment of money."/>
+                <para PARENT="footnotes"/>
+                <ITEXT FEATURES="inherit superscript" CH="4"/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="Others were giving themselves (to death), jumping off the temple (roof where they had gathered for safety)."/>
+                <para PARENT="footnotes"/>
+                <ITEXT FEATURES="inherit superscript" CH="5"/>
+                <ITEXT CH="This word is listed as "/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="praecipitēs"/>
+                <ITEXT CH=" in Hagenmeyer's critical text; however, since this is a 2nd person verb and doesn't fit in the context, I've changed it to its participial form."/>
+                <trail PARENT="footnotes"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="766.001" YPOS="146488.53" OwnPage="352" ItemID="1987959075" PTYPE="4" WIDTH="522" HEIGHT="720" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="2" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 720 L0 720 L0 0 Z" copath="M0 0 L522 0 L522 720 L0 720 L0 0 Z" gXpos="766.001" gYpos="146488.53" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="ad: to, towards"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="adōrandum: adoring; singular neuter accusative gerund from adōrō, adōrāre, adōrāvī, adōrātum"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="aliī: others; plural masculine nominative from alius, alia, alium"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="apprehendērunt: they seized; 3rd person plural perfect from apprehendō, apprehendere, apprehendī, apprehēnsum"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="argentum: silver; singular neuter accusative from argentum, argentī"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="ascendērunt: they ascended; 3rd person plural perfect from ascendō, ascendere, ascendī, ascēnsum"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="aurum: gold; singular neuter accusative from aurum, aurī"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="autem: however, therefore"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="beert: Gastōn dē Beert = Gaston of Béziers (?)"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="bellum: battle; singular neuter accusative from bellum, bellī"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="bonīs: good; plural neuter ablative from bonus, bona, bonum"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="capientēs: seizing; plural masculine nominative participle from capiō, capere, cēpī, captum"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="capitāle: capital (money); singular neuter accusative from capitāle, capitālis"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="cautē: cautiously"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="cīvitātem: city; singular feminine accusative from cīvitās, cīvitātis"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="congregātī: having been gathered; plural masculine nominative participle from congregō, congregāre, congregāvī, congregātum"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="congregātiō: congregation; singular feminine nominative from congregātiō, congregātiōnis"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="cucurrērunt: they ran; 3rd person plural perfect from currō, currere, cucurrī, cursum"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="dabant: they were giving; 3rd person plural imperfect from dō, dare, dedī, datum"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="dē: of"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="dēbitum: having been owed, ought; singular neuter accusative participle from dēbeō, dēbēre, dēbuī, dēbitum"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="dēcollantēs: beheading; plural masculine nominative participle from dēcollō, dēcollāre, dēcollāvī, dēcollātum"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="dedērunt: they gave; 3rd person plural perfect from dō, dare, dedī, datum"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="diem: day; singular masculine-or-feminine accusative from diēs, diēī"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="domōsque: houses; plural masculine accusative from domus, domūs; -que adds 'and' in front of a word"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="ē: from"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="eī: him; singular masculine dative from is, ea, id"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="ēnsibus: swords; plural masculine ablative from ēnsis, ēnsis"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="eōs: them; plural masculine accusative from is, ea, id"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="equōs: horses; plural masculine accusative from equus, equī"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="erat: there was; 3rd person singular imperfect from sum, esse, fuī, futūrum"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="est: he is; 3rd person singular present from sum, esse, fuī, futūrum"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="et: and"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="factō: having been done, made; singular neuter ablative participle from faciō, facere, fēcī, factum"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="fēminās: women; plural feminine accusative from fēmina, fēminae"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="flueret: it flows; 3rd person singular imperfect subjunctive from fluō, fluere, flūxī, flūxumum"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="gastōn: Gastōn dē Beert = Gaston of Béziers (?)"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="gaudentēs: rejoicing; plural masculine nominative participle from gaudeō, gaudēre, gavīsum"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="gaudiō: joy, delight; singular neuter ablative from gaudium, gaudiī"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="hoc: this; singular neuter accusative from hic, haec, hoc"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="Iēsū: of Jesus; singular masculine genitive from Iēsūs, Iēsū"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="illōrum: of those; plural masculine genitive from ille, illa, illud"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="in: in, on"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="intrantēs: entering; plural masculine nominative participle from intrō, intrāre, intrāvī, intrātum"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="invāsērunt: they attacked; 3rd person plural perfect from invādō, invādere, invāsī, invāsum"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="īrātus: angry; singular masculine nominative from īrātus, īrāta, īrātum"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="ita: thus, in this manner"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="māne: morning; singular neuter ablative from māne"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="masculōs: males; plural masculine accusative from masculus, masculī"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="maxima: very big, great; singular feminine nominative from magnus, magna, magnum"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="maximum: very big, great; singular neuter accusative from magnus, magna, magnum"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="mox: soon"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="mūlōs: mules; plural masculine accusative from mūlus, mūlī"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="nimiō: excessive; singular neuter ablative from nimius, nimia, nimium"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="nimis: too much, extremely"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="nostrī: our; plural masculine nominative or singular masculine genitive from noster, nostra, nostrum"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="nostrīs: our (soldiers); plural masculine dative from noster, nostra, nostrum"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="nūdīs: bare; plural masculine ablative from nūdus, nūda, nūdum"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="occīdēbant: they were killing; 3rd person plural imperfect from occīdō, occīdere, occīdī, occīsum"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="occīdērunt: they killed; 3rd person plural perfect from occīdō, occīdere, occīdī, occīsum"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="omnēs: all, every; plural masculine nominative from omnis, omne"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="omnibus: all, every; plural neuter ablative from omnis, omne"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="pāgānīs: pagans; plural masculine ablative from pāgānus, pāgānī"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="pāgānōrum: of the pagans; plural masculine genitive from pāgānus, pāgānī"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="per: through, during, by means of"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="peregrīnī: pilgrims; plural masculine nominative from peregrīnus, peregrīnī"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="persequēbantur: they were persuing; 3rd person plural imperfect from persequor, persequī, persecūtum"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="plēnās: full; plural feminine accusative from plēnus, plēna, plēnum"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="plōrantēs: crying; plural masculine nominative participle from plōrō, plōrāre, plōrāvī, plōrātum"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="prae: because of"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="praecipitantēs: casting down; plural masculine nominative participle from praecipitō, praecipitāre, praecipitāvī, praecipitātum"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="quibus: whom; plural masculine dative from quī"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="quō: which; singular neuter ablative from quī"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="quōs: whom; plural masculine accusative from quī"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="reddidērunt: they returned; 3rd person plural perfect from reddō, reddere, reddidī, redditum"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="retinuērunt: they kept; 3rd person plural perfect from retineō, retinēre, retinuī, retentum"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="Salomōnis: of Solomon; singular masculine genitive from Salomōn, Salomōnis"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="salvātōris: savior's; singular masculine genitive from salvātor, salvātōris"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="sanguis: blood; singular masculine nominative from sanguis, sanguinis"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="Saracēnōs: Muslims; plural masculine accusative from Saracēnus, Saracēnī"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="sat: enought (variant spelling from satis)"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="sē: themselves; plural masculine accusative from sē"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="sepulchrum: sepulchre, grave; singular neuter accusative from sepulchrum, sepulchrī"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="sexūs: sex's; singular masculine genitive from sexus, sexūs"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="sua: their; plural neuter accusative from suus"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="super: above, on"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="superātīs: having been overcome; plural masculine ablative participle from superō, superāre, superāvī, superātum"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="suprā: over, above, beyond"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="Tancredus: Tancred; singular masculine nominative from Tancredus, Tancredī"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="tandem: finally"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="tēctum: roof; singular neuter accusative from tēctum, tēctī"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="templī: temple's; singular neuter genitive from templum, templī"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="templō: temple; singular neuter ablative from templum, templī"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="templum: temple; singular neuter accusative from templum, templī"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="tōtum: whole, all; singular masculine accusative or singular neuter accusative from tōtus, tōta, tōtum"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="ūniversam: whole, entire; singular feminine accusative from ūniversus, ūniversa, ūniversum"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="urbem: city; singular feminine accusative from urbs, urbis"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="ūsque: up to, until"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="ut: so that"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="utrīusque: either (of two); singular masculine genitive from uter, utra, utrum; -que adds 'and' in front of a word"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="vēnērunt: they came; 3rd person plural perfect from veniō, venīre, vēnī, ventum"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="vērō: and, but"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="vexilla: flags; plural neuter accusative from vexillum, vexillī"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="vidēns: seeing; singular masculine nominative participle from videō, vidēre, vīdī, vīsum"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="vīvōs: alive; plural masculine accusative from vīvus, vīva, vīvum"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="voluērunt: they wanted; 3rd person plural perfect from velle"/>
                 <trail PARENT="Vocab"/>
             </StoryText>
         </PAGEOBJECT>
