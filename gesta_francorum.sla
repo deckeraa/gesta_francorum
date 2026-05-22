@@ -495,14 +495,14 @@
         <PAGE PAGEXPOS="712.001" PAGEYPOS="154772.56" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="372" NAM="" MNAM="Vocab right" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
         <PAGE PAGEXPOS="100.001" PAGEYPOS="155604.563" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="373" NAM="" MNAM="Latin left" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
         <PAGE PAGEXPOS="712.001" PAGEYPOS="155604.563" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="374" NAM="" MNAM="Vocab right" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
-        <MASTEROBJECT XPOS="136.001" YPOS="776.002" OwnPage="2" ItemID="789308355" PTYPE="4" WIDTH="522" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 18 L0 18 L0 0 Z" copath="M0 0 L522 0 L522 18 L0 18 L0 0 Z" OnMasterPage="Latin left" gXpos="413236.001" gYpos="1818012667842.59" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <MASTEROBJECT XPOS="136.001" YPOS="776.002" OwnPage="2" ItemID="789308355" PTYPE="4" WIDTH="522" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 18 L0 18 L0 0 Z" copath="M0 0 L522 0 L522 18 L0 18 L0 0 Z" OnMasterPage="Latin left" gXpos="413236.001" gYpos="1835796605503.29" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <var name="pgno" FONTSIZE="12"/>
                 <trail ALIGN="1"/>
             </StoryText>
         </MASTEROBJECT>
-        <MASTEROBJECT XPOS="154.001" YPOS="776.002" OwnPage="3" ItemID="789216979" PTYPE="4" WIDTH="522" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 18 L0 18 L0 0 Z" copath="M0 0 L522 0 L522 18 L0 18 L0 0 Z" OnMasterPage="Vocab right" gXpos="25447267990.001" gYpos="1817800204231.88" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <MASTEROBJECT XPOS="154.001" YPOS="776.002" OwnPage="3" ItemID="789216979" PTYPE="4" WIDTH="522" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 18 L0 18 L0 0 Z" copath="M0 0 L522 0 L522 18 L0 18 L0 0 Z" OnMasterPage="Vocab right" gXpos="25586431894.001" gYpos="1835584141892.58" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <var name="pgno" FONTSIZE="12"/>
@@ -3007,6 +3007,7 @@
         <PAGEOBJECT XPOS="136.001" YPOS="11704.044" OwnPage="27" ItemID="834478515" PTYPE="4" WIDTH="522" HEIGHT="354.809503184713" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 354.81 L0 354.81 L0 0 Z" copath="M0 0 L522 0 L522 354.81 L0 354.81 L0 0 Z" gXpos="136.001" gYpos="11704.044" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
+                <tab/>
                 <ITEXT CH="At bellipotēns Boamundus quī erat in obsidiōne"/>
                 <ITEXT FEATURES="inherit superscript" CH="1"/>
                 <ITEXT CH=" Malfī, Scafardī pontīs, audiēns vēnisse"/>
@@ -3031,11 +3032,11 @@
             <StoryText>
                 <DefaultStyle/>
                 <ITEXT FEATURES="inherit superscript" CH="1"/>
-                <ITEXT FONT="DejaVu Serif Italic" CH="And Bohemond, powerful at wary, who was in the siege of Amalfi on Gulf of Salerno."/>
-                <ITEXT CH=" Bohemond was already involved in an siege when he heard of the crusade, which he became interested in joining. For more information on the Malfi, see footnote 3 on page 149 of Hagenmeyer."/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="And Bohemond, powerful at war, who was in the siege of Amalfi on Gulf of Salerno."/>
+                <ITEXT CH=" Bohemond was already involved in an siege when he heard of the crusade, which he became interested in joining. For more information on Malfi, see footnote 3 on page 149 of Hagenmeyer."/>
                 <para PARENT="footnotes"/>
                 <ITEXT FEATURES="inherit superscript" CH="2"/>
-                <ITEXT FONT="DejaVu Serif Italic" CH="Hearing an innumerable Christian people to have come from Frankish lands, to take a trip to the Lord's Sepulchre, and prepared to battle against the pagan people."/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="Hearing an innumerable Christian people to have come from Frankish lands, to journey to the Lord's Sepulchre, and prepared to battle against the pagan people."/>
                 <para PARENT="footnotes"/>
                 <ITEXT FEATURES="inherit superscript" CH="3"/>
                 <ITEXT FONT="DejaVu Serif Italic" CH="Which weapons for fighting this people was carrying."/>
@@ -3049,7 +3050,7 @@
                 <ITEXT FONT="DejaVu Serif Italic" CH="Or what war-cry (or sound or sign) sounded forth in battle."/>
                 <para PARENT="footnotes"/>
                 <ITEXT FEATURES="inherit superscript" CH="5"/>
-                <ITEXT FONT="DejaVu Serif Italic" CH="They bear the cross of Christ on the right or between either shoulder."/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="They bear the cross of Christ on the right (shoulder) or between either shoulder."/>
                 <para PARENT="footnotes"/>
                 <ITEXT FEATURES="inherit superscript" CH="6"/>
                 <ITEXT FONT="DejaVu Serif Italic" CH="And the war-cry (or sign) they exclaimed with one voice: &quot;God wills (it, the conquest of the pilgrimage route to the Holy Sepulchre), God wills (it), God wills (it)&quot;"/>
@@ -3060,7 +3061,7 @@
                 <ITEXT CH=" After hearing about the crusade, Bohemond wanted to join, and cut up a cloak into crosses for his soldiers to stitch onto their clothes."/>
                 <para PARENT="footnotes"/>
                 <ITEXT FEATURES="inherit superscript" CH="8"/>
-                <ITEXT FONT="DejaVu Serif Italic" CH="So that Roger his comrade had remained almost alone, and returned to Sicily and was pained and sorrowful because his people (army) had left him (to go on crusade)."/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="So that Count Roger had remained almost alone, and returned to Sicily and was pained and sorrowful because his people (army) had left him (to go on crusade)."/>
                 <ITEXT CH=" The appeal of going on crusade was so popular that Roger I of Sicily, Bohemond's uncle, had to call off the siege because too many of his soldiers went with Bohemond on Crusade. Bohemond, the son of Robert Guiscard, was declared illegitimate after Robert's marriage with Bohemond's mother was annulled due to consanguinity; this disinheritance may have contributed to Bohemond choosing to go on crusade to seek out a new kingdom. He was successful at this and became the Prince of Antioch from 1098 to 1111."/>
                 <trail PARENT="footnotes"/>
             </StoryText>
@@ -3279,6 +3280,7 @@
         <PAGEOBJECT XPOS="136.001" YPOS="12536.047" OwnPage="29" ItemID="838626147" PTYPE="4" WIDTH="522" HEIGHT="442.755547770701" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 442.756 L0 442.756 L0 0 Z" copath="M0 0 L522 0 L522 442.756 L0 442.756 L0 0 Z" gXpos="136.001" gYpos="12536.047" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
+                <tab/>
                 <ITEXT CH="Dēnique reversus iterum in terram suam dominus Boamundus dīligenter honestāvit sēsē ad incipiendum Sānctī Sepulchrī iter. Tandem trānsfretāvit mare cum suō exercitū, et cum eō Tancredus"/>
                 <ITEXT FEATURES="inherit superscript" CH="1"/>
                 <ITEXT CH=" Marchīsī fīlius, et Richardus prīnceps, ac Rainulfus frāter eius, et Rotbertus dē Ānsā, et Hermannus dē Cannī, et Rotbertus dē Surdā Valle, et Robertus fīlius Tostānī, et Hunfredus fīlius Radulfī, et Ricardus fīlius comitis Rainulfī, et comes dē Russignōlō cum frātribus suīs, et Boellō Carnotēnsis, et Alberedus dē Cagnānō, et Hunfredus dē Monte Scabiōsō. Hī omnēs trānsfretāvērunt ad Boamundī famulātum, et applicuērunt Bulgāriae partibus; ubi invēnērunt nimiam abundantiam frūmentī et vīnī et alimentōrum corporis. Deinde dēscendentēs in vallem dē Andronopōlī; expectāvērunt gentem suam, dōnec omnēs pariter trānsfretāssent. Tunc sapiēns Boamundus ōrdināvit concilium cum gente suā, cōnfortāns et monēns omnēs, dīcēns: 'Seniōrēs, cavēte omnēs vōs, quia sumus peregrīnī Deī. Oportet igitur esse magis bonōs et humilēs quam ante fuimus, et nōlīte depredārentur terram istam, quia Chrīstiānōrum est, et nēmō accipiat plūs, nisi quod eī sufficeret ad edendum prō benedictiōne.'"/>
@@ -3300,9 +3302,10 @@
                 <trail/>
             </StoryText>
         </PAGEOBJECT>
-        <PAGEOBJECT XPOS="136.001" YPOS="13368.05" OwnPage="31" ItemID="845028019" PTYPE="4" WIDTH="522" HEIGHT="352.79076433121" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 352.791 L0 352.791 L0 0 Z" copath="M0 0 L522 0 L522 352.791 L0 352.791 L0 0 Z" gXpos="136.001" gYpos="13368.05" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT XPOS="136.001" YPOS="13368.05" OwnPage="31" ItemID="845028019" PTYPE="4" WIDTH="522" HEIGHT="388.790764331201" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 388.791 L0 388.791 L0 0 Z" copath="M0 0 L522 0 L522 388.791 L0 388.791 L0 0 Z" gXpos="136.001" gYpos="13368.05" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
+                <tab/>
                 <ITEXT CH="Tunc exeuntēs"/>
                 <ITEXT FEATURES="inherit superscript" CH="1"/>
                 <ITEXT CH=" inde, vēnērunt per nimiam plēnitūdinem dē vīllā in vīllam, dē cīvitāte in cīvitātem, dē castellō in castellum, quousque pervēnimus Castōriam; ibique Nātīvitātem Dominī sollemniter celebrāvimus; fuimusque ibi per plūrēs diēs, et quaesivimus"/>
@@ -3319,7 +3322,7 @@
                 <para PARENT="Latin"/>
             </StoryText>
         </PAGEOBJECT>
-        <PAGEOBJECT XPOS="136.001" YPOS="13720.8407643312" OwnPage="31" ItemID="845144195" PTYPE="4" WIDTH="522" HEIGHT="227.439490445871" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 227.439 L0 227.439 L0 0 Z" copath="M0 0 L522 0 L522 227.439 L0 227.439 L0 0 Z" gXpos="136.001" gYpos="13720.8407643312" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT XPOS="136.001" YPOS="13756.8407643312" OwnPage="31" ItemID="845144195" PTYPE="4" WIDTH="522" HEIGHT="227.439490445871" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 227.439 L0 227.439 L0 0 Z" copath="M0 0 L522 0 L522 227.439 L0 227.439 L0 0 Z" gXpos="136.001" gYpos="13756.8407643312" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <ITEXT FEATURES="inherit superscript" CH="1"/>
@@ -3327,11 +3330,9 @@
                 <para PARENT="footnotes"/>
                 <ITEXT FEATURES="inherit superscript" CH="2"/>
                 <ITEXT FONT="DejaVu Serif Italic" CH="And we sought a market (in which to buy food and other provisions), but they themselves (the residents of Kastoria) didn't want to agree with us (to give us a market), the reason being that they were greatly fearing us, not thinking us to be pilgrims, but (rather) wanting to ravage the land and kill them."/>
-                <ITEXT CH=" In the phrase "/>
-                <ITEXT FONT="DejaVu Serif Italic" CH="eō quod valdē timēbant nōs"/>
-                <ITEXT CH=", "/>
-                <ITEXT FONT="DejaVu Serif Italic" CH="eō"/>
-                <ITEXT CH=" is an ablative pronoun, so the reader is left to provide their own preposition or linking phrase; I've supplied a logical one in this gloss."/>
+                <ITEXT CH=" The phrase "/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="eō quod "/>
+                <ITEXT CH="is an idiom for 'because' or 'for this reason'."/>
                 <para PARENT="footnotes"/>
                 <ITEXT FEATURES="inherit superscript" CH="3"/>
                 <ITEXT FONT="DejaVu Serif Italic" CH="On account of which we took cows, horses, and asses, and everything that we were finding."/>
@@ -3340,13 +3341,14 @@
                 <ITEXT FEATURES="inherit superscript" CH="4"/>
                 <ITEXT FONT="DejaVu Serif Italic" CH="Which we attacked on all sides, and soon it fell under our control"/>
                 <ITEXT CH=". "/>
+                <ITEXT FONT="DejaVu Serif Book" CH="The verb phrase "/>
                 <ITEXT FONT="DejaVu Serif Italic" CH="aggressī sumus"/>
                 <ITEXT CH=" has an active meaning because "/>
                 <ITEXT FONT="DejaVu Serif Italic" CH="aggredior"/>
                 <ITEXT CH=" is deponent."/>
                 <para PARENT="footnotes"/>
                 <ITEXT FEATURES="inherit superscript" CH="5"/>
-                <ITEXT FONT="DejaVu Serif Italic" CH="Finally the lord Bohemond proceeded beyond (the river) with is people, but not with all (his people)."/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="Finally the lord Bohemond proceeded beyond (the river) with his people, but not with all (his people)."/>
                 <para PARENT="footnotes"/>
                 <ITEXT FEATURES="inherit superscript" CH="6"/>
                 <ITEXT FONT="DejaVu Serif Italic" CH="The emperor's army came and attacked the count with his brothers, and everyone who was with them."/>
