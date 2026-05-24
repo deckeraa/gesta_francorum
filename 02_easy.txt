@@ -1,56 +1,58 @@
-[2.a] Bohemond prevents seizure of a castle
-      Imperātor misit nuntium, ut nuntius dēdūceret sēcūrē per terram suam ad Cōnstantīnopolim.
-      Vēnimus ad quaddam castrum, sed habitatores castri nos timebant et non volebant vendere nos mercatum. Ergo, nostrī milites voluerunt apprehendere castrum. Sed prudens vir Boamundus non permisit nos apprehendere castrum, pro iustitia terrae et fiducia imperatoris. In māne, habitatores castri venerunt in praesentiam Boamundi et vendebant mercatum.
+[2.a Bohemond prevents seizure of a castle.]
+      Imperātor mīsit nūntium, ut nūntius dēdūceret sēcūrē per terram suam ad Cōnstantīnopolim.
+      Venīmus ad quaddam castrum, sed habitātōrēs castrī nōs timēbant et nōn volēbant vēndere nōs mercātum. Ergō, nostrī mīlitēs voluērunt apprehendere castrum. Sed prūdēns vir Boamundus nōn permīsit nōs apprehendere castrum, prō iūstitiā terrae et fīdūcia imperātōris. In māne, habitātōrēs castrī vēnērunt in praesentiam Boamundī et vēndēbant mercātum.
       
-[2.b] Bohemond returns some cattle
-      Deinde vēnimus ad quamdam urbem quae dīcitur Serra. In Serrā fiximus tentoria, et habuimus satis mercatum. Doctus Boamundus, pro amicitia et pro iustitia terrae, iussit reddī omnia animālia quae nostrī depredāta tenēbant.
-      Deinde pervēnimus ad Rūsam cīvitātem. Gens Graecōrum gaudens veniēbat in occursum dominī Boamundī, et vendebat nos mercatum.
+[2.b Bohemond returns some cattle.]
+      Deinde vēnimus ad quamdam urbem quae dīcitur Serra. In Serra fīximus tentōria, et habuimus satis mercātum. Doctus Boamundus, prō amīcitiā et prō iūstitiā terrae, iussit reddī omnia animālia quae nostrī depredāta tenēbant.
+      Deinde pervēnimus ad Rūsam cīvitātem. Gēns Graecōrum gaudēns veniēbat in occursum dominī Boamundī, et vēndēbat nōs mercātum.
 
-[2.c] Bohemond ventures ahead and leave Tancred in charge of the army
-      Doctus Boamundus dīmisit gentem suam in Rūsa, et perrēxit loquī cum imperātōre in  Cōnstantīnopolim. Boamundus duxit secum paucos milites. Tancredus remansit in Rūsa et erat caput militiae Christi. Tancredus conduxit populum in vallem quamdam plenam omnibus bonis. In hāc valle celebrāvimus dēvōtissimē Pascha Dominī.
+[2.c Bohemond ventures ahead and leaves Tancred in charge of the army.]
+      Doctus Boamundus dīmīsit gentem suam in Rūsā, et perrēxit loquī cum imperātōre in  Cōnstantīnopolim. Boamundus dūxit sēcum paucōs mīlitēs. Tancredus remānsit in Rūsā et erat caput mīlitiae Chrīstī. Tancredus condūxit populum in vallem quamdam plēnam omnibus bonīs. In hāc valle celebrāvimus dēvōtissimē Pascha Dominī.
       
-[2.d] The Emperor Alexius plots against the Crusader Princes
-      Honestissimus vir Boamundus vēnit ad imperatorem, et imperator iussit eum honōrābiliter recipī, et cautē hospitārī extrā urbem. Malignus imperator voluit loqui secreto cum Boadmundo. Tunc Godefridus et Comes Sancti Egidii vēnit ad civitatem et hospitati sunt prope Boamundum. Anxiens imperator volebat callidē et fraudelenterque comprehenderet hos milites Christi. Sed, divinā gratiā, non potuit.
+[2.d The Emperor Alexius plots against the Crusader Princes.]
+      Honestissimus vir Boamundus venit ad imperātōrem, et imperātor iussit eum honōrābiliter recipī, et cautē hospitārī extrā urbem. Malignus imperātor voluit loquī sēcrētō cum Boadmundō. Tunc Godefridus et Cōmēs Sānctī Egidīī venit ad cīvitātem et hospitātī sunt prope Boamundum. Anxiēns imperātor volēbat callidē et fraudelenterque comprehenderet hōs mīlitēs Chrīstī. Sed, dīvīna grātia, nōn potuit.
       
-[2.e] The Emperor tries to get them to swear an oath and promises Bohemond a fief
-      Omnes maiores Graecorum, timentes ne privarentur sua patria, volebant maiores nostros iurare sacramentum. Maiores nostri non voluerunt iurare fiduciam imperatori.
-      Sed, compulsī necessitāte, maiores nostri humiliāvērunt sē ad voluntātem nēquissimī imperātōris. Imperator promisit Boamundo terram magnam prope Antiochiam.
-      Imperator quoque promisit omnibus nostris fidem, securitatem, et mercatum in via Sancti Sepulchri.
+[2.e The Emperor tries to get them to swear an oath and promises Bohemond a fief.]
+      Omnēs maiōrēs Graecōrum, timentēs nē prīvārentur suā patriā, volēbant maiōrēs nostrōs iūrāre sacrāmentum. Maiōrēs nostrī nōn voluērunt iūrāre fīdūciam imperātōrī.
+      Sed, compulsī necessitāte, maiōrēs nostrī humiliāvērunt sē ad voluntātem nēquissimī imperātōris. Imperātor prōmīsit Boamundō terram magnam prope Antiochīam.
+      Imperātor quoque prōmīsit omnibus nostrīs fidem, sēcūritātem, et mercātum in viā Sānctī Sepulchrī.
       
-[2.g] Raymond of Saint-Gilles refuses to swear an oath of vassalage.
-      Comes Sancti Egidii non voluit iurare sacramentum imperatori, et voluit pugnare contra imperatorem. Sed dux Godefridus, Rotbertus comes Flandrensis, et alii princepes dixerunt ei: "non debes pugnare contra Christianos'. Igitur comes, accepto consilio a suis, iuravit Alexio vitam et honorem, sed non iuravit de hominio.
+[2.f Raymond of Saint-Gilles refuses to swear an oath of vassalage.]
+      Comes Sānctī Egidīī nōn voluit iūrāre sacrāmentum imperātōrī, et voluit pugnāre contrā imperātōrem. Sed dux Godefridus, Rotbertus comes Flandrēnsis, et aliī princepēs dīxērunt eī: "nōn dēbēs pugnāre contrā Chrīstiānōs'. Igitur comes, acceptō cōnsiliō ā suīs, iūrāvit Alexīō vītam et honōrem, sed nōn iūrāvit dē homīniō.
       
-[2.h] The Crusader princes cross the Bosporos, and Bohemond organizes food shipments.
-      Postea, Tancredus et alii principes trānsfretāvērunt Brāchium. Boamundus remansit cum imperatore et loquēbantur quōmodo mandārent mercātum gentibus quae erant
+[2.h The Crusader princes cross the Bosporos, and Bohemond organizes food shipments.]
+      Posteā, Tancredus et aliī prīncipēs trānsfretāvērunt Brāchium. Boamundus remānsit cum imperātōre et loquēbantur quōmodo mandārent mercātum gentibus quae erant
 ultrā Nicēnam cīvitātem.
 
-[2.i] Godfrey expands the road to Nicea
-Via ad Nicenam erat valde parva et angusta. Igitur, dux Godefridus misit ante se tria milia hominum cum securibus et gladiis. Hii milites aperierunt viam, et ponebant cruces ferreas ac ligneas in via; cruces demonstrabant viam ad Nicenam.
+[2.i Godfrey expands the road to Nicea.]
+Via ad Nicenam erat valdē parva et angusta. Igitur, dux Godefridus mīsit ante sē tria mīlia hominum cum secūribus et gladiīs. Hiī mīlitēs aperiērunt viam, et pōnēbant crucēs ferreās ac ligneās in viā; crucēs dēmōnstrābant viam ad Nicenam.
 
-[2.j] The soldiers arrive at Nicea; Bohemond brings food by sea
-Postea, pervēnimus ad Nīcēam. Erat inopia panis, et ūnus pānis vēnderētur vīgintī aut
-trīgintā dēnāriīs. Postquam vir prūdēns Boamundus vēnit et iussit maximum mercātum condūcī per mare. Naves traherunt cibum, et fuit maxima ubertas in tota milita Christi.
+[2.j The soldiers arrive at Nicea; Bohemond brings food by sea.]
+Posteā, pervēnimus ad Nīcēam. Erat inopia pānis, et ūnus pānis vēnderētur vīgintī aut
+trīgintā dēnāriīs. Postquam vir prūdēns Boamundus vēnit et iussit maximum mercātum condūcī per mare. Nāvēs trahērunt cibum, et fuit maxima ūbertās in tōtā mīlitā Chrīstī.
 
-[2.k] The Crusaders besiege Nicea; a Turkish relief army approaches
+[2.k The Crusaders besiege Nicea; a Turkish relief army approaches.]
 In diē autem Ascēnsiōnis Dominī invādere coepimus urbem.
-Coepimus aediﬁcāre īnstrūmenta lignōrum atque turrēs ligneās, quō possēmus turrēs sternere. Sed Turci, qui erant in urbe, miserunt nuntios per portam. Milites nostri non erant prope hanc portam; ergo nuntii exiit per portam secure. Deinde, nuntii rediderunt ad civitatem cum exercitu magno.
+Coepimus aediﬁcare īnstrūmenta lignōrum atque turrēs ligneās, quō possēmus turrēs sternere. Sed Turcī, quī erant in urbe, mīsērunt nūntiōs per portam. Mīlitēs nostrī nōn erant prope hanc portam; ergō nūntiī exiit per portam secūre. Deinde, nūntiī redidērunt ad cīvitātem cum exercitū magnō.
 
-[2.l] Raymond of Saint-Gilles defeats the Turkish relief army, beheading them and catapulting their heads into Nicea.
-Comes de Sancto Egidio invēnit Turcos venientes contra nos.
-Cum exercitu suo fortissimo irruit super illos atque superavit.
-Comes detruncabat multos Turcos. Cum funda, proiciebant capita eorum in urbem, ut inde Turcī magis terrērentur.
+[2.l Raymond of Saint-Gilles defeats the Turkish relief army, beheading them and catapulting their heads into Nicea.]
+Comes dē Sānctō Egidīō invēnit Turcōs venientēs contrā nōs.
+Cum exercitū suō fortissimō irruit super illōs atque superāvit.
+Comes dētruncābat multōs Turcōs. Cum fundā, prōiciēbant capita eōrum in urbem, ut inde Turcī magis terrērentur.
 
-[2.m] Raymond of Saint-Gilles undermines a wall, but the Turks repair it overnight.
-Dēnique comes sānctī Egidīī et epīscopus Podiēnsis suffoderunt turrim. Milites eorum foderunt murum, et arbalistae et sagittarii defendabant eos. Submiserunt ligna sub muro ac deinde miserunt ignem. Turris cecidit in nocte. Sed Turci, in nocte, restauraverunt murum fortiter et, in mane, non possuimus intrare civitatem.
+[2.m Raymond of Saint-Gilles undermines a wall, but the Turks repair it overnight.]
+Dēnique comes sānctī Egidīī et epīscopus Podiēnsis suffōdērunt turrim. Mīlitēs eōrum fōdērunt mūrum, et arbalistae et sagittāriī defendābant eōs. Submīsērunt ligna sub mūrō ac deinde mīsērunt ignem. Turris cecidit in nocte. Sed Turcī, in nocte, restaurāvērunt mūrum fortiter et, in māne, nōn possuimus intrāre cīvitātem.
 
-[2.n] More Crusaders arrive and complete the land siege
+[2.n More Crusaders arrive and complete the land siege.]
 Vēnit comes dē Nortmannīā, aliī plūrēs. Boamundus dēnique obsēdit urbem in prīmā fronte, et iuxtā eum Tancredus, et posteā dux Godefridus, ac deinde comes Flandrēnsis,
-iuxtā quem Rotbertus Nortmannus, et iuxtā eum comes Sānctī Egidīī, iuxtā quem Podiēnsis epīscopus. Ita obsīdēbāmus totam civitatem. Turci non potuerunt intrare neque exire per terram.
+iuxtā quem Rotbertus Nortmannus, et iuxtā eum comes Sānctī Egidīī, iuxtā quem Podiēnsis epīscopus. Ita obsīdēbāmus tōtam cīvitātem. Turcī nōn potuērunt intrāre neque exīre per terram.
 
-[2.o] The emperor sends boats to complete the water siege of Nicea
-Sed, erat immensus lacus prope urbem. Turci potuerunt intrare vel exire civitatem in naves per lacum. Nostri maiores miserunt nuntios ad Constantinopolim. Imperator misit naves, plenas Turcopolis et bene ornatis armis. Turci viderunt magnum numerum navium et timuerunt usque ad mortem.
+[2.o The emperor sends boats to complete the water siege of Nicea.]
+Sed, erat immēnsus lacus prope urbem. Turcī potuērunt intrāre vel exīre cīvitātem in nāvēs per lacum. Nostrī maiōrēs mīsērunt nūntiōs ad Cōnstantīnopolim. Imperātor mīsit nāvēs, plēnās Turcopōlīs et bene ōrnātīs armīs. Turcī vīdērunt magnum numerum nāvium et timuērunt usque ad mortem.
 
-[2.p] The Turks surrender Nicea to the emperor
-Turci, qui erant in Nicean, viderunt quod non possent habere adiutorium. Miserunt legationem imperatori et reddiderunt civitatem. Imperator permisit eos abire cum mulieribus et filiis et omnibus substantiis suis.
+[2.p The Turks surrender Nicea to the emperor.]
+Turcī, quī erant in Nīcēan, vīdērunt quod nōn possent habēre adiūtōrium. Mīsērunt lēgātiōnem imperātōrī et reddidērunt cīvitātem. Imperātor permīsit eōs abīre cum mulieribus et fīliīs et omnibus substantiīs suīs.
 
-Fuimusque in obsidiōne illā per septem ebdomadās et trēs diēs. Multī ex nostrīs illīc recēpērunt martyrium et reddidērunt felicēs animās Deō.
+Fuimusque in obsidiōne illa per septem ebdomadās et trēs diēs. Multī ex nostrīs illīc recēpērunt martyrium et reddidērunt felicēs animās Deō.
+
+
