@@ -495,14 +495,14 @@
         <PAGE PAGEXPOS="712.001" PAGEYPOS="154772.56" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="372" NAM="" MNAM="Vocab right" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
         <PAGE PAGEXPOS="100.001" PAGEYPOS="155604.563" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="373" NAM="" MNAM="Latin left" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
         <PAGE PAGEXPOS="712.001" PAGEYPOS="155604.563" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="374" NAM="" MNAM="Vocab right" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
-        <MASTEROBJECT XPOS="136.001" YPOS="776.002" OwnPage="2" ItemID="789308355" PTYPE="4" WIDTH="522" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 18 L0 18 L0 0 Z" copath="M0 0 L522 0 L522 18 L0 18 L0 0 Z" OnMasterPage="Latin left" gXpos="413236.001" gYpos="1910193719713.81" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <MASTEROBJECT XPOS="136.001" YPOS="776.002" OwnPage="2" ItemID="789308355" PTYPE="4" WIDTH="522" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 18 L0 18 L0 0 Z" copath="M0 0 L522 0 L522 18 L0 18 L0 0 Z" OnMasterPage="Latin left" gXpos="413236.001" gYpos="1923224549035.93" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <var name="pgno" FONTSIZE="12"/>
                 <trail ALIGN="1"/>
             </StoryText>
         </MASTEROBJECT>
-        <MASTEROBJECT XPOS="154.001" YPOS="776.002" OwnPage="3" ItemID="789216979" PTYPE="4" WIDTH="522" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 18 L0 18 L0 0 Z" copath="M0 0 L522 0 L522 18 L0 18 L0 0 Z" OnMasterPage="Vocab right" gXpos="26168608522.001" gYpos="1909981256103.11" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <MASTEROBJECT XPOS="154.001" YPOS="776.002" OwnPage="3" ItemID="789216979" PTYPE="4" WIDTH="522" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 18 L0 18 L0 0 Z" copath="M0 0 L522 0 L522 18 L0 18 L0 0 Z" OnMasterPage="Vocab right" gXpos="26270578126.001" gYpos="1923012085425.22" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <var name="pgno" FONTSIZE="12"/>
@@ -7010,6 +7010,7 @@
                 <ITEXT CH="Liber 3"/>
                 <para PARENT="Chapter Heading"/>
                 <para PARENT="Chapter Heading"/>
+                <tab/>
                 <ITEXT CH="Intereā redditā"/>
                 <ITEXT FEATURES="inherit superscript" CH="1"/>
                 <ITEXT CH=" cīvitāte et Turcīs dēductīs Cōnstantīnopolim, unde imperātor magis magisque gāvīsus quod cīvitās reddita sit eius potestātī, iussit maximās elemosīnās ērogārī nostrīs pauperibus. Dēnique prīmā diē, quā recessimus ā cīvitāte, vēnimus ad quemdam pontem, ibique mānsimus per duōs diēs. Tertiā autem diē, priusquam lūx coepisset"/>
@@ -7206,6 +7207,7 @@
         <PAGEOBJECT XPOS="136.001" YPOS="30008.11" OwnPage="71" ItemID="920051235" PTYPE="4" WIDTH="522" HEIGHT="230.055605095531" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 230.056 L0 230.056 L0 0 Z" copath="M0 0 L522 0 L522 230.056 L0 230.056 L0 0 Z" gXpos="136.001" gYpos="30008.11" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
+                <tab/>
                 <ITEXT CH="Tertiā vērō diē irruērunt Turcī vehementer super Boamundum, et eōs quī cum ipsō erant. Continuō Turcī coepērunt strīdere et garrīre ac clāmāre, excelsā vōce dīcentēs diabolicum sonum, nesciō quōmodo, in suā linguā. Sapiēns vir Boamundus vidēns innumerābilēs Turcōs procul, strīdentēs et clāmantēs demoniacā vōce, prōtinus iussit omnēs mīlitēs dēscendere, et tentōria"/>
                 <ITEXT FEATURES="inherit superscript" CH="1"/>
                 <ITEXT CH=" celeriter extendere. Priusquam tentōria fuissent extēnsa, rūrsus dīxit omnibus mīlitibus: &quot;Seniōrēs et fortissimī mīlitēs Chrīstī, ecce modō bellum angustum est undique circā nōs. Igitur omnēs mīlitēs eant"/>
@@ -7388,9 +7390,10 @@
                 <trail PARENT="Vocab"/>
             </StoryText>
         </PAGEOBJECT>
-        <PAGEOBJECT XPOS="136.001" YPOS="30840.113" OwnPage="73" ItemID="923751811" PTYPE="4" WIDTH="522" HEIGHT="174.001649681515" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 174.002 L0 174.002 L0 0 Z" copath="M0 0 L522 0 L522 174.002 L0 174.002 L0 0 Z" gXpos="136.001" gYpos="30840.113" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT XPOS="136.001" YPOS="30840.113" OwnPage="73" ItemID="923751811" PTYPE="4" WIDTH="522" HEIGHT="205.186363057328" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 205.186 L0 205.186 L0 0 Z" copath="M0 0 L522 0 L522 205.186 L0 205.186 L0 0 Z" gXpos="136.001" gYpos="30840.113" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
+                <tab/>
                 <ITEXT CH="Postquam"/>
                 <ITEXT FEATURES="inherit superscript" CH="1"/>
                 <ITEXT CH=" vērō hoc tōtum factum est, Turcī undique iam erant circumcingentēs nōs, dīmicandō et iaculandō, ac spīculandō, et mīrābiliter"/>
@@ -7401,7 +7404,7 @@
                 <trail PARENT="Latin"/>
             </StoryText>
         </PAGEOBJECT>
-        <PAGEOBJECT XPOS="136.001" YPOS="31017.1146496815" OwnPage="73" ItemID="924060419" PTYPE="4" WIDTH="522" HEIGHT="62.5796178343953" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 62.5796 L0 62.5796 L0 0 Z" copath="M0 0 L522 0 L522 62.5796 L0 62.5796 L0 0 Z" gXpos="136.001" gYpos="31017.1146496815" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT XPOS="136.001" YPOS="31045.2993630573" OwnPage="73" ItemID="924060419" PTYPE="4" WIDTH="522" HEIGHT="62.5796178343953" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 62.5796 L0 62.5796 L0 0 Z" copath="M0 0 L522 0 L522 62.5796 L0 62.5796 L0 0 Z" gXpos="136.001" gYpos="31045.2993630573" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <ITEXT FEATURES="inherit superscript" CH="1"/>
@@ -7539,6 +7542,7 @@
         <PAGEOBJECT XPOS="136.001" YPOS="31672.116" OwnPage="75" ItemID="927302515" PTYPE="4" WIDTH="522" HEIGHT="295.883999999987" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 295.884 L0 295.884 L0 0 Z" copath="M0 0 L522 0 L522 295.884 L0 295.884 L0 0 Z" gXpos="136.001" gYpos="31672.116" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
+                <tab/>
                 <ITEXT CH="Vir itaque sapiēns Boamundus prōtinus mandāvit aliīs, scīlicet ēgregiō comitī dē Sānctō Egidīō, et inclitō dūcī Godefridō, et Hugōnī Magnō, atque honestissimō Podiēnsī epīscopō, aliīsque omnibus Chrīstī mīlitibus, quō"/>
                 <ITEXT FEATURES="inherit superscript" CH="1"/>
                 <ITEXT CH=" festīnent, et ad bellum citius approximent, dīcēns: &quot;Et sī hodiē luctārī volunt, virīliter veniant.&quot; Quī omnimodō"/>
@@ -7556,7 +7560,7 @@
                 <ITEXT FONT="DejaVu Serif Italic" CH="To where they might hasten, and to quickly draw near to the battle, saying: 'If today you wish to fight, let them (the soldiers) come manfully'."/>
                 <para PARENT="footnotes"/>
                 <ITEXT FEATURES="inherit superscript" CH="2"/>
-                <ITEXT FONT="DejaVu Serif Italic" CH="Who (the military leadership the couriers from Bohemond talked to) were by all means refusing them, mocking them and saying: 'Certainly this (the couriers message about the crusader vanguard being surround in battle) is entirely false'."/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="Who (the military leadership to whom the couriers from Bohemond talked) were by all means refusing them, mocking them and saying: 'Certainly this (the couriers' message about the crusader vanguard being surrounded in battle) is entirely false'."/>
                 <ITEXT CH=" The military leadership at first disbelieved that the Turks would so audaciously attack them so soon after the crusader victory at Nicea. However, several of the princes (Godfrey, etc.) changed their mind and came to Bohemond's aid just in time."/>
                 <para PARENT="footnotes"/>
                 <ITEXT FEATURES="inherit superscript" CH="3"/>
@@ -7748,6 +7752,7 @@
         <PAGEOBJECT XPOS="136.001" YPOS="32504.119" OwnPage="77" ItemID="930045395" PTYPE="4" WIDTH="522" HEIGHT="204.498834394893" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 204.499 L0 204.499 L0 0 Z" copath="M0 0 L522 0 L522 204.499 L0 204.499 L0 0 Z" gXpos="136.001" gYpos="32504.119" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
+                <tab/>
                 <ITEXT CH="Mīrābantur ergō nostrī"/>
                 <ITEXT FEATURES="inherit superscript" CH="1"/>
                 <ITEXT CH=" valdē, unde esset exorta tanta multitūdō Turcōrum et Arabum et Saracēnōrum et aliōrum quōs ēnumerāre ignōrō; quia paene omnēs montēs et collēs et vallēs et omnia plāna loca intus et extrā undique erant cooperta dē illā excommūnicātā"/>
@@ -7760,7 +7765,7 @@
             <StoryText>
                 <DefaultStyle/>
                 <ITEXT FEATURES="inherit superscript" CH="1"/>
-                <ITEXT FONT="DejaVu Serif Italic" CH="Therefore our (soldiers) marveled greatly, from whence had arisen such a multitude of Turks and Arabs and Saracenes and other whom I do not know how to enumerate."/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="Therefore our (soldiers) marveled greatly, from whence had arisen such a multitude of Turks and Arabs and Saracenes and others whom I do not know how to enumerate."/>
                 <para PARENT="footnotes"/>
                 <ITEXT FEATURES="inherit superscript" CH="2"/>
                 <ITEXT CH="Here 'excommunicate generation' is likely used in a non-technical sense, and the author just means that the peoples were non-Christian."/>
@@ -7902,12 +7907,14 @@
         <PAGEOBJECT XPOS="136.001" YPOS="33336.122" OwnPage="79" ItemID="934217635" PTYPE="4" WIDTH="522" HEIGHT="353.916216560494" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 353.916 L0 353.916 L0 0 Z" copath="M0 0 L522 0 L522 353.916 L0 353.916 L0 0 Z" gXpos="136.001" gYpos="33336.122" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
+                <tab/>
                 <ITEXT CH="Continuō fuērunt"/>
                 <ITEXT FEATURES="inherit superscript" CH="1"/>
                 <ITEXT CH=" ōrdinātae nostrōrum aciēs. In sinistrā parte fuit vir sapiēns Boamundus, et Rotbertus Nortmannus, et prūdēns Tancredus, ac honestissimus mīles Robertus dē Ānsā, et inclītus Richardus dē Prīncipātū. Epīscopus vērō Podiēnsis vēnit per alteram montānam, undique circumcingēns incrēdulōs"/>
                 <ITEXT FEATURES="inherit superscript" CH="2"/>
                 <ITEXT CH=" Turcōs; in sinistrā quoque parte equitāvit fortissimus mīles Raimundus, comes dē Sānctō Egidīō. In dexterā vērō parte fuit honorabilis dux Godefridus, et acerrimus mīles Flandrēnsis comes, et Hugō Magnus, et aliī plūrēs, quōrum nōmina ignōrō."/>
                 <para PARENT="Latin"/>
+                <tab/>
                 <ITEXT CH="Statim autem venientibus mīlitibus nostrīs, Turcī et Ārabēs et Saracēnī et Angulānī et omnēs barbarae nātiōnēs dedērunt vēlōciter fugam, per compendia montium et per plāna loca. Erat autem numerus Turcōrum, Persārum, Pūblicānōrum, Saracēnōrum, Angulānōrum, aliōrumque pāgānōrum trecenta sexāgintā mīlia extrā Ārabēs, quōrum numerum nēmō scit nisi sōlus Deus."/>
                 <para PARENT="Latin"/>
             </StoryText>
@@ -8121,6 +8128,7 @@
         <PAGEOBJECT XPOS="136.001" YPOS="34168.125" OwnPage="81" ItemID="937724979" PTYPE="4" WIDTH="522" HEIGHT="322.167993630559" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 322.168 L0 322.168 L0 0 Z" copath="M0 0 L522 0 L522 322.168 L0 322.168 L0 0 Z" gXpos="136.001" gYpos="34168.125" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
+                <tab/>
                 <ITEXT CH="Fūgērunt vērō nimis vēlōciter ad sua tentōria"/>
                 <ITEXT FEATURES="inherit superscript" CH="1"/>
                 <ITEXT CH=", ibique eōs diū morārī nōn licuit. Iterum vērō arripuērunt"/>
@@ -8129,6 +8137,7 @@
                 <ITEXT FEATURES="inherit superscript" CH="3"/>
                 <ITEXT CH=" cito nōbīs mīsisset aciem, nūllus nostrōrum ēvāsisset, quia ab hōrā tertiā usque in hōram nōnam perdūrāvit haec pugna. Sed omnipotēns Deus, pius et misericors, quī nōn permīsit suōs mīlitēs perīre, nec in manibus inimīcōrum incīdere, festīne nōbīs adiūtōrium mīsit."/>
                 <para PARENT="Latin"/>
+                <tab/>
                 <ITEXT CH="Sed fuērunt illīc mortuī duo ex nostrīs mīlitēs honōrābilēs, scīlicet Godefridus dē Monte Scabiōsō, et Willelmus Marchisi fīlius, frāter Tancredī, aliīque mīlitēs et peditēs, quōrum nōmina ignōrō."/>
                 <para PARENT="Latin"/>
             </StoryText>
@@ -8148,7 +8157,7 @@
                 <ITEXT CH=" is a deponent verb."/>
                 <para PARENT="footnotes"/>
                 <ITEXT FEATURES="inherit superscript" CH="3"/>
-                <ITEXT FONT="DejaVu Serif Italic" CH="Et another had quickly sent a battle-line to (help) us, none of us would have evaded (being killed by the Turks)."/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="And (unless God) had quickly sent another battle-line to (help us), none of us would have escaped (being killed by the Turks)."/>
                 <trail PARENT="footnotes"/>
             </StoryText>
         </PAGEOBJECT>
@@ -8360,6 +8369,7 @@
         <PAGEOBJECT XPOS="136.001" YPOS="35000.128" OwnPage="83" ItemID="942008915" PTYPE="4" WIDTH="522" HEIGHT="171.642700636934" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 171.643 L0 171.643 L0 0 Z" copath="M0 0 L522 0 L522 171.643 L0 171.643 L0 0 Z" gXpos="136.001" gYpos="35000.128" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
+                <tab/>
                 <ITEXT CH="Quis"/>
                 <ITEXT FEATURES="inherit superscript" CH="1"/>
                 <ITEXT CH=" unquam tam sapiēns aut doctus audēbit dēscrībere prūdentiam, mīlitiam, et fortitūdinem Turcōrum? Quī putābant terrēre gentem Francōrum minīs suārum sagittārum, sīcut terruērunt Ārabēs, Saracēnōs et Hermēniōs, Suranīōs et Graecōs. Sed sī Deō"/>
@@ -8498,6 +8508,7 @@
         <PAGEOBJECT XPOS="136.001" YPOS="35832.131" OwnPage="85" ItemID="946502595" PTYPE="4" WIDTH="522" HEIGHT="227.945433121015" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 227.945 L0 227.945 L0 0 Z" copath="M0 0 L522 0 L522 227.945 L0 227.945 L0 0 Z" gXpos="136.001" gYpos="35832.131" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
+                <tab/>
                 <ITEXT CH="Vēritātem dīcam, quam nēmō audēbit prohibēre: Certē, sī in fidē Chrīstī et Chrīstiānitāte sānctā semper firmī fuissent"/>
                 <ITEXT FEATURES="inherit superscript" CH="1"/>
                 <ITEXT CH=", et ūnum Deum in trīnitāte cōnfitērī voluissent, Deīque Fīlium nātum dē Virgine mātre, passum, et resurgentem ā mortuīs et in caelum"/>
