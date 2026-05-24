@@ -495,14 +495,14 @@
         <PAGE PAGEXPOS="712.001" PAGEYPOS="154772.56" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="372" NAM="" MNAM="Vocab right" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
         <PAGE PAGEXPOS="100.001" PAGEYPOS="155604.563" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="373" NAM="" MNAM="Latin left" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
         <PAGE PAGEXPOS="712.001" PAGEYPOS="155604.563" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="374" NAM="" MNAM="Vocab right" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
-        <MASTEROBJECT XPOS="136.001" YPOS="776.002" OwnPage="2" ItemID="789308355" PTYPE="4" WIDTH="522" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 18 L0 18 L0 0 Z" copath="M0 0 L522 0 L522 18 L0 18 L0 0 Z" OnMasterPage="Latin left" gXpos="413236.001" gYpos="1838838594839.99" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <MASTEROBJECT XPOS="136.001" YPOS="776.002" OwnPage="2" ItemID="789308355" PTYPE="4" WIDTH="522" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 18 L0 18 L0 0 Z" copath="M0 0 L522 0 L522 18 L0 18 L0 0 Z" OnMasterPage="Latin left" gXpos="413236.001" gYpos="1848710435235.53" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <var name="pgno" FONTSIZE="12"/>
                 <trail ALIGN="1"/>
             </StoryText>
         </MASTEROBJECT>
-        <MASTEROBJECT XPOS="154.001" YPOS="776.002" OwnPage="3" ItemID="789216979" PTYPE="4" WIDTH="522" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 18 L0 18 L0 0 Z" copath="M0 0 L522 0 L522 18 L0 18 L0 0 Z" OnMasterPage="Vocab right" gXpos="25610236246.001" gYpos="1838626131229.28" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <MASTEROBJECT XPOS="154.001" YPOS="776.002" OwnPage="3" ItemID="789216979" PTYPE="4" WIDTH="522" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 18 L0 18 L0 0 Z" copath="M0 0 L522 0 L522 18 L0 18 L0 0 Z" OnMasterPage="Vocab right" gXpos="25687485946.001" gYpos="1848497971624.82" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <var name="pgno" FONTSIZE="12"/>
@@ -3283,7 +3283,7 @@
                 <tab/>
                 <ITEXT CH="Dēnique reversus iterum in terram suam dominus Boamundus dīligenter honestāvit sēsē ad incipiendum Sānctī Sepulchrī iter. Tandem trānsfretāvit mare cum suō exercitū, et cum eō Tancredus"/>
                 <ITEXT FEATURES="inherit superscript" CH="1"/>
-                <ITEXT CH=" Marchīsī fīlius, et Richardus prīnceps, ac Rainulfus frāter eius, et Rotbertus dē Ānsā, et Hermannus dē Cannī, et Rotbertus dē Surdā Valle, et Robertus fīlius Tostānī, et Hunfredus fīlius Radulfī, et Ricardus fīlius comitis Rainulfī, et comes dē Russignōlō cum frātribus suīs, et Boellō Carnotēnsis, et Alberedus dē Cagnānō, et Hunfredus dē Monte Scabiōsō. Hī omnēs trānsfretāvērunt ad Boamundī famulātum, et applicuērunt Bulgāriae partibus; ubi invēnērunt nimiam abundantiam frūmentī et vīnī et alimentōrum corporis. Deinde dēscendentēs in vallem dē Andronopōlī; expectāvērunt gentem suam, dōnec omnēs pariter trānsfretāssent. Tunc sapiēns Boamundus ōrdināvit concilium cum gente suā, cōnfortāns et monēns omnēs, dīcēns: 'Seniōrēs, cavēte omnēs vōs, quia sumus peregrīnī Deī. Oportet igitur esse magis bonōs et humilēs quam ante fuimus, et nōlīte depredārentur terram istam, quia Chrīstiānōrum est, et nēmō accipiat plūs, nisi quod eī sufficeret ad edendum prō benedictiōne.'"/>
+                <ITEXT CH=" Marchīsī fīlius, et Richardus prīnceps, ac Rainulfus frāter eius, et Rotbertus dē Ānsā, et Hermannus dē Cannī, et Rotbertus dē Surdā Valle, et Robertus fīlius Tostānī, et Hunfredus fīlius Radulfī, et Ricardus fīlius comitis Rainulfī, et comes dē Russignōlō cum frātribus suīs, et Boellō Carnotēnsis, et Alberedus dē Cagnānō, et Hunfredus dē Monte Scabiōsō. Hī omnēs trānsfretāvērunt ad Boamundī famulātum, et applicuērunt Bulgāriae partibus; ubi invēnērunt nimiam abundantiam frūmentī et vīnī et alimentōrum corporis. Deinde dēscendentēs in vallem dē Andronopōlī; exspectāvērunt gentem suam, dōnec omnēs pariter trānsfretāssent. Tunc sapiēns Boamundus ōrdināvit concilium cum gente suā, cōnfortāns et monēns omnēs, dīcēns: 'Seniōrēs, cavēte omnēs vōs, quia sumus peregrīnī Deī. Oportet igitur esse magis bonōs et humilēs quam ante fuimus, et nōlīte depredārentur terram istam, quia Chrīstiānōrum est, et nēmō accipiat plūs, nisi quod eī sufficeret ad edendum prō benedictiōne.'"/>
                 <para PARENT="Latin"/>
             </StoryText>
         </PAGEOBJECT>
@@ -3314,7 +3314,7 @@
                 <ITEXT FEATURES="inherit superscript" CH="3"/>
                 <ITEXT CH=" apprehendēbāmus bovēs, equōs et asinōs, et omnia quae inveniēbāmus. Ēgressī dē Castōriā, intrāvimus Palagōniam, in quā erat quoddam hereticōrum castrum. Quod undique aggressī"/>
                 <ITEXT FEATURES="inherit superscript" CH="4"/>
-                <ITEXT CH=" sumus, moxque nostrō succubuit imperiō; accēnsō itaque igne, combussimus castrum cum habitātōribus suīs. Posteā pervēnimus ad flūmen Bardārum. Dēnique perrēxit dominus Boamundus ultrā"/>
+                <ITEXT CH=" sumus, moxque nostrō succubuit imperiō; accēnsō itaque īgne, combussimus castrum cum habitātōribus suīs. Posteā pervēnimus ad flūmen Bardārum. Dēnique perrēxit dominus Boamundus ultrā"/>
                 <ITEXT FEATURES="inherit superscript" CH="5"/>
                 <ITEXT CH=" cum suā gente, sed nōn tōtā. Remānsit enim ibi comes dē Russignōlō, cum frātribus suīs. Vēnit exercitus"/>
                 <ITEXT FEATURES="inherit superscript" CH="6"/>
@@ -3803,6 +3803,7 @@
                 <ITEXT CH="Liber 2"/>
                 <para PARENT="Chapter Heading"/>
                 <para PARENT="Chapter Heading"/>
+                <tab/>
                 <ITEXT CH="Mandāvit īnfēlīx imperātor simul cum nostrīs"/>
                 <ITEXT FEATURES="inherit superscript" CH="1"/>
                 <ITEXT CH=" nūntiīs ūnī ex suīs, quem valdē dīligēbat, quem et Corpalatium vocant, ut nōs sēcūrē dēdūceret per terram suam, dōnec venīrēmus Cōnstantīnopolim. Cumque trānsīrēmus ante illōrum cīvitātēs, iubēbat habitātōribus terrae ut nōbīs asportārent mercātum, sīcut faciēbant et illī quōs dīximus. Certē tantum timēbant fortissimam gentem dominī Boamundī, ut nūllum nostrōrum sinerent intrāre mūrōs cīvitātum. Voluēruntque nostrī quoddam castrum aggredī et apprehendere, eō"/>
@@ -3817,7 +3818,7 @@
                 <trail PARENT="Latin"/>
             </StoryText>
         </PAGEOBJECT>
-        <PAGEOBJECT XPOS="136.001" YPOS="15451.5668789809" OwnPage="35" ItemID="851011811" PTYPE="4" WIDTH="522" HEIGHT="154.089171974521" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 154.089 L0 154.089 L0 0 Z" copath="M0 0 L522 0 L522 154.089 L0 154.089 L0 0 Z" gXpos="136.001" gYpos="15451.5668789809" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT XPOS="136.001" YPOS="15451.5668789809" OwnPage="35" ItemID="851011811" PTYPE="4" WIDTH="522" HEIGHT="171.974522292987" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 171.975 L0 171.975 L0 0 Z" copath="M0 0 L522 0 L522 171.975 L0 171.975 L0 0 Z" gXpos="136.001" gYpos="15451.5668789809" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <ITEXT FEATURES="inherit superscript" CH="1"/>
@@ -3828,6 +3829,11 @@
                 <para PARENT="footnotes"/>
                 <ITEXT FEATURES="inherit superscript" CH="2"/>
                 <ITEXT FONT="DejaVu Serif Italic" CH="In which there was plenty of every good (thing)."/>
+                <ITEXT CH=" The phrase "/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="eō quod"/>
+                <ITEXT CH=" could also be translated as meaning "/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="because"/>
+                <ITEXT CH="."/>
                 <para PARENT="footnotes"/>
                 <ITEXT FEATURES="inherit superscript" CH="3"/>
                 <ITEXT FONT="DejaVu Serif Italic" CH="But the prudent man Bohemond didn't want to consent (to seizing the castle), as much for justice for the land as for faithfulness to the emperor."/>
