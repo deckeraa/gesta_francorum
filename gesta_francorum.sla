@@ -495,14 +495,14 @@
         <PAGE PAGEXPOS="712.001" PAGEYPOS="154772.56" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="372" NAM="" MNAM="Vocab right" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
         <PAGE PAGEXPOS="100.001" PAGEYPOS="155604.563" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="373" NAM="" MNAM="Latin left" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
         <PAGE PAGEXPOS="712.001" PAGEYPOS="155604.563" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="374" NAM="" MNAM="Vocab right" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
-        <MASTEROBJECT XPOS="136.001" YPOS="776.002" OwnPage="2" ItemID="789308355" PTYPE="4" WIDTH="522" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 18 L0 18 L0 0 Z" copath="M0 0 L522 0 L522 18 L0 18 L0 0 Z" OnMasterPage="Latin left" gXpos="413236.001" gYpos="1943158354160.55" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <MASTEROBJECT XPOS="136.001" YPOS="776.002" OwnPage="2" ItemID="789308355" PTYPE="4" WIDTH="522" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 18 L0 18 L0 0 Z" copath="M0 0 L522 0 L522 18 L0 18 L0 0 Z" OnMasterPage="Latin left" gXpos="413236.001" gYpos="1956730306585.82" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <var name="pgno" FONTSIZE="12"/>
                 <trail ALIGN="1"/>
             </StoryText>
         </MASTEROBJECT>
-        <MASTEROBJECT XPOS="154.001" YPOS="776.002" OwnPage="3" ItemID="789216979" PTYPE="4" WIDTH="522" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 18 L0 18 L0 0 Z" copath="M0 0 L522 0 L522 18 L0 18 L0 0 Z" OnMasterPage="Vocab right" gXpos="26426565298.001" gYpos="1942945890549.84" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <MASTEROBJECT XPOS="154.001" YPOS="776.002" OwnPage="3" ItemID="789216979" PTYPE="4" WIDTH="522" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 18 L0 18 L0 0 Z" copath="M0 0 L522 0 L522 18 L0 18 L0 0 Z" OnMasterPage="Vocab right" gXpos="26532769330.001" gYpos="1956517842975.11" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <var name="pgno" FONTSIZE="12"/>
@@ -10236,6 +10236,7 @@
         <PAGEOBJECT XPOS="136.001" YPOS="43320.158" OwnPage="103" ItemID="976917715" PTYPE="4" WIDTH="522" HEIGHT="203.154101910848" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 203.154 L0 203.154 L0 0 Z" copath="M0 0 L522 0 L522 203.154 L0 203.154 L0 0 Z" gXpos="136.001" gYpos="43320.158" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
+                <tab/>
                 <ITEXT CH="Maior"/>
                 <ITEXT FEATURES="inherit superscript" CH="1"/>
                 <ITEXT CH=" vērō exercitūs, scīlicet Raimundus, comes dē Sānctō Egidīō, et doctissimus Boamundus, duxque Godefridus, et aliī principes in Hermeniōrum intrāvērunt terram, sitientēs"/>
@@ -10408,9 +10409,10 @@
         <PAGEOBJECT XPOS="136.001" YPOS="44152.161" OwnPage="105" ItemID="982181379" PTYPE="4" WIDTH="522" HEIGHT="320.909063694293" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 320.909 L0 320.909 L0 0 Z" copath="M0 0 L522 0 L522 320.909 L0 320.909 L0 0 Z" gXpos="136.001" gYpos="44152.161" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
+                <tab/>
                 <ITEXT CH="Nōs dēnique"/>
                 <ITEXT FEATURES="inherit superscript" CH="1"/>
-                <ITEXT CH=" exeuntēs inde pervēnimus fēlīciter usque Cesaream Cappadociae. Ā Cappadociā autem ēgressī, vēnimus ad quamdam cīvitātem pulcherrimam et nimis ūberrimam, quam paululum ante nostrum adventum obsēderant Turcī per trēs ebdomadās, sed nōn superāverant. Mox"/>
+                <ITEXT CH=" exeuntēs inde pervēnimus fēlīciter ūsque Cesaream Cappadociae. Ā Cappadociā autem ēgressī, vēnimus ad quamdam cīvitātem pulcherrimam et nimis ūberrimam, quam paululum ante nostrum adventum obsēderant Turcī per trēs ebdomadās, sed nōn superāverant. Mox"/>
                 <ITEXT FEATURES="inherit superscript" CH="2"/>
                 <ITEXT CH=" illūc advenientibus nōbīs, continuō trādidit sē in manū nostrā cum magnā laetitiā. Hanc"/>
                 <ITEXT FEATURES="inherit superscript" CH="3"/>
@@ -10629,10 +10631,12 @@
         <PAGEOBJECT XPOS="136.001" YPOS="44984.164" OwnPage="107" ItemID="985325795" PTYPE="4" WIDTH="522" HEIGHT="322.63854777073" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 322.639 L0 322.639 L0 0 Z" copath="M0 0 L522 0 L522 322.639 L0 322.639 L0 0 Z" gXpos="136.001" gYpos="44984.164" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
+                <tab/>
                 <ITEXT CH="Deinde vēnimus ad quamdam urbem nōmine Coxōn, in quā erat maxima ūbertās omnium bonōrum, quae nōbīs erant necessāria. Chrīstiānī igitur, vidēlicet alumnī"/>
                 <ITEXT FEATURES="inherit superscript" CH="1"/>
                 <ITEXT CH=" urbis illīus, reddidērunt sē statim; nōsque fuimus ibi optimē per trēs diēs, et illīc maximē sunt recuperātī nostrī."/>
                 <para PARENT="Latin"/>
+                <tab/>
                 <ITEXT CH="Audiēns itaque Raimundus, comes de Sānctō Egidīō, quod Turcī, quī erant in cūstōdiā Antiochīae, discessissent, in suō"/>
                 <ITEXT FEATURES="inherit superscript" CH="2"/>
                 <ITEXT CH=" invēnit cōnsiliō, quod mitteret illūc aliquōs ex suīs mīlitibus, quī eam dīligenter cūstōdīrent. Tandem ēlēgit illōs quōs lēgāre volēbat, vidēlicet Petrum dē Castelliōne vicecomitem, Willelmum dē Monte Pislerīō, Petrum dē Roasā, Petrum Raimundum dē Pul, cum quīngentīs mīlitibus. Vēnērunt itaque in vallem prope Antiochīam ad quoddam castrum Pūblicānōrum; illīcque audiērunt Turcōs esse in cīvitāte, eamque fortiter dēfendere praeparābant."/>
@@ -10643,8 +10647,7 @@
             <StoryText>
                 <DefaultStyle/>
                 <ITEXT FEATURES="inherit superscript" CH="1"/>
-                <ITEXT FONT="DejaVu Serif Italic" CH="The Christians therefore, namely the inhabitants of that city, returned themselves at once."/>
-                <ITEXT CH=" Presumably some of the inhabitants had fled due to the Turkish menace but returned right away after the crusaders took control."/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="The Christians therefore, namely the inhabitants of that city, gave over themselves (to Crusader control) at once."/>
                 <para PARENT="footnotes"/>
                 <ITEXT FEATURES="inherit superscript" CH="2"/>
                 <ITEXT FONT="DejaVu Serif Italic" CH="He came up with his plan, that he might send there some of his soldiers, that they might diligently guard her (the city of Antioch)."/>
@@ -10852,6 +10855,7 @@
         <PAGEOBJECT XPOS="136.001" YPOS="45816.167" OwnPage="109" ItemID="989646963" PTYPE="4" WIDTH="522" HEIGHT="142.762936305764" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 142.763 L0 142.763 L0 0 Z" copath="M0 0 L522 0 L522 142.763 L0 142.763 L0 0 Z" gXpos="136.001" gYpos="45816.167" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
+                <tab/>
                 <ITEXT CH="Petrus dē Roasā dīvīsit sē ibi ab aliīs, et proximā nocte trānsīvit prope Antiochīam, intrāvitque vallem dē Rugīā et invēnit Turcōs et Saracēnōs, et praeliātus est cum eīs et occīdit multōs ex eīs, et aliōs persecūtus est valdē. Videntēs hoc Hermēniī"/>
                 <ITEXT FEATURES="inherit superscript" CH="1"/>
                 <ITEXT CH=" habitātōrēs terrae illīus, illum fortiter superāsse pāgānōs, continuō reddidērunt sē. Ipse vērō statim coepit Rūsam cīvitātem et plūrima castra."/>
@@ -10976,6 +10980,7 @@
         <PAGEOBJECT XPOS="136.001" YPOS="46648.17" OwnPage="111" ItemID="993485859" PTYPE="4" WIDTH="522" HEIGHT="229.791783439527" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 229.792 L0 229.792 L0 0 Z" copath="M0 0 L522 0 L522 229.792 L0 229.792 L0 0 Z" gXpos="136.001" gYpos="46648.17" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
+                <tab/>
                 <ITEXT CH="Nōs autem quī remānsimus, exeuntēs"/>
                 <ITEXT FEATURES="inherit superscript" CH="1"/>
                 <ITEXT CH=" inde intrāvimus in diabolicam montānam, quae tam erat alta et angusta, ut nūllus nostrōrum audēret"/>
@@ -11128,6 +11133,8 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="remānsimus: we remained; 1st person plural perfect active from remaneō, remanēre, remānsī, remānsus"/>
                 <para PARENT="Vocab"/>
+                <ITEXT CH="saumarius: pack-mule; variant spelling from sagmārius -a -um"/>
+                <para PARENT="Vocab"/>
                 <ITEXT CH="sē: himself or themselves"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="sēmetipsīs: with themselves; sēmet is an intensifier of ipsīs"/>
@@ -11151,8 +11158,6 @@
                 <ITEXT CH="trīstitiā: sadness; singular feminine ablative from trīstitia, trīstitiae"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="undique: from all sides"/>
-                <para PARENT="Vocab"/>
-                <ITEXT CH="saumarius: pack-mule; variant spelling from sagmārius -a -um"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="ūnus: one"/>
                 <para PARENT="Vocab"/>
