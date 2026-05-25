@@ -495,14 +495,14 @@
         <PAGE PAGEXPOS="712.001" PAGEYPOS="154772.56" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="372" NAM="" MNAM="Vocab right" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
         <PAGE PAGEXPOS="100.001" PAGEYPOS="155604.563" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="373" NAM="" MNAM="Latin left" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
         <PAGE PAGEXPOS="712.001" PAGEYPOS="155604.563" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="374" NAM="" MNAM="Vocab right" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
-        <MASTEROBJECT XPOS="136.001" YPOS="776.002" OwnPage="2" ItemID="789308355" PTYPE="4" WIDTH="522" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 18 L0 18 L0 0 Z" copath="M0 0 L522 0 L522 18 L0 18 L0 0 Z" OnMasterPage="Latin left" gXpos="413236.001" gYpos="1923224549035.93" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <MASTEROBJECT XPOS="136.001" YPOS="776.002" OwnPage="2" ItemID="789308355" PTYPE="4" WIDTH="522" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 18 L0 18 L0 0 Z" copath="M0 0 L522 0 L522 18 L0 18 L0 0 Z" OnMasterPage="Latin left" gXpos="413236.001" gYpos="1939194993053.6" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <var name="pgno" FONTSIZE="12"/>
                 <trail ALIGN="1"/>
             </StoryText>
         </MASTEROBJECT>
-        <MASTEROBJECT XPOS="154.001" YPOS="776.002" OwnPage="3" ItemID="789216979" PTYPE="4" WIDTH="522" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 18 L0 18 L0 0 Z" copath="M0 0 L522 0 L522 18 L0 18 L0 0 Z" OnMasterPage="Vocab right" gXpos="26270578126.001" gYpos="1923012085425.22" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <MASTEROBJECT XPOS="154.001" YPOS="776.002" OwnPage="3" ItemID="789216979" PTYPE="4" WIDTH="522" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 18 L0 18 L0 0 Z" copath="M0 0 L522 0 L522 18 L0 18 L0 0 Z" OnMasterPage="Vocab right" gXpos="26395550974.001" gYpos="1938982529442.89" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <var name="pgno" FONTSIZE="12"/>
@@ -8698,6 +8698,7 @@
                 <ITEXT CH="Liber 4"/>
                 <para PARENT="Chapter Heading"/>
                 <para PARENT="Chapter Heading"/>
+                <tab/>
                 <ITEXT CH="Postquam vērō Turcī, inimīcī Deī et sānctae Chrīstiānitātis, omnīnō fuērunt dēvictī, per quāttuor diēs et noctēs fugientēs hūc et illūc, contigit"/>
                 <ITEXT FEATURES="inherit superscript" CH="1"/>
                 <ITEXT CH=" ut Solimānus dux illōrum, fīlius Solimānī veteris, fugeret dē Nīcēa, quī invēnit decem mīlia Arabum, quī dīxērunt eī: &quot;Ō īnfēlīx et īnfēlīcior"/>
@@ -8706,13 +8707,13 @@
                 <trail PARENT="Latin"/>
             </StoryText>
         </PAGEOBJECT>
-        <PAGEOBJECT XPOS="136.001" YPOS="36849.7834394904" OwnPage="87" ItemID="949004851" PTYPE="4" WIDTH="522" HEIGHT="75.350560509607" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 75.3506 L0 75.3506 L0 0 Z" copath="M0 0 L522 0 L522 75.3506 L0 75.3506 L0 0 Z" gXpos="136.001" gYpos="36849.7834394904" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT XPOS="136.001" YPOS="36849.7834394904" OwnPage="87" ItemID="949004851" PTYPE="4" WIDTH="522" HEIGHT="101.656050955462" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 101.656 L0 101.656 L0 0 Z" copath="M0 0 L522 0 L522 101.656 L0 101.656 L0 0 Z" gXpos="136.001" gYpos="36849.7834394904" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <ITEXT FEATURES="inherit superscript" CH="1"/>
                 <ITEXT FONT="DejaVu Serif Italic" CH="It happened that Kilij Arslan (Suleiman II) the leader of them (the Turks), the son of the old Suleiman (Suleiman I), had fled from Nicea, who found 10,000 Arabs, who said to him. "/>
-                <ITEXT FONT="DejaVu Serif Book" CH="Kilij Arslan fled from the Siege of Nicea but not the actual city."/>
-                <ITEXT CH=" When the siege began, he was further east fighting the Danishmend Emirate (no relation to the Danes or Denmark), and returned from that campaign to fight against the crusaders outside Nicea."/>
+                <ITEXT FONT="DejaVu Serif Book" CH="Kilij Arslan fled from the Siege of Nicea but was not inside the city."/>
+                <ITEXT CH=" When the siege began, he was further east fighting the Danishmend Emirate (no relation to the Danes or Denmark), and returned from that campaign to fight against the crusaders outside Nicea. Thus it was not difficult for him to escape from Nicea, since he was outside the city walls, and outside of the Crusader's siege line, from the start."/>
                 <para PARENT="footnotes"/>
                 <ITEXT FEATURES="inherit superscript" CH="2"/>
                 <ITEXT FONT="DejaVu Serif Italic" CH="Unhappier than all the (other) pagans."/>
@@ -8816,6 +8817,7 @@
         <PAGEOBJECT XPOS="136.001" YPOS="37496.137" OwnPage="89" ItemID="952222131" PTYPE="4" WIDTH="522" HEIGHT="293.315229299362" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 293.315 L0 293.315 L0 0 Z" copath="M0 0 L522 0 L522 293.315 L0 293.315 L0 0 Z" gXpos="136.001" gYpos="37496.137" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
+                <tab/>
                 <ITEXT CH="Quibus Solimānus lacrimābiliter respondit: &quot;Quoniam"/>
                 <ITEXT FEATURES="inherit superscript" CH="1"/>
                 <ITEXT CH=" ōlim cum habuissem omnēs Francōs dēvictōs, eōsque putārem iam in captīvitāte ligātōs, dum paulātim voluissem ligāre adinvicem, tunc respiciēns retrō, vīdī tam innumerābilem gentem eōrum, ut sī"/>
@@ -9053,6 +9055,7 @@
         <PAGEOBJECT XPOS="136.001" YPOS="38328.14" OwnPage="91" ItemID="958608067" PTYPE="4" WIDTH="522" HEIGHT="233.133885350326" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 233.134 L0 233.134 L0 0 Z" copath="M0 0 L522 0 L522 233.134 L0 233.134 L0 0 Z" gXpos="136.001" gYpos="38328.14" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
+                <tab/>
                 <ITEXT CH="Tunc veniēbāmus nōs persequentēs inīquissimōs Turcōs, cotīdiē fugientēs ante nōs. At illī venientēs ad cūncta castra sīve urbēs, fingentēs et dēlūdentēs habitātōrēs terrārum illārum dīcēbant: &quot;Nōs dēvīcimus"/>
                 <ITEXT FEATURES="inherit superscript" CH="1"/>
                 <ITEXT CH=" Chrīstiānōs omnēs et superāvimus illōs, ita ut nūllus eōrum iam unquam audeat ērigere sē ante nōs; tantum permittite nōs intus.&quot; Quī intrantēs spoliābant ecclēsiās et domōs et alia omnia, et dūcēbant equōs sēcum et asinōs et mūlōs, aurum et argentum et ea quae reperīre poterant. Adhūc"/>
@@ -9227,6 +9230,7 @@
         <PAGEOBJECT XPOS="136.001" YPOS="39160.143" OwnPage="93" ItemID="959122387" PTYPE="4" WIDTH="522" HEIGHT="206.430248407647" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 206.43 L0 206.43 L0 0 Z" copath="M0 0 L522 0 L522 206.43 L0 206.43 L0 0 Z" gXpos="136.001" gYpos="39160.143" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
+                <tab/>
                 <ITEXT CH="Nōs itaque persequēbāmur eōs per dēserta et inaquōsam et inhabitābilem terram, ex quā"/>
                 <ITEXT FEATURES="inherit superscript" CH="1"/>
                 <ITEXT CH=" vix vīvī ēvāsimus vel exīvimus. Famēs vērō et sitis undique coartābant"/>
@@ -9399,6 +9403,7 @@
         <PAGEOBJECT XPOS="136.001" YPOS="39992.146" OwnPage="95" ItemID="965250755" PTYPE="4" WIDTH="522" HEIGHT="323.726611464976" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 323.727 L0 323.727 L0 0 Z" copath="M0 0 L522 0 L522 323.727 L0 323.727 L0 0 Z" gXpos="136.001" gYpos="39992.146" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
+                <tab/>
                 <ITEXT CH="Intereā coepimus intrāre in terram optimam, plēnam corporālibus alimentīs et dēliciīs omnibusque bonīs, ac deinceps appropinquāvimus Icōniō. Habitātōrēs"/>
                 <ITEXT FEATURES="inherit superscript" CH="1"/>
                 <ITEXT CH=" vērō terrae illīus suādēbant et ammōnēbant nōs nōbīscum ferre utrēs plēnōs aquā, quia illīc in itinere diēī ūnīus est maxima pēnūria aquae. Nōs vērō ita fēcimus, dōnec pervēnimus ad quoddam flūmen, ibique hospitātī sumus per duōs diēs. Coepērunt autem cursōrēs nostrī ante īre, dōnec pervēnērunt ad Erachiam, in quā erat Turcōrum nimia congregātiō, exspectāns et īnsidiāns, quōmodo posset Chrīstī mīlitēs nocēre et contrīstāre. Quōs"/>
@@ -9413,7 +9418,7 @@
             <StoryText>
                 <DefaultStyle/>
                 <ITEXT FEATURES="inherit superscript" CH="1"/>
-                <ITEXT FONT="DejaVu Serif Italic" CH="The inhabitants of that land were persuading and admonishing us to carry with us vessel full of water, because there in a day's journey was a very great scarcity of water."/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="The inhabitants of that land were persuading and admonishing us to carry with us vessels full of water, because there in a day's journey was a very great scarcity of water."/>
                 <para PARENT="footnotes"/>
                 <ITEXT FEATURES="inherit superscript" CH="2"/>
                 <ITEXT FONT="DejaVu Serif Italic" CH="The soldiers of the omnipotent God (i.e. the crusaders) finding those Turks, they (the crusaders) boldly attacked."/>
@@ -9487,7 +9492,6 @@
                 <ITEXT CH="duōs: two"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="ēmissa: having been sent out; singular feminine nominative perfect passive participle from ēmittō, ēmittere, ēmīsī, ēmissus"/>
-                <para PARENT="Vocab"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="Erachiam: Heraclea Cybistra, modern-day Ereğli, Turkey. About 93 miles east of Iconium.erat: he was; 3rd person singular imperfect active from sum, esse, fuī, futūrus"/>
                 <para PARENT="Vocab"/>
@@ -9628,6 +9632,7 @@
         <PAGEOBJECT XPOS="136.001" YPOS="40824.149" OwnPage="97" ItemID="965929443" PTYPE="4" WIDTH="522" HEIGHT="229.608961783451" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 229.609 L0 229.609 L0 0 Z" copath="M0 0 L522 0 L522 229.609 L0 229.609 L0 0 Z" gXpos="136.001" gYpos="40824.149" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
+                <tab/>
                 <ITEXT CH="Illīc dīvīsit sē ab aliīs Tancredus, Marchisī fīlius, et Balduīnus comes ēgregius, frāter ducis Godefridī; simulque intrāvērunt vallem dē Botrenthrot. Dīvīsit quoque sē Tancredus, et vēnit Tarsum sōlummodo cum suīs mīlitibus. Exiērunt dēnique Turcī dē urbe, et vēnērunt obviam eīs, atque in ūnum congregātī properāvērunt ad bellum contrā Chrīstiānōs. Appropinquantibus itaque nostrīs et pugnantibus, dedērunt inimīcī nostrī fugam, revertentēs in urbem celerī gressū"/>
                 <ITEXT FEATURES="inherit superscript" CH="1"/>
                 <ITEXT CH=". Tancredus vērō, vir prūdēns atque honōrābilis mīles Chrīstī pervēnit laxātīs"/>
@@ -9643,8 +9648,12 @@
                 <ITEXT FONT="DejaVu Serif Italic" CH="Returning into the city with quick step."/>
                 <para PARENT="footnotes"/>
                 <ITEXT FEATURES="inherit superscript" CH="2"/>
-                <ITEXT FONT="DejaVu Serif Italic" CH="But Tancred, a prudent man and honorable soldier of Christ, came with relaxed whips, and encamped before the gate of the city."/>
-                <ITEXT CH=" My interpretation of laxātis lōrīs is that it contrasts Tancred's measured approach to the city with the Turks hurried flight."/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="But Tancred, a prudent man and honorable soldier of Christ, came with loosened reins, and encamped before the gate of the city."/>
+                <ITEXT CH=" It appears that "/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="laxātis lōrīs"/>
+                <ITEXT CH=" means that Tancred's horse was galloping at full speed up to the city. Later on the author will use "/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="laxīs frēnīs"/>
+                <ITEXT CH=" to describe a fleeing army."/>
                 <trail PARENT="footnotes"/>
             </StoryText>
         </PAGEOBJECT>
