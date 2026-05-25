@@ -495,14 +495,14 @@
         <PAGE PAGEXPOS="712.001" PAGEYPOS="154772.56" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="372" NAM="" MNAM="Vocab right" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
         <PAGE PAGEXPOS="100.001" PAGEYPOS="155604.563" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="373" NAM="" MNAM="Latin left" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
         <PAGE PAGEXPOS="712.001" PAGEYPOS="155604.563" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="374" NAM="" MNAM="Vocab right" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
-        <MASTEROBJECT XPOS="136.001" YPOS="776.002" OwnPage="2" ItemID="789308355" PTYPE="4" WIDTH="522" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 18 L0 18 L0 0 Z" copath="M0 0 L522 0 L522 18 L0 18 L0 0 Z" OnMasterPage="Latin left" gXpos="413236.001" gYpos="1960386543769.35" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <MASTEROBJECT XPOS="136.001" YPOS="776.002" OwnPage="2" ItemID="789308355" PTYPE="4" WIDTH="522" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 18 L0 18 L0 0 Z" copath="M0 0 L522 0 L522 18 L0 18 L0 0 Z" OnMasterPage="Latin left" gXpos="413236.001" gYpos="1966134148621.87" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <var name="pgno" FONTSIZE="12"/>
                 <trail ALIGN="1"/>
             </StoryText>
         </MASTEROBJECT>
-        <MASTEROBJECT XPOS="154.001" YPOS="776.002" OwnPage="3" ItemID="789216979" PTYPE="4" WIDTH="522" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 18 L0 18 L0 0 Z" copath="M0 0 L522 0 L522 18 L0 18 L0 0 Z" OnMasterPage="Vocab right" gXpos="26561380330.001" gYpos="1960174080158.64" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <MASTEROBJECT XPOS="154.001" YPOS="776.002" OwnPage="3" ItemID="789216979" PTYPE="4" WIDTH="522" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 18 L0 18 L0 0 Z" copath="M0 0 L522 0 L522 18 L0 18 L0 0 Z" OnMasterPage="Vocab right" gXpos="26606356822.001" gYpos="1965921685011.16" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <var name="pgno" FONTSIZE="12"/>
@@ -11354,13 +11354,15 @@
                 <ITEXT CH="Liber 5"/>
                 <para PARENT="Chapter Heading"/>
                 <para PARENT="Chapter Heading"/>
+                <tab/>
                 <ITEXT CH="Cum coepissēmus appropinquāre ad Pontem Farreum, cursōrēs nostrī, quī semper solēbant nōs praecēdere, invēnērunt Turcōs innumerābilēs congregātōs obviam eīs, quī dare adiūtōrium Antiochīae festīnābant. Irruentēs igitur nostrī ūnō corde et mente super illōs, superāvērunt Turcōs. Cōnsternātī sunt barbarī dedēruntque fugam, et multī mortuī sunt ex eīs in ipsō certāmine. Nostrī igitur superantēs illōs, Deī grātiā, accēpērunt spolia multa, equōs, camēlōs, mūlōs, asinōs, onustōs"/>
                 <ITEXT FEATURES="inherit superscript" CH="1"/>
                 <ITEXT CH=" frūmentō et vīnō."/>
                 <para PARENT="Latin"/>
+                <tab/>
                 <ITEXT CH="Venientēs dēnique nostrī, castramētātī sunt super rīpam flūminis. Prōtinus vir sapiēns Boamundus cum quāttuor mīlibus mīlitum vēnit ante portam cīvitātis vigilāre, sī forte"/>
                 <ITEXT FEATURES="inherit superscript" CH="2"/>
-                <ITEXT CH=" aliquis nocte latenter exīret aut intrāret cīvitātem. Crāstinā vērō diē pervēnērunt usque ad Antiochīam mediā diē, in quārtā fēriā"/>
+                <ITEXT CH=" aliquis nocte latenter exīret aut intrāret cīvitātem. Crāstinā vērō diē pervēnērunt ūsque ad Antiochīam mediā diē, in quārtā fēriā"/>
                 <ITEXT FEATURES="inherit superscript" CH="3"/>
                 <ITEXT CH=" quae est XII kalendās Novembris, et obsēdimus mīrābiliter"/>
                 <ITEXT FEATURES="inherit superscript" CH="4"/>
@@ -11617,8 +11619,10 @@
         <PAGEOBJECT XPOS="136.001" YPOS="49144.179" OwnPage="117" ItemID="1008276243" PTYPE="4" WIDTH="522" HEIGHT="355.133101910869" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 355.133 L0 355.133 L0 0 Z" copath="M0 0 L522 0 L522 355.133 L0 355.133 L0 0 Z" gXpos="136.001" gYpos="49144.179" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
+                <tab/>
                 <ITEXT CH="Tantum autem timēbant nōs undique inimīcī nostrī Turcī, quī erant intus in urbe, ut nēmō eōrum audēret offendere aliquem ex nostrīs, ferē per spatium diērum quīndecim. Mox hospitantēs nōs circā Antiochīam repperimus illīc omnem abundantiam, vidēlicet vīneās undique plēnās, foveās plēnās frūmentō, arborēs refertās pōmīs, et alia multa bona corporibus ūtilia."/>
                 <para PARENT="Latin"/>
+                <tab/>
                 <ITEXT CH="Hermēniī et Suriānī, quī erant intus in urbe, exeuntēs et ostendentēs"/>
                 <ITEXT FEATURES="inherit superscript" CH="1"/>
                 <ITEXT CH=" sēsē fugere, cotīdiē erant nōbīscum, sed eōrum uxōrēs in cīvitāte. Illī vērō ingeniōsē"/>
@@ -11839,6 +11843,7 @@
         <PAGEOBJECT XPOS="136.001" YPOS="49976.182" OwnPage="119" ItemID="1008985347" PTYPE="4" WIDTH="522" HEIGHT="383.919910828074" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 383.92 L0 383.92 L0 0 Z" copath="M0 0 L522 0 L522 383.92 L0 383.92 L0 0 Z" gXpos="136.001" gYpos="49976.182" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
+                <tab/>
                 <ITEXT CH="Erat autem nōn longē castrum cui"/>
                 <ITEXT FEATURES="inherit superscript" CH="1"/>
                 <ITEXT CH=" nōmen Aregh, ubi erant congregātī multī Turcī fortissimī, quī frequenter conturbābant nostrōs. Audientēs itaque nostrī seniōrēs tālia, nimis doluērunt, mīsēruntque ex mīlitibus suīs quī dīligenter explōrārent"/>
@@ -11849,6 +11854,7 @@
                 <ITEXT FEATURES="inherit superscript" CH="4"/>
                 <ITEXT CH=" quī erant in urbe."/>
                 <para PARENT="Latin"/>
+                <tab/>
                 <ITEXT CH="Exībant quidem aliī dē cīvitāte et ascendēbant in quamdam portam, et sagittābant nōs, ita"/>
                 <ITEXT FEATURES="inherit superscript" CH="5"/>
                 <ITEXT CH=" ut sagittae eōrum caderent in dominī Boamundī platēam; et ūna mulier occubuit ictū sagittae."/>
@@ -11870,7 +11876,7 @@
                 <para PARENT="footnotes"/>
                 <ITEXT FEATURES="inherit superscript" CH="3"/>
                 <ITEXT FONT="DejaVu Serif Italic" CH="And our (soliders) were stepping backwards little by little, when they knew Bohemond to be with his army, suddenly two of our (soldiers) had been killed there."/>
-                <ITEXT CH=" The scoutiing party was likely stepping backwards in a fearful retreat because they knew Bohemond was with his army and not with them."/>
+                <ITEXT CH=" The scouting party was likely stepping backwards in a fearful retreat because they knew Bohemond was with his army and not with them."/>
                 <para PARENT="footnotes"/>
                 <ITEXT FEATURES="inherit superscript" CH="4"/>
                 <ITEXT FONT="DejaVu Serif Italic" CH="So that those who were in the city might become more sad."/>
