@@ -1,5 +1,5 @@
 [6.a The Turks see that Bohemond and the Count of Flanders are away. They sally out, pushing the Crusaders past the river.]
-Turcī videērunt quod Boamundum et Flandrēnsem comitem in obsessiōne nōn esse.
+Turcī vidērunt quod Boamundum et Flandrēnsem comitem in obsessiōne nōn esse.
 Igitur irruērunt vehementer super nōs.
 Occīdērunt multōs ex nostrīs mīlitibus et peditibus.
 Sed erat flūmen inter nōs et illōs, et nōn potuērunt occīdere omnēs.
@@ -7,13 +7,13 @@ Sed erat flūmen inter nōs et illōs, et nōn potuērunt occīdere omnēs.
 [6.b Food becomes very expensive. A few leaders try to desert.]
 Cibus erat valdē cārus. Hermenīī et Surānī onus ūnīus asinī centum vīgintī solidīs dēnāriōrum.
 Willelmus igitur Carpentārius et Petrus Heremīta, prō immēnsā īnfēlīcitāte, latenter recessērunt.
-Tancredus apprehendit eōs et dedērunt eōs Boamundō.
+Tancredus apprehendit eōs et dedit eōs Boamundō.
 
 [6.c Wilhelm, one of the deserters, is judged by Bohemond. Some Frankish soldiers intercede for Wilhelm. Bohemond forgives him, but he deserts again.]
 Dīxit Boamundus Willelmō: "Ō īnfēlīx et īnfāmia tōtīus Franciae! Cūr tam turpiter fūgistī?"
 Willelmus tacuit et nōn dīxit.
 Sed ferē omnēs Francigenae iērunt ad Boadmund et rogāvērunt prō Willelmō.
-Igitur Bohemond pepercit eum, et Willelmus iūrāvit: "Nōn abībō iterum."
+Igitur Boamundus pepercit eī, et Willelmus iūrāvit: "Nōn abībō iterum."
 Sed, nōn diū morāns, fūrtim recessit.
 
 [6.d Tetigus leaves for Constantinople to have ships with food sent to the Crusaders.]
@@ -25,18 +25,18 @@ Et Tetigus numquam revertit ad Antiochīam.
 Sed, post multum tempus, nāvēs vēnērunt cum multō cibō.
 
 [6.e Due to the famine conditions setting in, Bohemond proposes that the knights seize the Areg castle, thus expanding their safe foraging range.]
-Intereā, Boamunds dīxit prīncipibus: "Nōn habēmus cibum. Necesse est pugnāre contrā Turcōs et capere castum, cui nōmen Areg, ultrā pontem Farreum. Tunc poterimus invenīre cibum in terrā Saracēnōrum."
+Intereā, Boamundus dīxit prīncipibus: "Nōn habēmus cibum. Necesse est pugnāre contrā Turcōs et capere castrum, cui nōmen Areg, ultrā pontem Farreum. Tunc poterimus invenīre cibum in terrā Saracēnōrum."
 
 [6.f Bohemond sends out scouts to determine where the Turkish force is. They prepare for battle.]
-Vir prūdēns Boamundus, cum aliīs prūdentissimīs mīlitibus, īvit inter ﬂumen et lacum.
+Vir prūdēns Boamundus, cum aliīs prūdentissimīs mīlitibus, īvit inter flūmen et lacum.
 Summō dīlūculō, iussit explōrātōrēs exīre et invenīre Turcōs.
 Explōrātōrēs invēnērunt Turcōs.
 
 [6.g Each Crusader prince forms a battle-line and the fighting starts.]
-Quisque prīncipis ōrdināvit aciem suam. Erat sex aciēs.
+Quisque prīnceps ōrdināvit aciem suam. Erat sex aciēs.
 Mīlitēs nostrī et Turcī coepērunt pugnāre.
 Clāmor bellī resonābat ad caelum.
-Turcī invāsit nostrōs fortier.
+Turcī invāsērunt nostrōs fortiter.
 
 [6.h Robert the son of Girard charges the Turks, tearing them apart like a famished lion tears apart sheep.]
 Igitur Rotbertus, fīliō Girardī, irruit super Turcōs fortiter.
@@ -45,5 +45,5 @@ Nostrī mīlitēs vīdērunt Rotbertum pugnāre fortiter, et quoque irruērunt s
 Turcī dedērunt fugam.
 
 [6.i The knights take sufficient spoils back to the foot-soldiers, who had successfully maintained the siege in their absence.]
-Cēpimus multōs equōs et multa spolia. Redidimus ad cīvitātem.
+Cēpimus multōs equōs et multa spolia. Redīvīmus ad cīvitātem.
 Peditēs pugnābant contrā Turcōs, et Turcī nōn poterant exīre cīvitātem.
