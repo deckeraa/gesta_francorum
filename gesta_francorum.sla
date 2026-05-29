@@ -495,14 +495,14 @@
         <PAGE PAGEXPOS="712.001" PAGEYPOS="154772.56" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="372" NAM="" MNAM="Vocab right" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
         <PAGE PAGEXPOS="100.001" PAGEYPOS="155604.563" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="373" NAM="" MNAM="Latin left" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
         <PAGE PAGEXPOS="712.001" PAGEYPOS="155604.563" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="374" NAM="" MNAM="Vocab right" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
-        <MASTEROBJECT XPOS="136.001" YPOS="776.002" OwnPage="2" ItemID="789308355" PTYPE="4" WIDTH="522" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 18 L0 18 L0 0 Z" copath="M0 0 L522 0 L522 18 L0 18 L0 0 Z" OnMasterPage="Latin left" gXpos="413236.001" gYpos="2012831609929.95" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <MASTEROBJECT XPOS="136.001" YPOS="776.002" OwnPage="2" ItemID="789308355" PTYPE="4" WIDTH="522" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 18 L0 18 L0 0 Z" copath="M0 0 L522 0 L522 18 L0 18 L0 0 Z" OnMasterPage="Latin left" gXpos="413236.001" gYpos="2027939181972.3" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <var name="pgno" FONTSIZE="12"/>
                 <trail ALIGN="1"/>
             </StoryText>
         </MASTEROBJECT>
-        <MASTEROBJECT XPOS="154.001" YPOS="776.002" OwnPage="3" ItemID="789216979" PTYPE="4" WIDTH="522" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 18 L0 18 L0 0 Z" copath="M0 0 L522 0 L522 18 L0 18 L0 0 Z" OnMasterPage="Vocab right" gXpos="26971776514.001" gYpos="2012619146319.24" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <MASTEROBJECT XPOS="154.001" YPOS="776.002" OwnPage="3" ItemID="789216979" PTYPE="4" WIDTH="522" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 18 L0 18 L0 0 Z" copath="M0 0 L522 0 L522 18 L0 18 L0 0 Z" OnMasterPage="Vocab right" gXpos="27089997166.001" gYpos="2027726718361.59" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <var name="pgno" FONTSIZE="12"/>
@@ -17207,7 +17207,7 @@
                 <ITEXT FONT="DejaVu Serif Italic" CH="Finally, our (men) gathered themselves (into a council)."/>
                 <para PARENT="footnotes"/>
                 <ITEXT FEATURES="inherit superscript" CH="2"/>
-                <ITEXT FONT="DejaVu Serif Italic" CH="Let us choose one of use, who might strongly hold that castle, at block from our enemies (access to) the mountains and plainies and the entrance to the city and the exit."/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="Let us choose one of use, who might strongly hold that castle, and block from our enemies (access to) the mountains and plains and the entrance to the city and the exit."/>
                 <para PARENT="footnotes"/>
                 <ITEXT FEATURES="inherit superscript" CH="3"/>
                 <ITEXT FONT="DejaVu Serif Italic" CH="But many of them declined themselves to be lodged there (in the castle), unless perhaps there might be many (soldiers) together (or in one place)."/>
@@ -17254,6 +17254,8 @@
                 <ITEXT CH="quoddam: a certain; singular masculine accusative from quīdam"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="dēnique: finally"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="dēvetābō: forbid, prohibit; 1st person singular future active from dēvetō, dēvetāre, dēvetuī, dēvetatus"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="dīcēns: saying; singular nominative present participle from dīcō, dīcere, dīxī, dictus"/>
                 <para PARENT="Vocab"/>
@@ -17414,8 +17416,6 @@
                 <ITEXT CH="urbis: city; singular feminine genitive from urbs, urbis"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="vērō: and, truly, even so, still"/>
-                <para PARENT="Vocab"/>
-                <ITEXT CH="dēvetābō: forbid, prohibit; 1st person singular future active from dēvetō, dēvetāre, dēvetuī, dēvetatus"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="viam: road; singular feminine accusative from via, viae"/>
                 <para PARENT="Vocab"/>
@@ -18043,6 +18043,8 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="parte: part; singular feminine ablative from pars, partis"/>
                 <para PARENT="Vocab"/>
+                <ITEXT CH="paulomīnus: a little less"/>
+                <para PARENT="Vocab"/>
                 <ITEXT CH="paupertāte: poverty; singular feminine ablative from paupertās, paupertātis"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="penitus: altogether, entirely (adverb)"/>
@@ -18085,7 +18087,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="sīve: or, what if"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="subridens: smile; singular nominative present participle from subrīdeō, subrīdēre, subrīsī, subrīsus"/>
+                <ITEXT CH="subridens: smiling; singular nominative present participle from subrīdeō, subrīdēre, subrīsī, subrīsus"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="succēdat: it might succeed; 3rd person singular present active subjunctive from succēdō, succēdere, successī, successus"/>
                 <para PARENT="Vocab"/>
@@ -18294,15 +18296,17 @@
                 <ITEXT FEATURES="inherit superscript" CH="2"/>
                 <ITEXT CH=" tempus modo habēmus idōneum, in quō possumus operārī quicquid bonī volumus; ergō adiuvet mē nunc amīcus meus Pirus.&quot; Quī satis gāvīsus"/>
                 <ITEXT FEATURES="inherit superscript" CH="3"/>
-                <ITEXT CH=" dē nūntiō, ait sē illum adiuvāre omnīnō sīcut agere dēbēret. Nocte itaque veniente proximā, mīsit cautē fīlium suum pignus Boamundō, ut sēcūrior fieret dē introitū urbis. Mīsit quoque eī verba in hunc modum: &quot;ut"/>
+                <ITEXT CH=" dē nūntiō, ait sē illum adiuvāre omnīnō sīcut agere dēbēret. Nocte itaque veniente proximā, mīsit cautē fīlium suum pignus"/>
                 <ITEXT FEATURES="inherit superscript" CH="4"/>
-                <ITEXT CH=" in crāstinum omnem Francōrum gentem praeconiāre atque summovēre faciat, quod in Saracēnōrum terram depredārī vadat, dissimulāns ac deinde celeriter revertātur per dextram montāneam: &quot;Ego vērō,&quot; ait, &quot;ērō"/>
+                <ITEXT CH=" Boamundō, ut sēcūrior fieret dē introitū urbis. Mīsit quoque eī verba in hunc modum: &quot;ut"/>
                 <ITEXT FEATURES="inherit superscript" CH="5"/>
+                <ITEXT CH=" in crāstinum omnem Francōrum gentem praeconiāre atque summovēre faciat, quod in Saracēnōrum terram depredārī vadat, dissimulāns ac deinde celeriter revertātur per dextram montāneam: &quot;Ego vērō,&quot; ait, &quot;ērō"/>
+                <ITEXT FEATURES="inherit superscript" CH="6"/>
                 <ITEXT CH=" intentiōne ērēctā praestōlāns illa agmina, eaque recipiam in turrēs, quās in meā habeō potestāte ac custōdiā.&quot;"/>
                 <trail PARENT="Latin"/>
             </StoryText>
         </PAGEOBJECT>
-        <PAGEOBJECT XPOS="136.001" YPOS="75271.1847133758" OwnPage="179" ItemID="1136835187" PTYPE="4" WIDTH="522" HEIGHT="129.324840764326" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 129.325 L0 129.325 L0 0 Z" copath="M0 0 L522 0 L522 129.325 L0 129.325 L0 0 Z" gXpos="136.001" gYpos="75271.1847133758" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT XPOS="136.001" YPOS="75271.1847133758" OwnPage="179" ItemID="1136835187" PTYPE="4" WIDTH="522" HEIGHT="184.203821656061" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 184.204 L0 184.204 L0 0 Z" copath="M0 0 L522 0 L522 184.204 L0 184.204 L0 0 Z" gXpos="136.001" gYpos="75271.1847133758" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <ITEXT FEATURES="inherit superscript" CH="1"/>
@@ -18315,9 +18319,12 @@
                 <ITEXT FONT="DejaVu Serif Italic" CH="Who, having been sufficiently gladdened by this message, said that he would help him entirely, as he ought to do."/>
                 <para PARENT="footnotes"/>
                 <ITEXT FEATURES="inherit superscript" CH="4"/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="And thus with the next night coming, he (Pirus) cautiously sent his son (as a pledge/surety) to Bohemond, so that he (Bohemond) might be more secure/sure regarding entry to the city."/>
+                <para PARENT="footnotes"/>
+                <ITEXT FONT="DejaVu Serif Italic" FEATURES="inherit superscript" CH="5"/>
                 <ITEXT FONT="DejaVu Serif Italic" CH="That tomorrow you might publicly summon and send forth the whole Frankish people, that they might advance to plunder in the Saracene lands, pretending (to go forth) and then let it quickly returning through the right-hand mountain."/>
                 <para PARENT="footnotes"/>
-                <ITEXT FEATURES="inherit superscript" CH="5"/>
+                <ITEXT FONT="DejaVu Serif Italic" FEATURES="inherit superscript" CH="6"/>
                 <ITEXT FONT="DejaVu Serif Italic" CH="I will with upright intention be standing ready for those bands and will receive them into the towers."/>
                 <trail PARENT="footnotes"/>
             </StoryText>
@@ -18343,7 +18350,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="atque: and"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="Boamundō: Bohemond"/>
+                <ITEXT CH="Boamundō: Bohemond (dative case)"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="Boamundus: Bohemond"/>
                 <para PARENT="Vocab"/>
