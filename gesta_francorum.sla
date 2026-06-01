@@ -495,14 +495,14 @@
         <PAGE PAGEXPOS="712.001" PAGEYPOS="154772.56" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="372" NAM="" MNAM="Vocab right" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
         <PAGE PAGEXPOS="100.001" PAGEYPOS="155604.563" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="373" NAM="" MNAM="Latin left" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
         <PAGE PAGEXPOS="712.001" PAGEYPOS="155604.563" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="374" NAM="" MNAM="Vocab right" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
-        <MASTEROBJECT XPOS="136.001" YPOS="776.002" OwnPage="2" ItemID="789308355" PTYPE="4" WIDTH="522" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 18 L0 18 L0 0 Z" copath="M0 0 L522 0 L522 18 L0 18 L0 0 Z" OnMasterPage="Latin left" gXpos="413236.001" gYpos="2055799709310.82" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <MASTEROBJECT XPOS="136.001" YPOS="776.002" OwnPage="2" ItemID="789308355" PTYPE="4" WIDTH="522" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 18 L0 18 L0 0 Z" copath="M0 0 L522 0 L522 18 L0 18 L0 0 Z" OnMasterPage="Latin left" gXpos="413236.001" gYpos="2061371814778.53" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <var name="pgno" FONTSIZE="12"/>
                 <trail ALIGN="1"/>
             </StoryText>
         </MASTEROBJECT>
-        <MASTEROBJECT XPOS="154.001" YPOS="776.002" OwnPage="3" ItemID="789216979" PTYPE="4" WIDTH="522" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 18 L0 18 L0 0 Z" copath="M0 0 L522 0 L522 18 L0 18 L0 0 Z" OnMasterPage="Vocab right" gXpos="27308012986.001" gYpos="2055587245700.11" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <MASTEROBJECT XPOS="154.001" YPOS="776.002" OwnPage="3" ItemID="789216979" PTYPE="4" WIDTH="522" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 18 L0 18 L0 0 Z" copath="M0 0 L522 0 L522 18 L0 18 L0 0 Z" OnMasterPage="Vocab right" gXpos="27351616150.001" gYpos="2061159351167.82" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <var name="pgno" FONTSIZE="12"/>
@@ -21537,7 +21537,7 @@
                 <tab/>
                 <ITEXT CH="Respondit eī māter sua: &quot;Ō dulcissime fīlī, Chrīstiānī nequeunt vōbīscum bellāre, sciō namque, quod nōn valent nōbīs pugnam īnferre, sed Deus eōrum prō ipsīs cotīdiē pugnat, eōsque diū"/>
                 <ITEXT FEATURES="inherit superscript" CH="4"/>
-                <ITEXT CH=" noctūque suā prōtēctiōne dēfendit et vigilat super eōs, sīcut pāstor vigilat super gregem suam; et nōn permittit eōs laedī nec conturbārī ab ūllā gente, et quīcunque volunt eīs obstāre, īdem eōrum Deus conturbat illōs, sīcut ipse ait per ōs Dāvīd prophētae: &quot;Dissipā gentēs quae bella volunt.&quot; Et alibī: &quot;Effunde īram tuam in gentēs quae tē nōn nōvērunt, et in rēgna quae nōmen tuum nōn invocāvērunt.&quot;"/>
+                <ITEXT CH=" noctūque suā prōtēctiōne dēfendit et vigilat super eōs, sīcut pāstor vigilat super gregem suam; et nōn permittit eōs laedī nec conturbārī ab ūllā gente, et quīcunque volunt eīs obstāre, īdem eōrum Deus conturbat illōs, sīcut ipse ait per ōs Dāvīd prophētae: 'Dissipā gentēs quae bella volunt.' Et alibī: 'Effunde īram tuam in gentēs quae tē nōn nōvērunt, et in rēgna quae nōmen tuum nōn invocāvērunt.'"/>
                 <para PARENT="Latin"/>
             </StoryText>
         </PAGEOBJECT>
@@ -21775,6 +21775,7 @@
         <PAGEOBJECT XPOS="136.001" YPOS="87416.3169999998" OwnPage="209" ItemID="1204856035" PTYPE="4" WIDTH="522" HEIGHT="266.84223566897" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 266.842 L0 266.842 L0 0 Z" copath="M0 0 L522 0 L522 266.842 L0 266.842 L0 0 Z" gXpos="136.001" gYpos="87416.3169999998" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
+                <tab/>
                 <ITEXT CH="Antequam"/>
                 <ITEXT FEATURES="inherit superscript" CH="1"/>
                 <ITEXT CH=" vērō praeparātī sint ad incipiendum bellum, eōrum Deus omnipotēns et bellipotēns simul cum sānctīs suīs omnēs inimīcōs iam habet dēvictōs; quantō magis modo faciet circā vōs, quī eius estis inimīcī et quī praeparāstis vōs obsistere eīs tōtā virtūte?"/>
@@ -21782,7 +21783,7 @@
                 <tab/>
                 <ITEXT CH="Hoc autem, cārissime, in reī vēritāte sciās, quoniam istī Chrīstiānī 'fīliī Chrīstī' vocātī sunt et prophētārum ōre 'fīliī adoptiōnis et prōmissiōnis', et secundum apostolum 'hērēdēs Chrīstī' sunt, quibus"/>
                 <ITEXT FEATURES="inherit superscript" CH="2"/>
-                <ITEXT CH=" Chrīstus hērēditātēs reprōmissās iam dōnāvit, dīcendō per prophētās: 'Ā sōlis ortū usque ad occāsum erunt terminī vestrī, et nēmō stābit contrā vōs.' Et quī potest hīs dictīs contrādīcere vel obstāre?"/>
+                <ITEXT CH=" Chrīstus hērēditātēs reprōmissās iam dōnāvit, dīcendō per prophētās: 'Ā sōlis ortū ūsque ad occāsum erunt terminī vestrī, et nēmō stābit contrā vōs.' Et quī potest hīs dictīs contrādīcere vel obstāre?"/>
                 <para PARENT="Latin"/>
             </StoryText>
         </PAGEOBJECT>
@@ -21790,10 +21791,10 @@
             <StoryText>
                 <DefaultStyle/>
                 <ITEXT FEATURES="inherit superscript" CH="1"/>
-                <ITEXT FONT="DejaVu Serif Italic" CH="And before they had prepared for the coming battle, their God omnipotent and strong-in-war together with his holy one has all their ememies entirely conquered; how much more now will he do regarding you, who are his enemies and who you prepare to resist with all your might?"/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="And before they had prepared for the coming battle, their God omnipotent and strong-in-war together with his holy one has all their enemies entirely conquered; how much more now will he do regarding you, who are his enemies and who you prepare to resist with all your might?"/>
                 <para PARENT="footnotes"/>
                 <ITEXT FEATURES="inherit superscript" CH="2"/>
-                <ITEXT FONT="DejaVu Serif Italic" CH="To whom he already gave the promised inheritancces of Christ."/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="To whom he already gave the promised inheritances of Christ."/>
                 <trail PARENT="footnotes"/>
             </StoryText>
         </PAGEOBJECT>
