@@ -495,14 +495,14 @@
         <PAGE PAGEXPOS="712.001" PAGEYPOS="154772.56" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="372" NAM="" MNAM="Vocab right" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
         <PAGE PAGEXPOS="100.001" PAGEYPOS="155604.563" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="373" NAM="" MNAM="Latin left" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
         <PAGE PAGEXPOS="712.001" PAGEYPOS="155604.563" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="374" NAM="" MNAM="Vocab right" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
-        <MASTEROBJECT XPOS="136.001" YPOS="776.002" OwnPage="2" ItemID="49832357" PTYPE="4" WIDTH="522" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 18 L0 18 L0 0 Z" copath="M0 0 L522 0 L522 18 L0 18 L0 0 Z" OnMasterPage="Latin left" gXpos="413236.001" gYpos="2109619520652.43" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <MASTEROBJECT XPOS="136.001" YPOS="776.002" OwnPage="2" ItemID="49832357" PTYPE="4" WIDTH="522" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 18 L0 18 L0 0 Z" copath="M0 0 L522 0 L522 18 L0 18 L0 0 Z" OnMasterPage="Latin left" gXpos="413236.001" gYpos="2123951970411.88" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <var name="pgno" FONTSIZE="12"/>
                 <trail ALIGN="1"/>
             </StoryText>
         </MASTEROBJECT>
-        <MASTEROBJECT XPOS="154.001" YPOS="776.002" OwnPage="3" ItemID="49808213" PTYPE="4" WIDTH="522" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 18 L0 18 L0 0 Z" copath="M0 0 L522 0 L522 18 L0 18 L0 0 Z" OnMasterPage="Vocab right" gXpos="27729166906.001" gYpos="2109407057041.72" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <MASTEROBJECT XPOS="154.001" YPOS="776.002" OwnPage="3" ItemID="49808213" PTYPE="4" WIDTH="522" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 18 L0 18 L0 0 Z" copath="M0 0 L522 0 L522 18 L0 18 L0 0 Z" OnMasterPage="Vocab right" gXpos="27841322026.001" gYpos="2123739506801.17" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <var name="pgno" FONTSIZE="12"/>
@@ -29198,7 +29198,7 @@
                 <tab/>
                 <ITEXT CH="Postquam vērō haec omnia facta sunt, congregātī omnēs nostrī maiōrēs ōrdināvērunt concilium, quemadmodum"/>
                 <ITEXT FEATURES="inherit superscript" CH="1"/>
-                <ITEXT CH=" hunc fēlīciter valērent condūcere et regere populum, dōnec peragerent iter Sānctī Sepulchrī, prō quō hūc usque multa erant passī perīcula. Inventum est in conciliō, quia nōndum audērent intrāre in pāgānōrum terram, eō quod valdē in aestīvō tempore est ārida et inaquōsa; ideōque accēpērunt terminum"/>
+                <ITEXT CH=" hunc fēlīciter valērent condūcere et regere populum, dōnec peragerent iter Sānctī Sepulchrī, prō quō hūc ūsque multa erant passī perīcula. Inventum est in conciliō, quia nōndum audērent intrāre in pāgānōrum terram, eō quod valdē in aestīvō tempore est ārida et inaquōsa; ideōque accēpērunt terminum"/>
                 <ITEXT FEATURES="inherit superscript" CH="2"/>
                 <ITEXT CH=" attendendum ad kalendās Novembrīs."/>
                 <para PARENT="Latin"/>
@@ -29215,7 +29215,7 @@
             <StoryText>
                 <DefaultStyle/>
                 <ITEXT FEATURES="inherit superscript" CH="1"/>
-                <ITEXT FONT="DejaVu Serif Italic" CH="In what whay they might be able to happily conduct and rule the people, until they had completed the trip of the Holy Sepulchre, for which, up to now, they had suffered many dangers."/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="In what way they might be able to happily conduct and rule the people, until they had completed the journey of the Holy Sepulchre, for which, up to now, they had suffered many dangers."/>
                 <para PARENT="footnotes"/>
                 <ITEXT FEATURES="inherit superscript" CH="2"/>
                 <ITEXT FONT="DejaVu Serif Italic" CH="And for that reason they received a date for re-convening at the start of November."/>
@@ -29425,12 +29425,12 @@
             <StoryText>
                 <DefaultStyle/>
                 <tab/>
-                <ITEXT CH="Erat autem ibi quīdam mīles dē exercitū comitis Sānctī Egidīī, cui nōmen Raimundus Pilētus. Hic plūrimōs retinuit hominēs, mīlitēs ac peditēs. Ēgressus est ille cum collēctō exercitū ut virīliter introiit in Saracēnōrum terram, et profectus est ultrā duās cīvitātēs et pervēnit ad quoddam castrum, cui nōmen Talamaniā. Habitātōrēs castrī, scīlicet Suriānī, cōnfestim"/>
+                <ITEXT CH="Erat autem ibi quīdam mīles dē exercitū comitis Sānctī Egidiī, cui nōmen Raimundus Pilētus. Hic plūrimōs retinuit hominēs, mīlitēs ac peditēs. Ēgressus est ille cum collēctō exercitū ut virīliter introiit in Saracēnōrum terram, et profectus est ultrā duās cīvitātēs et pervēnit ad quoddam castrum, cui nōmen Talamaniā. Habitātōrēs castrī, scīlicet Suriānī, cōnfestim"/>
                 <ITEXT FEATURES="inherit superscript" CH="1"/>
                 <ITEXT CH=" suā sponte sē trādidērunt eī."/>
                 <para PARENT="Latin"/>
                 <tab/>
-                <ITEXT CH="Cumque omnēs essent ibi ferē per octo diēs, nūntiī vēnērunt ad eum dīcentēs: &quot;Quoniam hic prope nōs est castrum Saracēnōrum multitūdine plēnum.&quot; Ad hoc castrum īlicō iērunt Chrīstī mīlitēs peregrīnī, et undique invāsērunt illud, quod continuō ab illīs captum est, Chrīstī adiūtōriō. Apprehendērunt igitur omnēs illīus locī colōnōs, et quī Chrīstiānitātem recipere nōluērunt"/>
+                <ITEXT CH="Cumque omnēs essent ibi ferē per octo diēs, nūntiī vēnērunt ad eum dīcentēs: &quot;Quoniam hīc prope nōs est castrum Saracēnōrum multitūdine plēnum.&quot; Ad hoc castrum īlicō iērunt Chrīstī mīlitēs peregrīnī, et undique invāsērunt illud, quod continuō ab illīs captum est, Chrīstī adiūtōriō. Apprehendērunt igitur omnēs illīus locī colōnōs, et quī Chrīstiānitātem recipere nōluērunt"/>
                 <ITEXT FEATURES="inherit superscript" CH="2"/>
                 <ITEXT CH=", occīdērunt; quī vērō Chrīstum recognōscere māluērunt, vīvōs cōnservāvērunt. Reversī sunt itaque hoc perāctō nostrī Francī cum magnō gaudiō ad prius castrum."/>
                 <para PARENT="Latin"/>
@@ -29527,6 +29527,8 @@
                 <ITEXT CH="habitātōrēs: dwellers; plural masculine nominative from habitātor, habitātōris"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="hic: this; singular masculine nominative of hic, haec, hoc"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="hīc: here"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="hoc: this; singular neuter nominative or accusative from hic, haec, hoc"/>
                 <para PARENT="Vocab"/>
@@ -29693,7 +29695,7 @@
                 <para PARENT="footnotes"/>
                 <ITEXT FEATURES="inherit superscript" CH="3"/>
                 <ITEXT FONT="DejaVu Serif Italic" FEATURES="inherit" CH="The victory was ministering strength to them."/>
-                <ITEXT CH=" The Turks were strengthend by seeing the Crusaders retreat."/>
+                <ITEXT CH=" The Turks were strengthened by seeing the Crusaders retreat."/>
                 <para PARENT="footnotes"/>
                 <ITEXT FEATURES="inherit superscript" CH="4"/>
                 <ITEXT FONT="DejaVu Serif Italic" CH="And many of them returned their souls to God (by martyrdom in battle), on account of whose love they had been gathered (to go on Crusade)."/>
