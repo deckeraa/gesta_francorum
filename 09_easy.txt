@@ -26,20 +26,38 @@ Mariae, et appāruit mihi Salvātor mundī. Dīxit: 'Adiuvi vestros, et dedo vos
 Omnēs maiōrēs nostrī iuraverunt sacrementum, quod nullus illorum fugeret, neque pro morte neque pro vita, quamdiu vivi essent.
 Chrīstiāna congregātiō audivit hoc sacramentum et exsultavit.
 
-[9.g]
-230 St. Andrew appears to a pilgrim in a vision, telling him of the Holy Lance.
-232 St. Andrew appears to the pilgrim again. The pilgrims swears he is telling the truth.
-234 A soldier named Hugo holds off an attack from the Turks who are in the castle inside the city.
-(236) Boamund burns down part of the city to prevent soldiers from deserting.
-238 The Crusaders build a wall around the Turk-held castle within the city.
-240 Some Turks remain encamped besides the Turk-held castle within the city, but fire falls from heaven and they surrender to Bohemond.
-242 A famine occurs within Antioch
-244 Stephen Henry, Count of Charters, had been in a castle outside of Antioch but deserted, fleeing from the Turks.
-246 Stephen Henry the deserter meets with a Byzantine relief army and tells them to turn around.
-248 Guy of Hauteville, Bohemond's brother, hears the false report and has a crises of faith.
-250 Guy of Hauteville mourns his brother Bohemond's death.
-252 Guy of Hauteville begins to doubt the deserter's report. The emperor still turns his relief force away from Antioch.
-254 The Crusaders find the Holy Lance buried where St. Andrew indicated in the vision.
+[9.g A soldier named Hugo holds off an attack from the Turks who are in the castle inside the city.]
+Turci, qui erant seorsum in castello, pugnabant contra nos.
+Quadam die, incluserunt tres milites ex nostries in turrim quae erat ante castellum.
+Turci irruerant super illos acriter.
+Duo ex mīlitibus exiērunt dē turrī vulnerātī.
+Tertius per tōtum diem virīliter dēfendēbat sē dē Turcōrum invāsiōne.
+Erat nomen illī Hugo, dē exercitū Gosfridī dē Monte Scabiōsō.
+
+[9.h The Crusaders build a wall around the Turk-held castle within the city. Fire from heaven causes some Turks to surrender.]
+Nostri milites fecerunt murum inter nos et Turcos qui erant in civitate.
+Quoque erant Turci prope castellum in ūnā valle in civitate.
+Una nocte, ignis dē caelō appāruit et cedidit intrā Turcōrum exercitus.
+Multi tremefacti Turci fugerunt ante portam domini Boamundi.
+
+[9.i A famine occurs within Antioch]
+Non erat multus cibus in civitate.
+Parvus pānis vēndēbātur ūnō bisantīō.
+Vēndēbant quoque gallīnam quīndecim solidīs, ōvum duōbus solidīs, ūnam nucem ūnō dēnāriō.
+
+[9.j 244 Stephen Henry, Count of Charters, had been in a castle outside of Antioch but deserted, fleeing from the Turks. He meets with a Byzantine relief army; his false report causes the relief army to turn around.]
+
+[9.k 248 Guy of Hauteville, Bohemond's brother, hears the false report and has a crises of faith, mourning his brother's death.]
+
+[9.l St. Andrew appears to a pilgrim in a vision, telling him of the Holy Lance, which will miraculously grant victory in battle.]
+    Erat quīdam peregrīnus, cui nomen Petrus, quī habuit visionem.
+Sanctus Andreas apostolus apparuit ei et dīxit: "Ego sum Andreas apostolus. Lancea Salvatoris nostri Iesu Christi, quae vulneravit eum, est in Ecclesiā beati Petri. Quisque portaverit hanc lanceam in bello, nunquam ab hoste superabitur." Et Sanctus Andreas portavit eum ūsque ad locum ubi lancea erat recondita in terrā.
+    Nos, igitur, pervenimus ad locum in Sancti Petri ecclesia, quem ille domonstraverat.
+    Et fōdērunt ibi tredecim hominēs ā māne ūsque ad vesperam.
+    Et sīc Petrus invēnit lanceam, sīcut indicāverat.
+    Erat immensa laetitia in tota urbe.
+    
+
 256 Peter the Hermit is sent to the Turks to ask them to leave.
 258 Curbaram counter-offers the Crusaders a fief in Syria if they convert to Islam.
 260 The Crusaders organize an ecclesiastical procession and celebrate the Eucharist in preparation for battle.
