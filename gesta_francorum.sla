@@ -495,14 +495,14 @@
         <PAGE PAGEXPOS="712.001" PAGEYPOS="154772.56" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="372" NAM="" MNAM="Vocab right" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
         <PAGE PAGEXPOS="100.001" PAGEYPOS="155604.563" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="373" NAM="" MNAM="Latin left" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
         <PAGE PAGEXPOS="712.001" PAGEYPOS="155604.563" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="374" NAM="" MNAM="Vocab right" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
-        <MASTEROBJECT XPOS="136.001" YPOS="776.002" OwnPage="2" ItemID="49832357" PTYPE="4" WIDTH="522" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 18 L0 18 L0 0 Z" copath="M0 0 L522 0 L522 18 L0 18 L0 0 Z" OnMasterPage="Latin left" gXpos="413236.001" gYpos="2137655547375.76" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <MASTEROBJECT XPOS="136.001" YPOS="776.002" OwnPage="2" ItemID="49832357" PTYPE="4" WIDTH="522" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 18 L0 18 L0 0 Z" copath="M0 0 L522 0 L522 18 L0 18 L0 0 Z" OnMasterPage="Latin left" gXpos="413236.001" gYpos="2152997118597.86" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <var name="pgno" FONTSIZE="12"/>
                 <trail ALIGN="1"/>
             </StoryText>
         </MASTEROBJECT>
-        <MASTEROBJECT XPOS="154.001" YPOS="776.002" OwnPage="3" ItemID="49808213" PTYPE="4" WIDTH="522" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 18 L0 18 L0 0 Z" copath="M0 0 L522 0 L522 18 L0 18 L0 0 Z" OnMasterPage="Vocab right" gXpos="27948556054.001" gYpos="2137443083765.05" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <MASTEROBJECT XPOS="154.001" YPOS="776.002" OwnPage="3" ItemID="49808213" PTYPE="4" WIDTH="522" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 18 L0 18 L0 0 Z" copath="M0 0 L522 0 L522 18 L0 18 L0 0 Z" OnMasterPage="Vocab right" gXpos="28068607810.001" gYpos="2152784654987.15" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <var name="pgno" FONTSIZE="12"/>
@@ -30507,7 +30507,7 @@
                 <tab/>
                 <ITEXT CH="Boamundus autem quaerēbat cotīdiē conventiōnem, quam omnēs seniōrēs ōlim habuerant eī in reddendam"/>
                 <ITEXT FEATURES="inherit superscript" CH="4"/>
-                <ITEXT CH=" cīvitātem; sed comes Sānctī Egidīī ad nūllam conventiōnem volēbat sē ēmollīre ergā Boamundum, eō quod timēbat sē peierāre ergā imperātōrem; Tamen saepe fuērunt congregātī in ecclēsiā Sānctī Petrī ad faciendum quod iūstum erat. Boamundus recitāvit suam conventiōnem suumque ostendit compotum. Comes Sānctī Egidīī similiter sua patefēcit verba, et iūsiūrandum, quod fēcerat imperātōrī per cōnsilium Boamundī."/>
+                <ITEXT CH=" cīvitātem; sed comes Sānctī Egidiī ad nūllam conventiōnem volēbat sē ēmollīre ergā Boamundum, eō quod timēbat sē peierāre ergā imperātōrem; Tamen saepe fuērunt congregātī in ecclēsiā Sānctī Petrī ad faciendum quod iūstum erat. Boamundus recitāvit suam conventiōnem suumque ostendit compotum. Comes Sānctī Egidīī similiter sua patefēcit verba, et iūsiūrandum, quod fēcerat imperātōrī per cōnsilium Boamundī."/>
                 <para PARENT="Latin"/>
             </StoryText>
         </PAGEOBJECT>
@@ -30527,7 +30527,7 @@
                 <para PARENT="footnotes"/>
                 <ITEXT FEATURES="inherit superscript" CH="4"/>
                 <ITEXT FONT="DejaVu Serif Italic" CH="However Bohemond was daily seeking that agreement, which all the chiefs had once made to him, that they should return the city (of Antioch to him). "/>
-                <ITEXT CH="The disagreement arose between Raymond, who had sworn to Alexius to return Byzantine control, and Bohemond, whom the rest of the chiefs had agreed to give Antioch to on condition that he quickly capture the city, which he did. As a further factor in the disagreement was the fact that Alexius had turned his relief army back at the false report from the defectors, leaving the Crusaders unaided during the latter part of the siege."/>
+                <ITEXT CH="The disagreement arose between Raymond, who had sworn to Alexios to return Byzantine control, and Bohemond, whom the rest of the chiefs had agreed to give Antioch to on condition that he quickly capture the city, which he did. As a further factor in the disagreement was the fact that Alexios had turned his relief army back due to the false report from the deserters, leaving the Crusaders unaided during the latter part of the siege."/>
                 <trail PARENT="footnotes"/>
             </StoryText>
         </PAGEOBJECT>
@@ -30586,7 +30586,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="ēmollīre: to soften, mellow; present active infinitive from ēmolliō, ēmollīre, ēmollīvī, ēmollītus"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="eō: in that; singular masculine ablative from is, ea, id"/>
+                <ITEXT CH="eō: in that, eō quod = because; singular masculine ablative from is, ea, id"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="erat: he was; 3rd person singular imperfect active from sum, esse, fuī, futūrus"/>
                 <para PARENT="Vocab"/>
@@ -30728,7 +30728,7 @@
                 <tab/>
                 <ITEXT CH="Epīscopī, et dux Godefridus, Flandrēnsisque comes et comes dē Nortmannīā aliīque seniōrēs dīvīsī sunt ab aliīs, et intrāvērunt ubi est cathedra Sānctī Petrī, ut ibi iūdicium inter utrumque discernerent. Posteā"/>
                 <ITEXT FEATURES="inherit superscript" CH="1"/>
-                <ITEXT CH=" vērō timentēs, nē Sānctī Sepulchrī via prōturbārētur, nōluērunt apertē iūdicium dīcere. Ait dēnique comes Sānctī Egidīī: &quot;Priusquam"/>
+                <ITEXT CH=" vērō timentēs, nē Sānctī Sepulchrī via prōturbārētur, nōluērunt apertē iūdicium dīcere. Ait dēnique comes Sānctī Egidiī: &quot;Priusquam"/>
                 <ITEXT FEATURES="inherit superscript" CH="2"/>
                 <ITEXT CH=" via Sānctī Sepulchrī remaneat, sī Boamundus nōbīscum venīre voluerit, quicquid nostrī parēs"/>
                 <ITEXT FEATURES="inherit superscript" CH="3"/>
@@ -30737,7 +30737,7 @@
                 <ITEXT CH=" salvā fidēlitāte imperātōris.&quot; Hoc tōtum laudāvit Boamundus, et prōmīsērunt ambō in manibus epīscopōrum, quod nūllō modō per sē via Sānctī Sepulchrī dēturbārētur."/>
                 <para PARENT="Latin"/>
                 <tab/>
-                <ITEXT CH="Tunc accēpit Boamundus cōnsilium cum suīs hominibus, quōmodo mūnīret castrum dē alta montānea hominibus et vīctū. Similiter comes Sānctī Egidīī accēpit cōnsilium cum suīs, quōmodo mūnīret palātium Cassiānī admiralīī et turrim, quae est super portam pontis, quī est ex parte Portus Sānctī Simeōnis, mūnīret, inquam, hominibus et vīctū, quī nōn dēficeret longō tempore."/>
+                <ITEXT CH="Tunc accēpit Boamundus cōnsilium cum suīs hominibus, quōmodo mūnīret castrum dē alta montānea hominibus et vīctū. Similiter comes Sānctī Egidīī accēpit cōnsilium cum suīs, quōmodo mūnīret palātium Cassiānī admiraliī et turrim, quae est super portam pontis, quī est ex parte Portus Sānctī Simeōnis, mūnīret, inquam, hominibus et vīctū, quī nōn dēficeret longō tempore."/>
                 <para PARENT="Latin"/>
             </StoryText>
         </PAGEOBJECT>
@@ -30765,7 +30765,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="accēpit: he took, received; 3rd person singular perfect from accipiō, accipere, accēpī, acceptum"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="admiralīī: of the emirs, leaders, admirals; loanword from Arabic; singular masculine genitive from admiralīus, admiralīī"/>
+                <ITEXT CH="admiraliī: of the emirs, leaders, admirals; loanword from Arabic; singular masculine genitive from admiralīus, admiralīī"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="ait: he says; 3rd person singular present from aiō, aiere"/>
                 <para PARENT="Vocab"/>
