@@ -1,17 +1,17 @@
 [9.a Messengers were sent to Curbaram, a Persian General. Curbaram assembles an army and arrives at the Pons Farreum.]
-Nūntiōs Cassiānī fūgērunt Antiocham. Vēnērunt ad Curbaram, prīnceps mīlitiae Soldānī Persiae. Dīxērunt eī: "Venī contrā Chrīstiānōs in Antiochīā."
+Nūntiōs Cassiānī fūgērunt ex Antiochā. Vēnērunt ad Curbaram, prīnceps mīlitiae Soldānī Persiae. Dīxērunt eī: "Venī contrā Chrīstiānōs in Antiochīā."
 Curbaram congregāvit innumerās gentēs pāgānōrum, vidēlicet Turcōs, Arabās, Saracēnōs et aliās multās gentēs innumerābilēs.
 
 Tertia vērō diē postquam intrāvimus cīvitātem, Curbaram et mīlitēs eius pervēnērunt ad Pontem Farream.
-Expugāvērunt terrim et occīdērunt omnēs quōs illīc invēnērunt.
+Expugāvērunt turrim et occīdērunt omnēs quōs illīc invēnērunt.
 
 [9.b Curbarum is shown poor-quality weapons and mocks the Franks.]
-Turcī, dētulērunt ante cōnspectum Curbaram gladium malum et laceam inūtilem.
+Turcī, dētulērunt ante cōnspectum Curbaram gladium malum et lanceam inūtilem.
 Dīxērunt: "Ecce arma, quae Francī attulērunt ad pugnam.
 Curbaram coepit subrīdēre. Dīxit: "Vincēmus Chrīstiānōs."
 
 [9.c Curbaram's mother in Aleppo writes a letter to him to convince him not to fight the crusaders.]
-Māter eiusdem Curbaram venit ad eum. Dīxit lacrimābiliter: "Fīlī, nōn dēbēs pugnāre contrā Chrīstiānōs. Exerctius tuus est fortis, sed Deus eōrum pugnat prō eīs."
+Māter eiusdem Curbaram venit ad eum. Dīxit lacrimābiliter: "Fīlī, nōn dēbēs pugnāre contrā Chrīstiānōs. Exercitus tuus est fortis, sed Deus eōrum pugnat prō eīs."
 Sed Curbaram nōn voluit audīre mātrem suam et invāsit Antiocham.
 Nostrī mīlitēs nōn potuērunt vincere eum et fūgērunt in cīvitātem.
 
@@ -23,13 +23,13 @@ Quīdam sacerdōs venit ante maiōrēs nostrōs. Dīxit: "Ūnā nocte, erat in e
 Mariae, et appāruit mihi Salvātor mundī. Dīxit: 'Adiūvī vestrōs, et dēdō vōs Antiochīam. Sed fēcistis fornicātiōnem cum pāgānīs mulieribus, unde immēnsus fētor ascendit in caelum.'"
 
 [9.f The Crusader princes swear oaths to each other to not abandon Antioch.]
-Omnēs maiōrēs nostrī iūrāvērunt sacrementum, quod nūllus illōrum fugeret, neque prō morte neque prō vītā, quamdiū vīvī essent.
+Omnēs maiōrēs nostrī iūrāvērunt sacramentum, quod nūllus illōrum fugeret, neque prō morte neque prō vītā, quamdiū vīvī essent.
 Chrīstiāna congregātiō audīvit hoc sacrāmentum et exsultāvit.
 
 [9.g A soldier named Hugo holds off an attack from the Turks who are in the castle inside the city.]
 Turcī, quī erant seorsum in castellō, pugnābant contrā nōs.
-Quādam diē, inclūsērunt trēs mīlitēs ex nostriēs in turrim quae erat ante castellum.
-Turcī irruerant super illōs ācriter.
+Quādam diē, inclūsērunt trēs mīlitēs ex nostrīs in turrim quae erat ante castellum.
+Turcī irruērunt super illōs ācriter.
 Duo ex mīlitibus exiērunt dē turrī vulnerātī.
 Tertius per tōtum diem virīliter dēfendēbat sē dē Turcōrum invāsiōne.
 Erat nōmen illī Hugō, dē exercitū Gosfridī dē Monte Scabiōsō.
@@ -37,7 +37,7 @@ Erat nōmen illī Hugō, dē exercitū Gosfridī dē Monte Scabiōsō.
 [9.h The Crusaders build a wall around the Turk-held castle within the city. Fire from heaven causes some Turks to surrender.]
 Nostrī mīlitēs fēcērunt mūrum inter nōs et Turcōs quī erant in cīvitāte.
 Quoque erant Turcī prope castellum in ūnā valle in cīvitāte.
-Ūnā nocte, ignis dē caelō appāruit et cēdidit intrā Turcōrum exercitūs.
+Ūnā nocte, ignis dē caelō appāruit et cecidit intrā exercitum Turcōrum.
 Multī tremefactī Turcī fūgērunt ante portam dominī Boamundī.
 
 [9.i A famine occurs within Antioch]
@@ -48,27 +48,27 @@ Vēndēbant quoque gallīnam quīndecim solidīs, ōvum duōbus solidīs, ūnam 
 [9.j Stephen Henry, Count of Charters, had been in a castle outside of Antioch but deserted, fleeing from the Turks. He meets with a Byzantine relief army; his false report causes the relief army to turn around.]
      Imprūdēns Stephanus, Carnotēnsis comes, erat extrā Antiochīā in quoddam castrum.
 Stephanus nōn adiūvit nōs, sed vīdit innumerābilia tentōria Turcōrum et fūgit cum suō exercitū.
-	  Venit obviam imperātōrī. Stephanus dīxit imperātōrī: "Antiochīa capta est et omnēs nostrī mīlitēs interfectī sunt ā Turcīs. Ergō, dēbēs reverter retrō." Imperātor, perterritus timōre, nōn pervēnit ad Antiochīam sed revertit retrō ad Constanipolitam cum exercitū suō.
+	  Venit obviam imperātōrī. Stephanus dīxit imperātōrī: "Antiochīa capta est et omnēs nostrī mīlitēs interfectī sunt ā Turcīs. Ergō, dēbēs revertere retrō." Imperātor, perterritus timōre, nōn pervēnit ad Antiochīam sed revertit retrō ad Cōnstantīnopolim cum exercitū suō.
 
 [9.k Guy of Hauteville, Bohemond's brother, hears the false report and has a crises of faith, mourning his brother's death.]
-     Stephanus dīxit Widō, mīles honestissimus et frāter Boamundī: "Frāter tuus Boadundus et aliī cēterī mīlitēs mortuī sunt.
-     Widō dīxit ad Deum: "Ō, Deus vērus, cūr permīsit servōs suōs morīre? Quōmodo possumus invocāre nōmen tuum, cum populō suō est in manibus inimīcōrum?" Ō, quam trīstis sum! Frāter meus mortuus est, et nōn potuī recipere martyrium cum eō."
+     Stephanus dīxit Widō, mīles honestissimus et frāter Boamundī: "Frāter tuus Boamundus et aliī cēterī mīlitēs mortuī sunt.
+     Widō dīxit ad Deum: "Ō, Deus vērus, cūr permīsit servōs suōs morī? Quōmodo possumus invocāre nōmen tuum, cum populō suō est in manibus inimīcōrum?" Ō, quam trīstis sum! Frāter meus mortuus est, et nōn potuī recipere martyrium cum eō."
 
 [9.l St. Andrew appears to a pilgrim in a vision, telling him of the Holy Lance, which will miraculously grant victory in battle.]
     Erat quīdam peregrīnus, cui nōmen Petrus, quī habuit vīsiōnem.
 Sānctus Andreās apostolus appāruit eī et dīxit: "Ego sum Andrēās apostolus. Lancea Salvātōris nostrī Iēsu Chrīstī, quae vulnerāvit eum, est in Ecclēsiā beātī Petrī. Quisque portāverit hanc lanceam in bellō, nunquam ab hoste superābitur." Et Sānctus Andreās portāvit eum usque ad locum ubi lanceā erat recondita in terrā.
-    Nōs, igitur, pervēnimus ad locum in Sānctī Petrī ecclēsia, quem ille domonstrāverat.
+    Nōs, igitur, pervēnimus ad locum in Sānctī Petrī ecclēsia, quem ille dēmōnstrāverat.
     Et fōdērunt ibi tredecim hominēs ā māne usque ad vesperam.
     Et sīc Petrus invēnit lanceam, sīcut indicāverat.
     Erat immēnsa laetitia in tōtā urbe.
     
 [9.m Peter the Hermit is sent to the Turks to ask them to leave. Curbaram counter-offers the Crusaders a fief in Syria if they convert to Islam.]
-Nostrī seniōrēs mīsērunt Petrum Heremitum Turcis.
+Nostrī seniōrēs mīsērunt Petrum Heremitam Turcis.
 Petrus Heremitus dīxit eīs: "Quōmodo pugnāre contrā Chrīstiānōs? Permittēmus vōs exīre cum animālibus suīs et revertere ad terram Saracēnōrum."
-Curbaram ridit et respondit: "Nolumōs exīre vel esse Chrīstiānī. Sed Francī sunt gēns fortis. Negātē deum vestrum et habēbimus vōs semper in summā amīcitiā, et permittēmus vōs remanēre in Antiochīā. Sīn autem, interficiēmus vōs."
+Curbaram risit et respondit: "Nōlumus exīre vel esse Chrīstiānī. Sed Francī sunt gēns fortis. Negāte deum vestrum et habēbimus vōs semper in summā amīcitiā, et permittēmus vōs remanēre in Antiochīā. Sīn autem, interficiēmus vōs."
 
 [9.n The Crusaders organize an ecclesiastical procession and celebrate the Eucharist in preparation for battle. Battle lines are drawn up]
-Nostrī epīscopī et mīlitēs celebrarērunt prōcessiōnem ab ūnā ecclēsiā in aliam.
+Nostrī epīscopī et mīlitēs celebrāvērunt prōcessiōnem ab ūnā ecclēsiā in aliam.
 Commūnicāvērunt fidēliter corporī et sanguinī Chrīstī.
 
 Deinde stabilītae sunt sex aciēs intrā cīvitātem.
@@ -93,12 +93,12 @@ Nostrī mīlitēs et Turcī coepērunt pugnāre ācriter.
 Multī hominēs mortuī sunt.
 
 Tunc exībant dē montāneīs innumerābilēs exercitūs.
-Mīlitēs habebeant equōs albōs, et vēxilla eōrum erant omnia alba.
-Sānctus Georgius, Sānctus Mercurius, et Sānctus Dēmētrius condūxit mīlitēs contrā Turcōs.
+Mīlitēs habēbant equōs albōs, et vēxilla eōrum erant omnia alba.
+Sānctus Georgius, Sānctus Mercurius, et Sānctus Dēmētrius condūxērunt mīlitēs contrā Turcōs.
 Turcī nōn potuērunt stāre contrā exercitum angelōrum et fūgērunt.
 
 [9.q The Crusaders pursue the fleeing Turks beyond the Orontes River.]
-Nostrī mīlitēs nōn fesstīnāvērunt ad spolia, sed persecūtī sunt Turcī ad Pontem Farreum.
+Nostrī mīlitēs nōn festīnāvērunt ad spolia, sed persecūtī sunt Turcī ad Pontem Farreum.
 Nostrī mīlitēs occīdērunt multōs Turcōs.
 Turcī, quī erant in castellō in cīvitāte, vīdērunt exercitum Turcōrum fugientem,
 et exīvērunt ex castellō. Nōn volēbant etiam pugnāre.
