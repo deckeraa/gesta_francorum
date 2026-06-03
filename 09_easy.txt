@@ -45,9 +45,14 @@ Non erat multus cibus in civitate.
 Parvus pānis vēndēbātur ūnō bisantīō.
 Vēndēbant quoque gallīnam quīndecim solidīs, ōvum duōbus solidīs, ūnam nucem ūnō dēnāriō.
 
-[9.j 244 Stephen Henry, Count of Charters, had been in a castle outside of Antioch but deserted, fleeing from the Turks. He meets with a Byzantine relief army; his false report causes the relief army to turn around.]
+[9.j Stephen Henry, Count of Charters, had been in a castle outside of Antioch but deserted, fleeing from the Turks. He meets with a Byzantine relief army; his false report causes the relief army to turn around.]
+     Imprūdēns Stephanus, Carnotensis comes, erat extra Antiochiā in quoddam castrum.
+Stephanus non adiuvit nos, sed vidit innumerabilia tentoria Turcorum et fugit cum suo exercitu.
+	  Venit obviam imperatori. Stephanus dīxit imperatori: "Antiochia capta est et omnes nostri milites interfecti sunt a Turcis. Ergo, debes reverter retro." Imperator, perterritus timore, non pervenit ad Antiochiam sed revertit retro ad Constanipolitam cum exercitu suo.
 
-[9.k 248 Guy of Hauteville, Bohemond's brother, hears the false report and has a crises of faith, mourning his brother's death.]
+[9.k Guy of Hauteville, Bohemond's brother, hears the false report and has a crises of faith, mourning his brother's death.]
+     Stephanus dixit Wido, mīles honestissimus et frater Boamundi: "Frater tuus Boadundus et alii ceteri milites mortui sunt.
+     Wido dixit ad Deum: "O, Deus verus, cur permīsit servos suos morīre? Quomodo possumus invocare nomen tuum, cum populo suo est in manibus inimicorum?" O, quam tristis sum! Frater meus mortuus est, et non potui recipere martyrium cum eo."
 
 [9.l St. Andrew appears to a pilgrim in a vision, telling him of the Holy Lance, which will miraculously grant victory in battle.]
     Erat quīdam peregrīnus, cui nomen Petrus, quī habuit visionem.
@@ -58,12 +63,44 @@ Sanctus Andreas apostolus apparuit ei et dīxit: "Ego sum Andreas apostolus. Lan
     Erat immensa laetitia in tota urbe.
     
 
-256 Peter the Hermit is sent to the Turks to ask them to leave.
-258 Curbaram counter-offers the Crusaders a fief in Syria if they convert to Islam.
-260 The Crusaders organize an ecclesiastical procession and celebrate the Eucharist in preparation for battle.
-262 The Crusaders draw up six battle lines and sally forth from Antioch.
-264 Curbaram allows the Crusaders to sally out, thinking to beat them in pitched battle, and draws up two battle-lines.
-266 An angel army appears, lead by St. George, St. Mercury, and St. Demetrius. The Turks flee.
-268 The Crusaders pursue the fleeing Turks beyond the Orontes River.
-(270) An emir surrenders to Raymond of Saint-Gilles.
-(272) The emir and some of his men convert to Christianity. Others are allowed to return to Saracene lands unharmed.
+[9.m Peter the Hermit is sent to the Turks to ask them to leave. Curbaram counter-offers the Crusaders a fief in Syria if they convert to Islam.]
+Nostri seniores miserunt Petrum Heremitum Turcis.
+Petrus Heremitus dixit eis: "Quomodo pugnare contra Christianos? Permittēmus vos exire cum animalibus suis et revertere ad terram Saracenorum."
+Curbaram ridit et respondit: Nolumos exire vel esse Christianī. Sed Franci sunt gens fortis. Negate deum vestrum et habēbimus vos semper in summā amīcitiā, et permittemus vos remanere in Antiochia. Sīn autem, interficiēmus vos.
+
+[9.n The Crusaders organize an ecclesiastical procession and celebrate the Eucharist in preparation for battle. Battle lines are drawn up]
+Nostri episcopi et milites celebrarerunt processionem ab una ecclesia in aliam.
+Commūnicāvērunt fideliter corpori et sanguinī Chrīstī.
+
+Deinde stabilītae sunt sex aciēs intrā cīvitātem.
+In prīmā aciē fuit Hugō Magnus cum Francigenīs et Flandrensī comite.
+In secundā aciē fuit dux Godefridus cum suō exercitū.
+In tertiā aciē  fuit Rotbertus Nortmannus cum suīs mīlitibus.
+In quārtā aciē fuit Podiēnsis episcopus, portāns sēcum lanceam Salvātōris.
+In quīntā aciē fuit Tancredus cum suā gente.
+In sextā aciē fuit vir sapiēns Boamundus cum suā mīlitiā.
+
+Episcopī nostrī et presbyterī et clēricī ac monachī exiērunt nōbīscum cum crucibus.
+Oraverunt ad Deum et benedicerunt nostri milites.
+
+[9.o Curbaram allows the Crusaders to sally out, thinking to beat them in pitched battle, and draws up two battle-lines.]
+Curbaram vīdit aciēs Francōrum, tam pulchrē ōrdinātās, exīre ūnam post aliam ex civitate.
+Dixit: "Sinite eos exire. Tunc poterimus interficere omnes.
+Dīvīsī sunt Turcī; ūna pars īvit contrā mare, et aliī stetērunt illīc.
+Turci volebant includere nos inter se.
+
+[9.p An angel army appears, lead by St. George, St. Mercury, and St. Demetrius. The Turks flee.]
+Nostri milites et Turci coeperunt pugnare acriter.
+Multi homines mortui sunt.
+
+Tunc exibant dē montāneīs innumerābilēs exercitūs.
+Milites habebeant equos albos, et vexilla eorum erant omnia alba.
+Sanctus Georgius, Sanctus Mercurius, et Sanctus Demetrius conduxit milites contra Turcos.
+Turci non potuerunt stare contra exercitum angelorum et fugerunt.
+
+[9.q The Crusaders pursue the fleeing Turks beyond the Orontes River.]
+Nostri milites non fesstinaverunt ad spolia, sed persecūtī sunt Turci ad Pontem Farreum.
+Nostri milites occiderunt multos Turcos.
+Turci, qui erant in castello in civitate, viderunt exercitum Turcorum fugientem,
+et exiverunt ex castello. Non volebant etiam pugnare.
+Igitur, nostri milites ceperunt totam Antiochiam, et habuerunt multum cibum et alia spolia.
