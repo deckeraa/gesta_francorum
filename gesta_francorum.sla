@@ -499,14 +499,14 @@
         <PAGE PAGEXPOS="712.001" PAGEYPOS="156436.566" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="376" NAM="" MNAM="Vocab right" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
         <PAGE PAGEXPOS="100.001" PAGEYPOS="157268.569" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="377" NAM="" MNAM="Latin left" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
         <PAGE PAGEXPOS="712.001" PAGEYPOS="157268.569" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="378" NAM="" MNAM="Vocab right" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
-        <MASTEROBJECT XPOS="136.001" YPOS="776.002" OwnPage="2" ItemID="49832357" PTYPE="4" WIDTH="522" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 18 L0 18 L0 0 Z" copath="M0 0 L522 0 L522 18 L0 18 L0 0 Z" OnMasterPage="Latin left" gXpos="413236.001" gYpos="2439328309419.19" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <MASTEROBJECT XPOS="136.001" YPOS="776.002" OwnPage="2" ItemID="49832357" PTYPE="4" WIDTH="522" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 18 L0 18 L0 0 Z" copath="M0 0 L522 0 L522 18 L0 18 L0 0 Z" OnMasterPage="Latin left" gXpos="413236.001" gYpos="2468488483681.27" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <var name="pgno" FONTSIZE="12"/>
                 <trail ALIGN="1"/>
             </StoryText>
         </MASTEROBJECT>
-        <MASTEROBJECT XPOS="154.001" YPOS="776.002" OwnPage="3" ItemID="49808213" PTYPE="4" WIDTH="522" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 18 L0 18 L0 0 Z" copath="M0 0 L522 0 L522 18 L0 18 L0 0 Z" OnMasterPage="Vocab right" gXpos="30291938326.001" gYpos="2439115845808.5" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <MASTEROBJECT XPOS="154.001" YPOS="776.002" OwnPage="3" ItemID="49808213" PTYPE="4" WIDTH="522" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 18 L0 18 L0 0 Z" copath="M0 0 L522 0 L522 18 L0 18 L0 0 Z" OnMasterPage="Vocab right" gXpos="30517722262.001" gYpos="2468276020070.58" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <var name="pgno" FONTSIZE="12"/>
@@ -37006,13 +37006,13 @@
             <StoryText>
                 <DefaultStyle/>
                 <ITEXT FEATURES="inherit superscript" CH="1"/>
-                <ITEXT CH="Tancred and Gaston gave a group of pagans who had surrendered their war-banners so that the other Crusaders would not attack them. However, some of the Crusaders ignored these banners, killing them anyway. This disregard of military procedure and the concomitant killing of civilians is what caused the anger of Tancred mentioned below."/>
+                <ITEXT CH="Tancred and Gaston gave a group of pagans who had surrendered their war-banners so that the other Crusaders would not attack them. However, some of the Crusaders ignored these banners, killing them anyway. This disregard of military procedure and the concomitant killing of civilians is what caused the anger of Tancred mentioned later."/>
                 <para PARENT="footnotes"/>
                 <ITEXT FEATURES="inherit superscript" CH="2"/>
                 <ITEXT CH="The Crusaders ran through the city, not the group of pagans who had taken refuge on the roof of the temple. The sentence change here is abrupt."/>
                 <para PARENT="footnotes"/>
                 <ITEXT FEATURES="inherit superscript" CH="3"/>
-                <ITEXT FONT="DejaVu Serif Italic" CH="And they gave to Him the owed capital."/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="And they gave to Him the owed capital/debt."/>
                 <ITEXT CH=" This likely refers to them fulfilling their Crusader vow, not to the payment of money."/>
                 <para PARENT="footnotes"/>
                 <ITEXT FEATURES="inherit superscript" CH="4"/>
@@ -37447,7 +37447,9 @@
             <StoryText>
                 <DefaultStyle/>
                 <tab/>
-                <ITEXT CH="Octāvō autem diē quō, cīvitās fuit capta, ēlēgērunt ducem Godefridum prīncipem cīvitātis, quī dēbellāret pāgānōs et cūstōdīret Chrīstiānōs. Similiter ēlēgērunt patriarcham quendam sapientissimum et honōrābilem virum nōmine Arnulfum, in diē sānctī Petrī ad Vincula1."/>
+                <ITEXT CH="Octāvō autem diē quō, cīvitās fuit capta, ēlēgērunt ducem Godefridum prīncipem cīvitātis, quī dēbellāret pāgānōs et cūstōdīret Chrīstiānōs. Similiter ēlēgērunt patriarcham quendam sapientissimum et honōrābilem virum nōmine Arnulfum, in diē sānctī Petrī ad Vincula"/>
+                <ITEXT FEATURES="inherit superscript" CH="1"/>
+                <ITEXT CH="."/>
                 <para PARENT="Latin"/>
                 <tab/>
                 <ITEXT CH="Haec cīvitās fuit capta ā Chrīstiānīs Deī XV diē Iūliī, in sextā fēriā."/>
@@ -37647,7 +37649,7 @@
                 <DefaultStyle/>
                 <ITEXT FEATURES="inherit superscript" CH="1"/>
                 <ITEXT FONT="DejaVu Serif Italic" CH="You know that war is prepared against us in Ascalon."/>
-                <ITEXT CH=" Tancred had learned of Muslims preparations, taking place at Ascalon, for a counter-attack against the Crusaders."/>
+                <ITEXT CH=" Tancred had learned of Muslim preparations, taking place at Ascalon, for a counter-attack against the Crusaders."/>
                 <para PARENT="footnotes"/>
                 <ITEXT FEATURES="inherit superscript" CH="2"/>
                 <ITEXT FONT="DejaVu Serif Italic" CH="That faithfully they might go to Ascalon, having been prepared, against our enemies."/>
@@ -38052,16 +38054,21 @@
                 <ITEXT CH="Petrus vērō Heremīta remānsit Hierūsalēm, ōrdinandō et praecipiendō Graecīs et Latīnīs atque clēricīs, ut fidēliter Deō prōcessiōnem celebrārent et ōrātiōnēs eleēmosynāsque facerent, ut Deus populō suō victōriam daret. Clēricī namque et presbyterī, indūtī sacrīs vestibus, ad Templum Dominī condūxēre prōcessiōnem, missās et ōrātiōnēs dēcantantēs, ut suum dēfenderet populum."/>
                 <para PARENT="Latin"/>
                 <tab/>
-                <ITEXT CH="Dēnique patriarcha et episcopī aliīque seniōrēs congregātī sunt ad flūmen, quod est ex hāc parte Scalōnae. Illīc multa animālia, boum, camēlōrum, ovium atque omnium bonōrum dēpraedātī sunt. Vēnērunt"/>
+                <ITEXT CH="Dēnique patriarcha et episcopī aliīque seniōrēs congregātī sunt ad flūmen"/>
                 <ITEXT FEATURES="inherit superscript" CH="1"/>
-                <ITEXT CH=" autem Arabēs  ferē trecentī irruēruntque nostrī super illōs et apprehendērunt duōs ex eīs, persequentēs aliōs ūsque ad eōrum exercitum."/>
+                <ITEXT CH=", quod est ex hāc parte Scalōnae. Illīc multa animālia, boum, camēlōrum, ovium atque omnium bonōrum dēpraedātī sunt. Vēnērunt"/>
+                <ITEXT FEATURES="inherit superscript" CH="2"/>
+                <ITEXT CH=" autem Arabēs ferē trecentī irruēruntque nostrī super illōs et apprehendērunt duōs ex eīs, persequentēs aliōs ūsque ad eōrum exercitum."/>
                 <para PARENT="Latin"/>
             </StoryText>
         </PAGEOBJECT>
-        <PAGEOBJECT XPOS="136.001" YPOS="150948.687898089" OwnPage="361" ItemID="786701797" PTYPE="4" WIDTH="522" HEIGHT="47.0828025477822" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 47.0828 L0 47.0828 L0 0 Z" copath="M0 0 L522 0 L522 47.0828 L0 47.0828 L0 0 Z" gXpos="136.001" gYpos="150948.687898089" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT XPOS="136.001" YPOS="150948.687898089" OwnPage="361" ItemID="786701797" PTYPE="4" WIDTH="522" HEIGHT="73.3757961785304" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 73.3758 L0 73.3758 L0 0 Z" copath="M0 0 L522 0 L522 73.3758 L0 73.3758 L0 0 Z" gXpos="136.001" gYpos="150948.687898089" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <ITEXT FEATURES="inherit superscript" CH="1"/>
+                <ITEXT CH="This may be the Yarkon River, which lies about 37 miles north of Ascalon."/>
+                <para PARENT="footnotes"/>
+                <ITEXT FONT="DejaVu Serif Italic" FEATURES="inherit superscript" CH="2"/>
                 <ITEXT FONT="DejaVu Serif Italic" CH="Then nearly 300 Arabs came and our soldiers fell upon them and apprehended two out of them."/>
                 <ITEXT CH=" Note that "/>
                 <ITEXT FONT="DejaVu Serif Italic" CH="nostrī"/>
@@ -38490,10 +38497,10 @@
             <StoryText>
                 <DefaultStyle/>
                 <ITEXT FEATURES="inherit superscript" CH="1"/>
-                <ITEXT CH="Every one had his water vessel hanging around his neck, out of which they might drink (while) pursuing us."/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="Every one had his water vessel hanging around his neck, out of which they might drink (while) pursuing us."/>
                 <para PARENT="footnotes"/>
                 <ITEXT FEATURES="inherit superscript" CH="2"/>
-                <ITEXT CH="The golden fruit on the lance refers to the a war-standard of the Saracens."/>
+                <ITEXT CH="The golden fruit on the lance refers to a war-standard of the Saracens."/>
                 <trail PARENT="footnotes"/>
             </StoryText>
         </PAGEOBJECT>
@@ -38883,7 +38890,7 @@
                 <ITEXT CH=" The emir's characterization of 'unarmed' is either hyperbole or refers to how many of the non-knight crusaders were relatively poorly equipped."/>
                 <para PARENT="footnotes"/>
                 <ITEXT FEATURES="inherit superscript" CH="3"/>
-                <ITEXT FONT="DejaVu Serif Italic" CH="The same (people, the Franks) now persecutes the Egyptian people, who had bestowed their alms on them, for the most part, when formerly that had begged through all our lands."/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="The same (people, the Franks) now persecutes the Egyptian people, who had bestowed their alms on them, for the most part, when formerly they had begged through all our lands."/>
                 <ITEXT CH=" The emir is complaining that previously the Egyptians had allowed pilgrims passage through Egypt to Jerusalem, and had even given alms, but now is defeated by the same kind of people they had once helped."/>
                 <trail PARENT="footnotes"/>
             </StoryText>
