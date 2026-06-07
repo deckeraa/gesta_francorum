@@ -67,13 +67,19 @@ Invenerunt extra civitatem Turcōs, Arabēs, et Saracēnōs.
 Nostri milites invaserunt eos et miserunt eos in fugam.
 Tanta fuit occisio paganorum, ut aqua, quae in civitate fluebat, videretur rubēre.
 
-10.l 330 The Crusaders reach Byblos, Lebanon
-  332 The Crusaders reach Beirut, then Caesarea.
-  334 The Crusaders reach Ramla and install a bishop.
-  336 The Crusaders begin the siege of Jerusalem.
-  338 Water becomes scarce and the Crusaders are forced to keep most of their horses several miles away.
-10.m 340 100 men go to Jaffa for supplies and are encircled by 700 Turks.
-  342 Raymond Piletus rushes to their aid and puts the Turks to flight.
+[10.l The Crusaders reach Jerusalem and being the siege. Water becomes scarce.]
+Pervenimus ad Hierusalem. Obsedimus eam mirabiliter. Rotbertus Normannus obsedit eam a septentrione; iuxta eum erat Robertus Flandrensis comes. Dux Godefridus et Tancredus obsedit eam ab occidente. Comes SAncti Egidii obsedit eam a meridie.
+
+In illā autem obsidiōne non habebant multam aquam. Potaremus equos et alia animalia procul a urbe. Milites deduxerunt aquam a fonte, nomine Siloa, ad civitatem.
+
+[10.m 100 men go to Jaffa for supplies and are encircled by 700 Turks. Raymond Pilet takes bold action, saving them.]
+Centum militium nostrorum ierunt ad naves in portu Japhiae.
+Invenerunt spetingentos Arabes et Turcos et Saracenos.
+Nostri milites pugnabant fortiter sed exercitus paganorum circumcinxērunt eos.
+
+Nuntius vēnit Raimundo Pileto et dixit: "Milites nostri sunt in periculā magna!".
+Raimundus Piletus equitavit celeriter ad pugman. Irruit super paganos tam fortiter ut illos incredulos fugerent.
+
 10.n 344 The crusaders build siege engines.
 (346) Water is scarce. The Crusaders hold a religious procession.
 10.o 348 Letholdus is first over the wall. The defenders flee from the wall, running to the Temple Mount. The Crusader soldiers kill so many that the blood is up to their ankles.
