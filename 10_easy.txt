@@ -1,26 +1,17 @@
 [10.a The Crusader princes send Hugh the Great to tell the emperor of their victory. Due to the dry summer the Crusader Princes split up and agree to continue the campaign in Novemeber.]
-      Statim omnēs nostrī seniōrēs, vidēlicet dux Godefridus, comes Sānctī Egidiī Raimundus, Boamundus, comes Nortmanniae dominus Rotbertus, comesque Flandrēnsis, et aliī omnēs mīsērunt nōbilissimum mīlitem Hugōnem Magnum imperātōrī Cōnstantīnopolim. Sed imperātor numquam pervēnit ad Antiochīam.
-      In aestīvō tempore terra erat valdē ārida et inaquōsa. Itaque accēpērunt terminum attendendum ad kalendās Novembris.
+Statim omnēs nostrī seniōrēs, vidēlicet dux Godefridus, comes Sānctī Egidiī Raimundus, Boamundus, comes Nortmanniae dominus Rotbertus, comesque Flandrēnsis, et aliī omnēs mīsērunt nōbilissimum mīlitem Hugōnem Magnum imperātōrī Cōnstantīnopolim. Sed imperātor numquam pervēnit ad Antiochīam.
+In aestīvō tempore terra erat valdē ārida et inaquōsa. Itaque accēpērunt terminum attendendum ad kalendās Novembris.
 
 [10.b Raymond Pilet captures two Turkish castles. The Turks are put to flight, but due to the lack of water, some Syrians in the Crusader army turn around, letting the Turks counter-attack.]
-Erat quīdam mīles dē exercitū comitis Sānctī Egidiī, cui nōmen Raimundus Pilētus.
-Ēgressus est ille cum collēctō exercitū et pervēnit ad quoddam castrum, cui nōmen Talamaniā.
-Habitātōrēs castrī, scīlicet Suriānī, sponte sē trādidērunt eī.
+Erat quīdam mīles dē exercitū comitis Sānctī Egidiī, cui nōmen Raimundus Pilētus. Ēgressus est ille cum collēctō exercitū et pervēnit ad quoddam castrum, cui nōmen Talamaniā. Habitātōrēs castrī, scīlicet Suriānī, sponte sē trādidērunt eī.
 
 Post octo diēs, nūntiī vēnērunt ad eum et dīxērunt: "Hic prope nōs est castrum Saracēnōrum."
 Mīlitēs Chrīstī iērunt ad hoc castrum et invāsērunt illud. Apprehendērunt omnēs habitātōrēs: quī Chrīstiānitātem recipere nōluērunt, occīdērunt; quī Chrīstum recognōscere māluērunt, vīvōs cōnservāvērunt.
 
-Tertia vērō diē exiērunt et vēnērunt ad quamdam urbem cui nōmen Marra.
-Erant ibi multī Turcī et Saracēnī ab Aleph cīvitāte.
-Nostrī mīlitēs pugnāvērunt fortiter et coēgērunt eōs in fugam.
-Aestus namque erat immēnsus. Suriānī, quī erant nōbīscum, coepērunt carpere viam retrōrsum.
-Turcī vīdērunt illōs retrōcēdentēs, et statim coepērunt persequī illōs.
-Turcī occīdērunt multōs, et Francī reversī sunt ad castrum suum.
+Tertia vērō diē exiērunt et vēnērunt ad quamdam urbem cui nōmen Marra. Erant ibi multī Turcī et Saracēnī ab Aleph cīvitāte. Nostrī mīlitēs pugnāvērunt fortiter et coēgērunt eōs in fugam. Aestus namque erat immēnsus. Suriānī, quī erant nōbīscum, coepērunt carpere viam retrōrsum. Turcī vīdērunt illōs retrōcēdentēs, et statim coepērunt persequī illōs. Turcī occīdērunt multōs, et Francī reversī sunt ad castrum suum.
 
 [10.c The Bishop of Le Puy, who was acting as bishop of Antioch, becomes sick and dies. The people mourn the death of the Bishop of Le Puy, who promoted alms-giving.]
-Podiensis epīscopus erat pāstor et rēctor in Antiochīā.
-Sed, nūtū Deī, captus est aegritūdine et migrāvit ab hōc saeculō et obdormīvit in Dominō.
-Unde magna angustia et immēnsus dolor fuit in tōtā Chrīstī mīlitiā, quia ille erat sustentāmentum pauperum.
+Podiensis epīscopus erat pāstor et rēctor in Antiochīā. Sed, nūtū Deī, captus est aegritūdine et migrāvit ab hōc saeculō et obdormīvit in Dominō. Unde magna angustia et immēnsus dolor fuit in tōtā Chrīstī mīlitiā, quia ille erat sustentāmentum pauperum.
 
 [10.d Raymond of St. Gilles captures Albara sets up a church there.]
 Nōn post multum temporis, venerābilis vir Raimundus, comes dē Sānctō Egidīō, intrāvit in Saracēnōrum terram et pervēnit ad quamdam urbem quae vocātur Albara. Invāsit Albaram cum exercitū suō et occīdit omnēs Saracēnōs. Raimundus aedificāvit ecclēsiam in Albara et ēlēgit episcopum.
@@ -29,42 +20,28 @@ Nōn post multum temporis, venerābilis vir Raimundus, comes dē Sānctō Egidī
 Urbs Antiochīa est valdē pulchra et honōrābilis. Īnfrā mūrōs eius sunt quattuor altae montānae. In altiōrī montāna est castellum, mīrābile et nimis forte. Multae ecclēsiae sunt in Antiochīā. Antiochīa continet trecenta et sexāgintā monastēria. Flūmen, cui nōmen Farfar, fluit secus mūrōs urbis.
 
 [10.f Raymond of Saint-Gilles begins the siege of Marra and builds a rolling siege tower.]
-Quārtō diē exeunte Novembrīō, Raimundus comes Sānctī Egidiī pervēnit ad Marram cīvitātem.
-In Marrā maxima multitūdō Saracēnōrum et Turcōrum et Arabum et aliōrum pāgānōrum erat congregāta. Nōn post multum temporis Boamundus quoque pervēnit ad Marram.
-Boamundus et Raimundus invāsērunt cīvitātem sed nōn potuērunt superāre eam.
-Raimundus fēcit ligneum castrum forte et altum.
-Hoc castrum erat super quattuor rotās. Mīlitēs eius dēdūxērunt castrum usque prope urbis mūrum iuxtā turrim quamdam.
-Turcī iaciēbant lapidēs et Graecōs ignēs super castrum, sed nōn potuērunt ārdēre castrum.
+Quārtō diē exeunte Novembrīō, Raimundus comes Sānctī Egidiī pervēnit ad Marram cīvitātem. In Marrā maxima multitūdō Saracēnōrum et Turcōrum et Arabum et aliōrum pāgānōrum erat congregāta. Nōn post multum temporis Boamundus quoque pervēnit ad Marram. Boamundus et Raimundus invāsērunt cīvitātem sed nōn potuērunt superāre eam. Raimundus fēcit ligneum castrum forte et altum. Hoc castrum erat super quattuor rotās. Mīlitēs eius dēdūxērunt castrum usque prope urbis mūrum iuxtā turrim quamdam. Turcī iaciēbant lapidēs et Graecōs ignēs super castrum, sed nōn potuērunt ārdēre castrum.
 
 [10.g Gulferus dē Daturre is the first to reach the top of the wall. The Turks flee from the walls.]
-Ūnus ex mīlitibus nostrīs, Gulferus dē Daturre, prīmus ascendit per scālam in mūrum.
-Gulferus et cēterī mīlitēs nostrī super mūrum pugnābant fortiter.
-Saracēnī fūgērunt ā mūrīs in cīvitātem.
+Ūnus ex mīlitibus nostrīs, Gulferus dē Daturre, prīmus ascendit per scālam in mūrum. Gulferus et cēterī mīlitēs nostrī super mūrum pugnābant fortiter. Saracēnī fūgērunt ā mūrīs in cīvitātem.
 
 [10.h The Crusaders enter the city and kill many of the inhabitants. A famine occurs in the city, and a few Crusaders resort to cannibalism.]
-Omnēs nostrī mīlitēs intrāvērunt in cīvitātem et occīdērunt multōs Turcōs.
-Urbs erat plēna cadāveribus Saracēnōrum.
+Omnēs nostrī mīlitēs intrāvērunt in cīvitātem et occīdērunt multōs Turcōs. Urbs erat plēna cadāveribus Saracēnōrum.
 
-Francī erant in illā urbe per ūnum mēnsem et quattuor diēs.
-Nōn erant multus cibus. Paucī pauperēs coquēbant cadāvera, quia nōn habēbant cibum.
+Francī erant in illā urbe per ūnum mēnsem et quattuor diēs. Nōn erant multus cibus. Paucī pauperēs coquēbant cadāvera, quia nōn habēbant cibum.
 
 [10.i The Crusaders travel through several cities without meeting resistance.]
 Raimundus exīvit Marram et pervēnit usque Capharda. Rēx Cesareae mīsit nūntiōs eī. Rēx Cesareae voluit pācem, et dedit pecūniam et mercātum nostrīs mīlitibus.
 
-Nostrī mīlitēs pervēnērunt ad quamdam cīvitātem pulcherrimam, nōmine Kephaliam.
-Habitātōrēs illīus urbis fūgērunt, et dīmīsērunt urbem plēnam alimentīs corporālibus.
+Nostrī mīlitēs pervēnērunt ad quamdam cīvitātem pulcherrimam, nōmine Kephaliam. Habitātōrēs illīus urbis fūgērunt, et dīmīsērunt urbem plēnam alimentīs corporālibus.
 
 Rēx Tripolīsī mīsit nūntiōs, et voluit habēre pācem. Dēdit nostrīs mīlitibus equōs decem et quattuor mūlās et aurum.
 
 [10.j The army arrives at Tartus, Syria. The Crusaders light many watch-fires, tricking the inhabitants of Tartus about their true size, causing them to leave the city undefended.]
-Raimundus Pilētus et paucī mīlitēs vēnērunt ante Tortōsam cīvitātem. Erat multī pāgānī in urbe.
-Illā nocte fēcērunt innumerābilēs ignēs, quasi tōta hostis esset ibi. Pāgānī vīdērunt ignēs, erant perterritī et fūgērunt. In māne, Raimundus invēnit urbem vacuam.
+Raimundus Pilētus et paucī mīlitēs vēnērunt ante Tortōsam cīvitātem. Erat multī pāgānī in urbe. Illā nocte fēcērunt innumerābilēs ignēs, quasi tōta hostis esset ibi. Pāgānī vīdērunt ignēs, erant perterritī et fūgērunt. In māne, Raimundus invēnit urbem vacuam.
 
 [10.k The Crusaders find a Turkish army outside of Tripoli. They slaughter the Turkish soldiers, causing the river to run red with blood.]
-Nōn multō post, nostrī mīlitēs equitāvērunt contrā Tripolim.
-Invēnērunt extrā cīvitātem Turcōs, Ārabēs, et Saracēnōs.
-Nostrī mīlitēs invāsērunt eōs et mīsērunt eōs in fugam.
-Tanta fuit occīsiō pāgānōrum, ut aquā, quae in cīvitāte fluēbat, vidērētur rubēre.
+Nōn multō post, nostrī mīlitēs equitāvērunt contrā Tripolim. Invēnērunt extrā cīvitātem Turcōs, Ārabēs, et Saracēnōs. Nostrī mīlitēs invāsērunt eōs et mīsērunt eōs in fugam. Tanta fuit occīsiō pāgānōrum, ut aquā, quae in cīvitāte fluēbat, vidērētur rubēre.
 
 [10.l The Crusaders reach Jerusalem and being the siege. Water becomes scarce.]
 Pervēnimus ad Hierusalem. Obsēdimus eam mīrābiliter. Rotbertus Normannus obsēdit eam ā septentriōne; iuxtā eum erat Robertus Flandrēnsis comes. Dux Godefridus et Tancredus obsēdit eam ab occidente. Comes Sānctī Egidiī obsēdit eam ā merīdiē.
@@ -72,17 +49,12 @@ Pervēnimus ad Hierusalem. Obsēdimus eam mīrābiliter. Rotbertus Normannus obs
 In illā autem obsidiōne nōn habēbant multam aquam. Pōtārēmus equōs et alia animālia procul ā urbe. Mīlitēs dēdūxērunt aquam ā fonte, nōmine Siloa, ad cīvitātem.
 
 [10.m 100 men go to Jaffa for supplies and are encircled by 700 Turks. Raymond Pilet takes bold action, saving them.]
-Centum mīlitum nostrōrum iērunt ad nāvēs in portū Japhiae.
-Invēnērunt septingentōs Ārabēs et Turcōs et Saracēnōs.
-Nostrī mīlitēs pugnābant fortiter sed exercitus pāgānōrum circumcīnxērunt eōs.
+Centum mīlitum nostrōrum iērunt ad nāvēs in portū Japhiae. Invēnērunt septingentōs Ārabēs et Turcōs et Saracēnōs. Nostrī mīlitēs pugnābant fortiter sed exercitus pāgānōrum circumcīnxērunt eōs.
 
-Nūntius venit Raimundō Pilētō et dīxit: "Mīlitēs nostrī sunt in perīculō magnō!".
-Raimundus Pilētus equitāvit celeriter ad pugnam. Irruit super pāgānōs tam fortiter ut illōs incrēdulōs fūgērunt.
+Nūntius venit Raimundō Pilētō et dīxit: "Mīlitēs nostrī sunt in perīculō magnō!". Raimundus Pilētus equitāvit celeriter ad pugnam. Irruit super pāgānōs tam fortiter ut illōs incrēdulōs fūgērunt.
 
 [10.n The crusaders build siege engines.]
-Nostrī mīlitēs fēcērunt duo lignea castra et alia plūra māchināmenta.
-Saracēnī vīdērunt hās māchinās et mūniēbant cīvitātem.
-Nostrī mīlitēs posuērunt māchinam prope mūrum cīvitātis.
+Nostrī mīlitēs fēcērunt duo lignea castra et alia plūra māchināmenta. Saracēnī vīdērunt hās māchinās et mūniēbant cīvitātem. Nostrī mīlitēs posuērunt māchinam prope mūrum cīvitātis.
 
 [10.o Letholdus is first over the wall. The defenders flee from the wall. The Crusader soldiers kill so many that the blood is up to their ankles.]
 Mīles, nōmine Letholdus, erat prīmus super mūrum urbis. Dēfēnsōrēs fūgērunt per mūrōs et per cīvitātem. Nostrī mīlitēs persequēbantur eōs usque ad Templum Salomōnis. Erat fuit tālis occīsiō ut nostrī mīlitēs mitterent pedēs in sanguine illōrum usque ad cavillās.
@@ -106,8 +78,7 @@ In sinistrā parte fuit dux Godefridus cum suā aciē.
 Comes Sānctī Egidiī equitāvit iuxtā mare in dexterā parte.
 Comes Nortmanniae et comes Flandrēnsis et Tancredus omnēsque aliī equitābant in mediō.
 
-Comes dē Normannīā irruit vehementer super mīlitem pāgānum quī habēbat vexillum et vulnerāvit eum usque mortem. Ex aliā parte, comes Flandrēnsis nimis ācriter illōs invāsit.
-Tancredus igitur impetum fēcit per medium tentōriōrum eōrum. Turcī iniērunt fugam.
+Comes dē Normannīā irruit vehementer super mīlitem pāgānum quī habēbat vexillum et vulnerāvit eum usque mortem. Ex aliā parte, comes Flandrēnsis nimis ācriter illōs invāsit. Tancredus igitur impetum fēcit per medium tentōriōrum eōrum. Turcī iniērunt fugam.
 
 [10.t The defeated emir mourns his loss.]
 Ammiravissus vīdit mīlitēs eius fugientiēs et dīxit: "Ō quam trīstis sum! Habēbam magnum exercitum et multam pecūniam, sed gēns pauperissima et parva superāverat mē, quia Deus adiūvit eōs. Nōn possum pugnāre contrā nōs, et illī mīlitī crucis habēbunt Hierusalem et viam Sānctī Sepulchī."
