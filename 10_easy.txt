@@ -61,7 +61,7 @@ Rex Tripolisi misit nuntios, et voluit habere pacem. Dedit nostris militibus equ
 Raimundus Piletus et pauci milites venerunt ante Tortosam civitatem. Erat multi pagani in urbe.
 Illa nocte fecerunt innumerabiles ignes, quasi tōta hostis esset ibi. Pagani viderunt ignes, erant perterriti et fugerunt. In mane, Raimundus invenit urbam vacuam.
 
-[10.k 326 The Crusaders find a Turkish army outside of Tripoli. They slaughter the Turkish soldiers, causing the river to run red with blood.]
+[10.k The Crusaders find a Turkish army outside of Tripoli. They slaughter the Turkish soldiers, causing the river to run red with blood.]
 Nōn multō post, nostrī milites equitāvērunt contrā Tripolim.
 Invenerunt extra civitatem Turcōs, Arabēs, et Saracēnōs.
 Nostri milites invaserunt eos et miserunt eos in fugam.
@@ -80,19 +80,36 @@ Nostri milites pugnabant fortiter sed exercitus paganorum circumcinxērunt eos.
 Nuntius vēnit Raimundo Pileto et dixit: "Milites nostri sunt in periculā magna!".
 Raimundus Piletus equitavit celeriter ad pugman. Irruit super paganos tam fortiter ut illos incredulos fugerent.
 
-10.n 344 The crusaders build siege engines.
-(346) Water is scarce. The Crusaders hold a religious procession.
-10.o 348 Letholdus is first over the wall. The defenders flee from the wall, running to the Temple Mount. The Crusader soldiers kill so many that the blood is up to their ankles.
-(350) Raymond of Saint-Gilles fills in a large ditch and attacks another wall of the city, not knowing the Franks had already broken through on their side.
-10.p 352 Tancred gives his banner to a group of non-Christians who were taking refuge on the Temple Mount. An undisciplined horde of Crusaders kills them anyway, which makes Tancred very angry.
-10.q 354 The Crusaders pull the dead bodies out of the city, piling them into great heaps. Raymond gives those who had surrendered safe passage to Ascalon.
-10.r 356 Godfrey is chosen as ruler of Jerusalem, a man named Arnolf is made bishop. Tancred takes Falvia Neapolis.
-  358 Tancred learns of a large Muslim army assembling at Ascalon and sends messengers to the other princes.
-(360) Godfrey sends out a scouting party and prepares for battle.
-(362) The Crusaders attack a small band of Turks near Ascalon.
-10.s 364 The Crusaders draw up battle-line. Soldiers are threatened with excommunication if they quit fighting to plunder.
-10.t 366 Battle begins. The Count of Normandy mortally wounds the enemy standard-bearer.
-  368 The enemy soldiers are miraculously made unable to see and flee in terror.
-10.u 370 The defeated emir mourns his loss.
-  372 The defeated emir continues to mourn.
-10.v 374 The enemy army flees, and the Crusaders gain much spoil.
+[10.n The crusaders build siege engines.]
+Nostri milites fecerunt duo lignea castra et alia plura machinamenta.
+Saraceni videreunt has machinas et muniebant civitatem.
+Nostri milites posuerunt machinam prope murum civitatis.
+
+[10.o Letholdus is first over the wall. The defenders flee from the wall. The Crusader soldiers kill so many that the blood is up to their ankles.]
+Miles, nomine Letholdus, erat primus super murum urbis. Defensores fugerunt per muros et per civitatem. Nostri milies persequebantur eos usque ad Templum Salomonis. Erat fuit talis occisio ut nostrī milites mitterent pedēs in sanguine illōrum ūsque ad cavillās.
+
+[10.p Tancred gives his banner to a group of non-Christians who were taking refuge on the Temple Mount. An undisciplined horde of Crusaders kills them anyway, which makes Tancred very angry.]
+Erant pagani, qui non voluerunt pugnare, congregati super Templum Salomonis. Tancredus dedit vexillum sum eīs. Sed magna turma Christianorum currit per urbem, pervenit ad Templum, et occidit paganos. Hoc vidēns, Tancredus īrātus est nimis.
+
+[10.q The Crusaders pull the dead bodies out of the city, piling them into great heaps. Raymond gives those who had surrendered safe passage to Ascalon.]
+Urbs plena erat cadaveribus Saracenorum. Occisio erat valde magna, et erant pyrae sicut montes cadavorum. Raimondus conduxit ammiralium, et alios qui cum eo erant, usque Scalonem sanos et illaesos.
+
+[10.r Godfrey is chosen as ruler of Jerusalem, a man named Arnolf is made bishop. Tancred learns of a large Muslim army assembling at Ascalon and sends messengers to the other princes.]
+Maiores nostri elegerunt ducem Godefridum principem civitatis. Similiter, elegerunt quodnam vir Arnulfum patriarcham.
+
+Nuntius venit Tancredo et dixit: "Admiravisus Babyloniae duxit exercitum Scalonam. Admiravisus vult pugnare contra nos." Tancredus, hoc audiens, statim misit nuntium duci Godefrido.
+
+Principes nostri ierunt contra exercitum Saracenorum prope Scalonam.
+
+[10.s The Crusaders draw up battle-line. The Count of Normandy mortally wounds the enemy standard-bearer.]
+Principes nostri ordinaverunt acies.
+In sinistrā parte fuit dux Godefridus cum suā aciē.
+Comes Sānctī Egidiī equitāvit iuxtā mare in dexterā parte.
+Comes Nortmanniae et comes Flandrensis et Tancredus omnēsque aliī equitābant in mediō.
+
+Comes de Normannia irruit vehementer super militem paganum qui habebant vexillam et vulneravit eum usque mortem. Ex aliā parte, comes Flandrensis nimis ācriter illōs invāsit.
+Tancredus igitur impetum fēcit per medium tentōriōrum eōrum. Turci inierunt fugam.
+
+[10.t The defeated emir mourns his loss.]
+Ammiravissus videreunt milites eius fugienties et dixit: "O quam tristis sum! Habebam magnum exercitum et multam pecuniam, sed gens pauperissima et parva superaverat me, quia Deus adiuvit eum. Non possum pugnare contra nos, et illi militi crucis habebunt Hierusalem et viam Sancti Sepulchi."
+
