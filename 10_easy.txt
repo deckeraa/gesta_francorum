@@ -42,20 +42,31 @@ Unus ex militibus nostris, Gulferus dē Daturre, primus ascendit per scalam in m
 Gulferus et ceteri milites nostri super murum pugnabant fortiter.
 Saraceni fugereunt a muris in civitatem.
 
-[10.h 304 The Crusaders enter the city and kill many of the inhabitants.  A famine occurs in the city, and a few Crusaders resort to cannibalism.]
+[10.h The Crusaders enter the city and kill many of the inhabitants. A famine occurs in the city, and a few Crusaders resort to cannibalism.]
+Omnēs nostrī milites intraverunt in civitatem et occiderunt multos Turcos.
+Urbs erat plena cadaveribus Saracenorum.
 
+Franci erant in illā urbe per unum mensem et quattuor dies.
+Non erant multus cibus. Pauci pauperes coquebant cadaveres, quia non habet cibum.
 
-10.i 310 The king of Caesarea Maritima enters into a pact with the Crusaders, giving them tribute.
-(312) The Crusader army passes by Caesarea Maritima.
-  314 The Crusaders reach Kephalia. The residents flee before the army gets there, leaving them spoil.
-(316) The Crusaders attack an Arab castle and almost take it, but are distracted by cattle let loose from the castle, which they plunder. The Arabs flee under cover of night.
-  318 The king of Homs creates a pact with the Crusaders, giving them tribute and safe passage.
-10.j 320 The army arrives at Tartus, Syria
-   322 The Crusaders light many watch-fires, tricking the inhabitants of Tartus about their true size, causing them to leave the city undefended.
-324 The king of Byblos, Lebanon enters into a pact with Raymond of Saint-Gilles, giving him tribute.
-10.k 326 The Crusaders find a Turkish army outside of Tripoli. They slaughter the Turkish soldiers, causing the river to run red with blood.
+[10.i The Crusaders travel through several cities without meeting resistance.]
+Raimundus exivit Marram et pervenit usque Capharda. Rex Cesareae misit nuntios ei. Rex Cesareae voluit pacem, et dedit pecuniam et mercatum nostris militibus.
 
-(328) Ships resupply the Crusaders. 
+Nostri milites pervenerunt ad quamdam civitatem pulcherrimam, nomine Kephaliam.
+Habitatores illius urbis fugerunt, et dimiserunt urbem plenam alimentis corporalibus.
+
+Rex Tripolisi misit nuntios, et voluit habere pacem. Dedit nostris militibus equos decem et quattuor mulas et aurum.
+
+[10.j The army arrives at Tartus, Syria. The Crusaders light many watch-fires, tricking the inhabitants of Tartus about their true size, causing them to leave the city undefended.]
+Raimundus Piletus et pauci milites venerunt ante Tortosam civitatem. Erat multi pagani in urbe.
+Illa nocte fecerunt innumerabiles ignes, quasi tōta hostis esset ibi. Pagani viderunt ignes, erant perterriti et fugerunt. In mane, Raimundus invenit urbam vacuam.
+
+[10.k 326 The Crusaders find a Turkish army outside of Tripoli. They slaughter the Turkish soldiers, causing the river to run red with blood.]
+Nōn multō post, nostrī milites equitāvērunt contrā Tripolim.
+Invenerunt extra civitatem Turcōs, Arabēs, et Saracēnōs.
+Nostri milites invaserunt eos et miserunt eos in fugam.
+Tanta fuit occisio paganorum, ut aqua, quae in civitate fluebat, videretur rubēre.
+
 10.l 330 The Crusaders reach Byblos, Lebanon
   332 The Crusaders reach Beirut, then Caesarea.
   334 The Crusaders reach Ramla and install a bishop.
