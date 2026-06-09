@@ -2,13 +2,16 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="210mm"
-   height="297mm"
-   viewBox="0 0 210 297"
+   width="325.70209mm"
+   height="197.11458mm"
+   viewBox="0 0 325.70209 197.11458"
    version="1.1"
    id="svg31904"
    inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
    sodipodi:docname="sicilian_gates.svg"
+   inkscape:export-filename="/home/aaron/Documents/latin/gesta_francorum/maps/cilician_gates.png"
+   inkscape:export-xdpi="192.10699"
+   inkscape:export-ydpi="192.10699"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -25,14 +28,18 @@
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:zoom="0.9612704"
-     inkscape:cx="390.10876"
-     inkscape:cy="564.87748"
+     inkscape:cx="716.75982"
+     inkscape:cy="392.18934"
      inkscape:window-width="1920"
      inkscape:window-height="935"
      inkscape:window-x="0"
      inkscape:window-y="32"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer1" />
+     inkscape:current-layer="layer1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
   <defs
      id="defs31901">
     <inkscape:path-effect
@@ -47,17 +54,17 @@
        apply_with_weight="true"
        only_selected="false" />
     <marker
-       style="overflow:visible;"
+       style="overflow:visible"
        id="Arrow1Lend"
-       refX="0.0"
-       refY="0.0"
+       refX="0"
+       refY="0"
        orient="auto"
        inkscape:stockid="Arrow1Lend"
        inkscape:isstock="true">
       <path
-         transform="scale(0.8) rotate(180) translate(12.5,0)"
-         style="fill-rule:evenodd;fill:context-stroke;stroke:context-stroke;stroke-width:1.0pt;"
-         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
          id="path11780" />
     </marker>
     <inkscape:path-effect
@@ -175,7 +182,8 @@
   <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
-     id="layer1">
+     id="layer1"
+     transform="translate(94.731781,-52.083603)">
     <image
        width="325.70209"
        height="197.11458"
@@ -216,8 +224,8 @@
          sodipodi:role="line"
          style="font-size:11.2889px;stroke-width:0.265"
          x="145.60805"
-         y="159.89809"
-         id="tspan19368">(Cicilian Gates, Akçatekir)</tspan></text>
+         y="159.89807"
+         id="tspan19368">(Cilician Gates, Akçatekir)</tspan></text>
     <text
        xml:space="preserve"
        style="font-weight:bold;font-size:11.2889px;line-height:0.9;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;fill:#ffffff;stroke:#000000;stroke-width:0.264999;stroke-linecap:round"
@@ -238,7 +246,7 @@
          sodipodi:role="line"
          id="tspan3882"
          style="font-size:11.2889px;stroke-width:0.265"
-         x="16.432951"
+         x="16.432953"
          y="186.89592">Iconium</tspan><tspan
          sodipodi:role="line"
          style="font-size:11.2889px;stroke-width:0.265"
