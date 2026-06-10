@@ -559,14 +559,14 @@
         <PAGE PAGEXPOS="712.001" PAGEYPOS="181396.655999999" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="436" NAM="" MNAM="Vocab right" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
         <PAGE PAGEXPOS="100.001" PAGEYPOS="182228.658999999" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="437" NAM="" MNAM="Latin left" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
         <PAGE PAGEXPOS="712.001" PAGEYPOS="182228.658999999" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="438" NAM="" MNAM="Vocab right" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
-        <MASTEROBJECT XPOS="136.001" YPOS="776.002" OwnPage="2" ItemID="49832357" PTYPE="4" WIDTH="522" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 18 L0 18 L0 0 Z" copath="M0 0 L522 0 L522 18 L0 18 L0 0 Z" OnMasterPage="Latin left" gXpos="413236.001" gYpos="2706913203851.06" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <MASTEROBJECT XPOS="136.001" YPOS="776.002" OwnPage="2" ItemID="49832357" PTYPE="4" WIDTH="522" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 18 L0 18 L0 0 Z" copath="M0 0 L522 0 L522 18 L0 18 L0 0 Z" OnMasterPage="Latin left" gXpos="413236.001" gYpos="2712585359343.34" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <var name="pgno" FONTSIZE="12"/>
                 <trail ALIGN="1"/>
             </StoryText>
         </MASTEROBJECT>
-        <MASTEROBJECT XPOS="154.001" YPOS="776.002" OwnPage="3" ItemID="49808213" PTYPE="4" WIDTH="522" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 18 L0 18 L0 0 Z" copath="M0 0 L522 0 L522 18 L0 18 L0 0 Z" OnMasterPage="Vocab right" gXpos="32203427302.001" gYpos="2706700740240.36" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <MASTEROBJECT XPOS="154.001" YPOS="776.002" OwnPage="3" ItemID="49808213" PTYPE="4" WIDTH="522" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 18 L0 18 L0 0 Z" copath="M0 0 L522 0 L522 18 L0 18 L0 0 Z" OnMasterPage="Vocab right" gXpos="32241357226.001" gYpos="2712372895732.64" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <var name="pgno" FONTSIZE="12"/>
@@ -43802,6 +43802,158 @@
                 <ITEXT CH="vocātur: it is named; 3rd person singular present passive from vocō, vocāre, vocāvī, vocātum"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="volēbant: they were wanting; 3rd person plural imperfect from velle"/>
+                <trail PARENT="Vocab"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="136.001" YPOS="20856.077" OwnPage="49" ItemID="155479334" PTYPE="4" WIDTH="522" HEIGHT="297" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 297 L0 297 L0 0 Z" copath="M0 0 L522 0 L522 297 L0 297 L0 0 Z" gXpos="136.001" gYpos="20856.077" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="[5.a The Crusaders defeat a Turkish army near the Orontes River.]"/>
+                <para PARENT="Latin"/>
+                <tab/>
+                <ITEXT CH="Venīmus ad Pontem Farreum. Nostrī cursōrēs invēnērunt Turcōs innumerābilēs congregātōs obviam eīs. Turcī voluērunt dare adiūtōrium Antiochīae. Nostrī mīlitēs igitur irruērunt Turcōs et superāvērunt eōs. Turcī dedērunt fugam. Nostrī mīlitēs accēpērunt spolia multa: equōs, camēlōs, mūlōs, asinōs, onustōs frūmentō et vīnō."/>
+                <para PARENT="Latin"/>
+                <ITEXT CH="[5.b The Crusaders begin the siege of Antioch. After sending out spies, the Turks begin laying ambushes.]"/>
+                <para PARENT="Latin"/>
+                <tab/>
+                <ITEXT CH="Obsēdimus Antiochīam. Turcī erant perterritī, et nōn audēbant exīre cīvitāte. Sed mīsērunt Hermēniōs et Surianiōs, ostendentēs"/>
+                <ITEXT FEATURES="inherit superscript" CH="1"/>
+                <ITEXT CH=" sē fugere. Et investīgābant nostrum exercitum. Tunc Turcī coepērunt pugnāre contrā nōs ex urbe."/>
+                <para PARENT="Latin"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="136.001" YPOS="21153.077" OwnPage="49" ItemID="1475578789" PTYPE="4" WIDTH="522" HEIGHT="34.1841464968093" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 34.1841 L0 34.1841 L0 0 Z" copath="M0 0 L522 0 L522 34.1841 L0 34.1841 L0 0 Z" gXpos="136.001" gYpos="21153.077" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FEATURES="inherit superscript" CH="1"/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="But they sent Armenians and Syrians, showing themselves to flee."/>
+                <ITEXT CH=" The Armenians and Syrians were spies who were only pretending to be fleeing the city."/>
+                <trail PARENT="footnotes"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="180.127888535032" YPOS="21187.2611464968" OwnPage="49" ItemID="1474907541" PTYPE="2" WIDTH="433.746222929936" HEIGHT="380.331210191081" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.371780264116404" LOCALSCY="0.371780264116404" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="maps/pons_farreus.png" IRENDER="0" EMBEDDED="0" path="M0 0 L433.746 0 L433.746 380.331 L0 380.331 L0 0 Z" copath="M0 0 L433.746 0 L433.746 380.331 L0 380.331 L0 0 Z" gXpos="180.127888535032" gYpos="21187.2611464968" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="766.001" YPOS="20856.077" OwnPage="50" ItemID="1471708885" PTYPE="4" WIDTH="522" HEIGHT="720" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="2" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 720 L0 720 L0 0 Z" copath="M0 0 L522 0 L522 720 L0 720 L0 0 Z" gXpos="766.001" gYpos="20856.077" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="accēpērunt: they took, received; 3rd person plural perfect from accipiō, accipere, accēpī, acceptum"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="ad: to, towards"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="adiūtōrium: help; singular neuter accusative from adiūtōrium, adiūtōriī"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="Antiochīae: Antioch; singular feminine dative from Antiochīa, Antiochīae"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="Antiochīam: Antioch; singular feminine accusative from Antiochīa, Antiochīae"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="asinōs: donkeys; plural masculine accusative from asinus, asinī"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="audēbant: they were daring; 3rd person plural imperfect from audeō, audēre, ausum"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="camēlōs: camels; plural masculine accusative from camēlus, camēlī"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="cīvitāte: city; singular feminine ablative from cīvitās, cīvitātis"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="coepērunt: they started; 3rd person plural perfect from coepī, coepisse, coepī, coeptum"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="congregātōs: having been gathered; plural masculine accusative participle from congregō, congregāre, congregāvī, congregātum"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="contrā: against"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="cursōrēs: scouts; plural masculine nominative from cursor, cursōris"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="dare: to give; present active infinitive from dō, dare, dedī, datum"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="dedērunt: they gave; 3rd person plural perfect from dō, dare, dedī, datum"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="eīs: them; plural masculine dative from is, ea, id"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="eōs: them; plural masculine accusative from is, ea, id"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="equōs: horses; plural masculine accusative from equus, equī"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="erant: they were; 3rd person plural imperfect from sum, esse, fuī, futūrum"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="et: and"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="ex: from"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="exercitum: army; singular masculine accusative from exercitus, exercitūs"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="exīre: to go out; present active infinitive from exeō, exīre, exivī, exitum"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="Farreum: The Pōns Farreus extended over the Orontes River, colloquially called the Far. The name is not related to ferreum (iron), although several manuscripts spell it that way; singular masculine accusative from Farreus"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="frūmentō: grain; singular neuter ablative from frūmentum, frūmentī"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="fugam: flight, escape; singular feminine accusative from fuga, fugae"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="fugere: to flee; present active infinitive from fugiō, fugere, fūgī, fugitūrum"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="Hermēniōs: Armenians; plural masculine accusative from Hermēnius, Hermēniī"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="igitur: therefore"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="innumerābilēs: countless; plural masculine accusative from innumerābilis, innumerābile"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="invēnērunt: they found; 3rd person plural perfect from inveniō, invenīre, invēnī, inventum"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="investīgābant: they were investigating; 3rd person plural imperfect from investīgō, investīgāre, investīgāvī, investīgātum"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="irruērunt: they rushed upon; 3rd person plural perfect from irruō, irruere, irruī, irrutum"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="mīlitēs: soldiers; plural masculine nominative from mīles, mīlitis"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="mīsērunt: they sent; 3rd person plural perfect from mittō, mittere, mīsī, missum"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="mūlōs: mules; plural masculine accusative from mūlus, mūlī"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="multa: many, much; plural neuter accusative from multus, multa, multum"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="nōn: not"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="nōs: us; plural common accusative from ego"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="nostrī: our; plural masculine nominative from noster, nostra, nostrum"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="nostrum: our; singular masculine accusative from noster, nostra, nostrum"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="obsēdimus: we besieged; 1st person plural perfect from obsīdō, obsīdere, obsēdī, obsessum"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="obviam: against"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="onustōs: laden; plural masculine accusative from onustus, onusta, onustum"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="ostendentēs: showing; plural masculine nominative participle from ostendō, ostendere, ostendī, ostentum"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="perterritī: having been terrified; plural masculine nominative participle from perterreō, perterrēre, perterruī, perterritum"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="pontem: bridge; singular masculine accusative from pōns, pontis"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="pugnāre: to fight; present active infinitive from pugnō, pugnāre, pugnāvī, pugnātum"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="sē: themselves; plural masculine accusative from sē"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="sed: but"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="spolia: spoils, booty; plural neuter accusative from spolium, spoliī"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="superāvērunt: they overcame; 3rd person plural perfect from superō, superāre, superāvī, superātum"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="Surianiōs: Syrians; plural masculine accusative from Surianius, Surianiī"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="tunc: then"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="Turcī: Turks; plural masculine nominative from Turcus, Turcī"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="Turcōs: Turks; plural masculine accusative from Turcus, Turcī"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="urbe: city; singular feminine ablative from urbs, urbis"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="venīmus: we come; 1st person plural present from veniō, venīre, vēnī, ventum"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="vīnō: wine; singular neuter ablative from vīnum, vīnī"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="voluērunt: they wanted; 3rd person plural perfect from velle"/>
                 <trail PARENT="Vocab"/>
             </StoryText>
         </PAGEOBJECT>
