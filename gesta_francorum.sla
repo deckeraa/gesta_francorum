@@ -601,14 +601,14 @@
         <PAGE PAGEXPOS="712.0008" PAGEYPOS="197204.760000001" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="474" NAM="" MNAM="Vocab right" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
         <PAGE PAGEXPOS="100.0008" PAGEYPOS="198036.763200001" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="475" NAM="" MNAM="Latin left" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
         <PAGE PAGEXPOS="712.0008" PAGEYPOS="198036.763200001" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="476" NAM="" MNAM="Vocab right" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
-        <MASTEROBJECT XPOS="136.0008" YPOS="776.0016" OwnPage="2" ItemID="793841613" PTYPE="4" WIDTH="522" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 18 L0 18 L0 0 Z" copath="M0 0 L522 0 L522 18 L0 18 L0 0 Z" OnMasterPage="Latin left" gXpos="413236.0008" gYpos="3171622572334.15" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <MASTEROBJECT XPOS="136.0008" YPOS="776.0016" OwnPage="2" ItemID="793841613" PTYPE="4" WIDTH="522" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 18 L0 18 L0 0 Z" copath="M0 0 L522 0 L522 18 L0 18 L0 0 Z" OnMasterPage="Latin left" gXpos="413236.0008" gYpos="3250751654406.97" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <var name="pgno" FONTSIZE="12"/>
                 <trail ALIGN="1"/>
             </StoryText>
         </MASTEROBJECT>
-        <MASTEROBJECT XPOS="154.0008" YPOS="776.0016" OwnPage="3" ItemID="793842893" PTYPE="4" WIDTH="522" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 18 L0 18 L0 0 Z" copath="M0 0 L522 0 L522 18 L0 18 L0 0 Z" OnMasterPage="Vocab right" gXpos="35115588910.0008" gYpos="3171410108723.45" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <MASTEROBJECT XPOS="154.0008" YPOS="776.0016" OwnPage="3" ItemID="793842893" PTYPE="4" WIDTH="522" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 18 L0 18 L0 0 Z" copath="M0 0 L522 0 L522 18 L0 18 L0 0 Z" OnMasterPage="Vocab right" gXpos="35602662574.0008" gYpos="3250539190796.27" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <var name="pgno" FONTSIZE="12"/>
@@ -1594,11 +1594,11 @@
                 <tab/>
                 <para PARENT="Chapter Heading"/>
                 <tab/>
-                <ITEXT CH="This is a Latin reader edition of the "/>
+                <ITEXT CH="This is a Latin reader's edition of the "/>
                 <ITEXT FONT="DejaVu Serif Italic" CH="Gesta Francōrum"/>
                 <ITEXT CH=". The "/>
                 <ITEXT FONT="DejaVu Serif Italic" CH="Gesta Francōrum"/>
-                <ITEXT CH=" is an anonymous account of the First Crusade, likely written by someone travelling in Bohemond's army."/>
+                <ITEXT CH=" is an anonymous account of the First Crusade, likely written by someone traveling in Bohemond's army."/>
                 <para PARENT="Introduction"/>
                 <para PARENT="Introduction"/>
                 <ITEXT CH="This reader's edition was produced to meet the following goals:"/>
@@ -1611,18 +1611,41 @@
                 <para PARENT="Introduction"/>
                 <ITEXT CH="    - to provide glossaries so that a Latin learner could read through this work without needing to consult additional books or dictionaries."/>
                 <para PARENT="Introduction"/>
-                <ITEXT CH="    - to provide footnotes and maps"/>
+                <ITEXT CH="    - to provide footnotes and maps."/>
                 <para PARENT="Introduction"/>
-                <ITEXT CH="    - to provide a simplfied version of the text to give intermediate students an easy introduction to the vocabulary and concepts used in the original version."/>
-                <para PARENT="Introduction"/>
-                <para PARENT="Introduction"/>
-                <tab/>
-                <ITEXT CH="More resources are available at https://comprehensiblelatin.com."/>
+                <ITEXT CH="    - to provide a simplified version of the text to give intermediate students an easy introduction to the vocabulary and concepts used in the original version."/>
                 <para PARENT="Introduction"/>
                 <para PARENT="Introduction"/>
                 <tab/>
-                <ITEXT CH="This reader edition of the Gesta Francōrum is not a critical edition of the text; for that, please consult the critical edition which is cited in the bibliography. The glosses provided in the footnotes are intentionally woodenly literal; their purpose is to aid the reader in understanding the Latin, not to provide an idiomatic English translation. The glossaries for each page are created by a computer program that consults a dictionary and then are reviewed and emended line-by-line manually. AI tools were not used to generate the glossaries. Due to the sheer volume of entries in the glossary, there may be occasional mistakes. If you find one, please consider letting me know at decker49@gmail.com so that I can correct the book."/>
+                <ITEXT CH="An electronic version of this book and more resources are available at https://comprehensiblelatin.com."/>
                 <para PARENT="Introduction"/>
+                <para PARENT="Introduction"/>
+                <tab/>
+                <ITEXT CH="This reader's edition of the Gesta Francōrum is not a critical edition of the text; for that, please consult the critical edition by Hagenmeyer which is cited in the bibliography. The glosses provided in the footnotes are intentionally woodenly literal; their purpose is to aid the reader in understanding the Latin, not to provide an idiomatic English translation. The glossaries for each page are created by a computer program I wrote that allows me to quickly set a parsed definition for each word and then outputs the page-specific glossaries. AI tools were not used to generate the glossaries."/>
+                <para PARENT="Introduction"/>
+                <para PARENT="Introduction"/>
+                <tab/>
+                <ITEXT CH="The reader might expect an introduction to a text about the Crusades to contain an apologetic defense attempting to justify them. I will do the opposite. We do not stand in judgment over the Crusaders, but rather they stand in judgment over us and over the modern world."/>
+                <para PARENT="Introduction"/>
+                <para PARENT="Introduction"/>
+                <tab/>
+                <ITEXT CH="Frequently, Medieval works are criticized as being moralizing and divorced from facts. We see that this accusation actually pertains to the modern world. The necessity of propaganda to hold together the modern state dictates that historical events are understood by the public in cartoonish ways, where the opponents of the state are reduced to sniveling supervillians. The field of Classics is now largely an endeavour to find queer, Marxist, or otherwise denigrating readings of ancient texts. There is no apolitical space left. Television shows are marketed as 'gritty', 'dark', and 'realistic', yet their cynicism is a mere cover for the naked power lust of the modern Left. There is no positive moral vision for the future, so everything becomes a moralized scrap for existence."/>
+                <para PARENT="Introduction"/>
+                <ITEXT CH="  "/>
+                <para PARENT="Introduction"/>
+                <ITEXT CH=" "/>
+                <tab/>
+                <ITEXT CH="We find the opposite in the Gesta Francōrum. The author found no need to portray the Turks as subhumans; in fact, in several passages he positively notes how good they are at war-fighting. The only time they are demonized are in explicitly religious passages. The author's confidence in Christianity allowed him to maintain a moral understanding of the conflict without moralizing becoming an all-consuming endeavour."/>
+                <para PARENT="Introduction"/>
+                <para PARENT="Introduction"/>
+                <tab/>
+                <ITEXT CH="We see the author's honesty when he relates instances of Crusader misbehavior, such as the lootings by the People's Crusade, the instance of cannibalism, and the failure of the troops within Jerusalem to respect Tancred's banner of protection over the surrender of some non-combatants on the temple mount. We also see an earnestness and nobility in the goal of the conflict: to secure the pilgrimage route to the Holy Sepulchre. The "/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="Gesta Francōrum"/>
+                <ITEXT CH=" shows that the Crusaders were not cynical savages but rather pious men who left home and family, adventuring far and suffering many hardships to allow themselves and others to perform an act of religious devotion."/>
+                <para PARENT="Introduction"/>
+                <para PARENT="Introduction"/>
+                <tab/>
+                <ITEXT CH="The Crusaders stand in judgment over us. They fought and suffered over centuries to keep the lands of Christiandom free from Muslim dominance. Yet the modern Western states have pursued a reverse course, importing the threat of Islam through mass immigration, to the point where Britain will be majority-Muslim by 2050 unless decisive political action is taken. Already we have tasted the bitter fruit of this betrayal, such as with the Muslim rape gangs repeatedly committing unspeakable atrocities upon young British girls in Rotherham and other British cities. To these innocent victims of third-world savagery I dedicate this book; may God look down upon their sufferings and grant the lands of Christendom to be free once more."/>
                 <para PARENT="Introduction"/>
                 <para PARENT="Introduction"/>
                 <para PARENT="Introduction"/>
