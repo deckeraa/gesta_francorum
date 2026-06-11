@@ -8152,7 +8152,7 @@
             <StoryText>
                 <DefaultStyle/>
                 <ITEXT FEATURES="inherit superscript" CH="1"/>
-                <ITEXT FONT="DejaVu Serif Italic" CH="Therefore our (soldiers) marveled greatly, from whence had arisen such a multitude of Turks and Arabs and Saracenes and others whom I do not know how to enumerate."/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="Therefore our (soldiers) marveled greatly, from whence had arisen such a multitude of Turks and Arabs and Saracens and others whom I do not know how to enumerate."/>
                 <para PARENT="footnotes"/>
                 <ITEXT FEATURES="inherit superscript" CH="2"/>
                 <ITEXT CH="Here 'excommunicate generation' is likely used in a non-technical sense, and the author just means that the peoples were non-Christian."/>
@@ -18727,7 +18727,7 @@
                 <ITEXT FONT="DejaVu Serif Italic" CH="And thus with the next night coming, he (Pirus) cautiously sent his son (as a pledge/surety) to Bohemond, so that he (Bohemond) might be more secure/sure regarding entry to the city."/>
                 <para PARENT="footnotes"/>
                 <ITEXT FONT="DejaVu Serif Italic" FEATURES="inherit superscript" CH="5"/>
-                <ITEXT FONT="DejaVu Serif Italic" CH="That tomorrow you might publicly summon and send forth the whole Frankish people, that they might advance to plunder in the Saracene lands, pretending (to go forth) and then let it quickly returning through the right-hand mountain."/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="That tomorrow you might publicly summon and send forth the whole Frankish people, that they might advance to plunder in the Saracen lands, pretending (to go forth) and then let it quickly returning through the right-hand mountain."/>
                 <para PARENT="footnotes"/>
                 <ITEXT FONT="DejaVu Serif Italic" FEATURES="inherit superscript" CH="6"/>
                 <ITEXT FONT="DejaVu Serif Italic" CH="I will with upright intention be standing ready for those bands and will receive them into the towers."/>
@@ -33810,7 +33810,7 @@
                 <DefaultStyle/>
                 <ITEXT FEATURES="inherit superscript" CH="1"/>
                 <ITEXT FONT="DejaVu Serif Italic" CH="Our (soldiers) attacked the castle, and would have strongly taken it, except that the Saracens loosed immense herds of animals outside."/>
-                <ITEXT CH=" The Crusader soldiers got distracted from the battle by the Saracene's loose livestock."/>
+                <ITEXT CH=" The Crusader soldiers got distracted from the battle by the Saracen's loose livestock."/>
                 <para PARENT="footnotes"/>
                 <ITEXT FEATURES="inherit superscript" CH="2"/>
                 <ITEXT FONT="DejaVu Serif Italic" CH="However, at the height of dawn our soldiers collected their tents."/>
