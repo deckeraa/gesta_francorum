@@ -601,14 +601,14 @@
         <PAGE PAGEXPOS="712.0008" PAGEYPOS="197204.760000001" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="474" NAM="" MNAM="Vocab right" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
         <PAGE PAGEXPOS="100.0008" PAGEYPOS="198036.763200001" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="475" NAM="" MNAM="Latin left" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
         <PAGE PAGEXPOS="712.0008" PAGEYPOS="198036.763200001" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="476" NAM="" MNAM="Vocab right" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
-        <MASTEROBJECT XPOS="136.0008" YPOS="776.0016" OwnPage="2" ItemID="1067455704" PTYPE="4" WIDTH="522" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 18 L0 18 L0 0 Z" copath="M0 0 L522 0 L522 18 L0 18 L0 0 Z" OnMasterPage="Latin left" gXpos="413236.0008" gYpos="3447154579408.29" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <MASTEROBJECT XPOS="136.0008" YPOS="776.0016" OwnPage="2" ItemID="1067455704" PTYPE="4" WIDTH="522" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 18 L0 18 L0 0 Z" copath="M0 0 L522 0 L522 18 L0 18 L0 0 Z" OnMasterPage="Latin left" gXpos="413236.0008" gYpos="3456785421634.26" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <var name="pgno" FONTSIZE="12"/>
                 <trail ALIGN="1"/>
             </StoryText>
         </MASTEROBJECT>
-        <MASTEROBJECT XPOS="154.0008" YPOS="776.0016" OwnPage="3" ItemID="1067567448" PTYPE="4" WIDTH="522" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 18 L0 18 L0 0 Z" copath="M0 0 L522 0 L522 18 L0 18 L0 0 Z" OnMasterPage="Vocab right" gXpos="36811607374.0008" gYpos="3446942115797.59" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <MASTEROBJECT XPOS="154.0008" YPOS="776.0016" OwnPage="3" ItemID="1067567448" PTYPE="4" WIDTH="522" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 18 L0 18 L0 0 Z" copath="M0 0 L522 0 L522 18 L0 18 L0 0 Z" OnMasterPage="Vocab right" gXpos="36870889366.0008" gYpos="3456572958023.56" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <var name="pgno" FONTSIZE="12"/>
@@ -42952,7 +42952,7 @@
                 <tab/>
                 <ITEXT CH="Turcī dedērunt fugam. Fūgērunt ad sua tentōria, sed nōn licuit"/>
                 <ITEXT FEATURES="inherit superscript" CH="1"/>
-                <ITEXT CH=" eōs diū morārī. Mīlitēs nostrī persecūtī sunt tōta ūnā diē. Accēpimus spolia multa: aurum, argentum, equōs et asinōs, camēlōs, ovēs, et bovēs et plūrima alia."/>
+                <ITEXT CH=" eōs diū morārī. Mīlitēs nostrī persecūtī sunt tōtā ūnā diē. Accēpimus spolia multa: aurum, argentum, equōs et asinōs, camēlōs, ovēs, et bovēs et plūrima alia."/>
                 <para PARENT="Latin"/>
                 <tab/>
                 <ITEXT CH="Sed fuērunt illīc mortuī duo ex nostrīs mīlitibus honōrābilibus, scīlicet Godefridus dē Monte Scabiōsō, et Willelmus Marchīsī fīlius, frāter Tancredī, aliīque mīlitēs et peditēs, quōrum nōmina īgnōrō."/>
@@ -43122,7 +43122,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="terrēbant: they were terrifying; 3rd person plural imperfect from terreō, terrēre, terruī, territum"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="tōta: whole, all; singular feminine nominative from tōtus, tōta, tōtum"/>
+                <ITEXT CH="tōtā: whole, all; singular feminine ablative from tōtus, tōta, tōtum"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="Turcī: Turks; plural masculine nominative from Turcus, Turcī"/>
                 <para PARENT="Vocab"/>
@@ -43543,7 +43543,7 @@
                 <ITEXT CH="[4.f Tancred and Baldwin dispute over ownership of Tarsus.]"/>
                 <para PARENT="Latin"/>
                 <tab/>
-                <ITEXT CH="In māne, maiōrēs cīvitātis reddidērunt sponte cīvitātem et dīxērunt: &quot;volumus Tancredum rēgnāre super nōs, quia herī virīliter pugnāvit cum Turcīs.&quot; Balduīnus voluit spoliāre cīvitātem. Fortissimus Tancredus dīxit: &quot;Nōn! ego nōlō expoliāre Chrīstiānōs.&quot; Sed, Balduīnus habēbat magnum exercitum; ergō, Tancredus recessit cum suō exercitū. Et duae cīvitātēs, Athēna et Manustra, trāditae sunt Tancredō."/>
+                <ITEXT CH="In māne, maiōrēs cīvitātis reddidērunt sponte cīvitātem et dīxērunt: &quot;volumus Tancredum rēgnāre super nōs, quia herī virīliter pugnāvit cum Turcīs.&quot; Balduīnus voluit spoliāre cīvitātem. Fortissimus Tancredus dīxit: &quot;Nōn! Ego nōlō expoliāre Chrīstiānōs.&quot; Sed, Balduīnus habēbat magnum exercitum; ergō, Tancredus recessit cum suō exercitū. Et duae cīvitātēs, Athēna et Manustra, trāditae sunt Tancredō."/>
                 <para PARENT="Latin"/>
             </StoryText>
         </PAGEOBJECT>
