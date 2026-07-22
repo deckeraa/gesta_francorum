@@ -601,14 +601,14 @@
         <PAGE PAGEXPOS="712.0008" PAGEYPOS="197204.760000001" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="474" NAM="" MNAM="Vocab right" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
         <PAGE PAGEXPOS="100.0008" PAGEYPOS="198036.763200001" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="475" NAM="" MNAM="Latin left" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
         <PAGE PAGEXPOS="712.0008" PAGEYPOS="198036.763200001" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="476" NAM="" MNAM="Vocab right" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
-        <MASTEROBJECT XPOS="136.0008" YPOS="776.0016" OwnPage="2" ItemID="2007208902" PTYPE="4" WIDTH="522" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 18 L0 18 L0 0 Z" copath="M0 0 L522 0 L522 18 L0 18 L0 0 Z" OnMasterPage="Latin left" gXpos="413236.0008" gYpos="3518711500517.21" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <MASTEROBJECT XPOS="136.0008" YPOS="776.0016" OwnPage="2" ItemID="2007208902" PTYPE="4" WIDTH="522" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 18 L0 18 L0 0 Z" copath="M0 0 L522 0 L522 18 L0 18 L0 0 Z" OnMasterPage="Latin left" gXpos="413236.0008" gYpos="3555010547137.94" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <var name="pgno" FONTSIZE="12"/>
                 <trail ALIGN="1"/>
             </StoryText>
         </MASTEROBJECT>
-        <MASTEROBJECT XPOS="154.0008" YPOS="776.0016" OwnPage="3" ItemID="2007180310" PTYPE="4" WIDTH="522" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 18 L0 18 L0 0 Z" copath="M0 0 L522 0 L522 18 L0 18 L0 0 Z" OnMasterPage="Vocab right" gXpos="37252071118.0008" gYpos="3518499036906.51" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <MASTEROBJECT XPOS="154.0008" YPOS="776.0016" OwnPage="3" ItemID="2007180310" PTYPE="4" WIDTH="522" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 18 L0 18 L0 0 Z" copath="M0 0 L522 0 L522 18 L0 18 L0 0 Z" OnMasterPage="Vocab right" gXpos="37475507422.0008" gYpos="3554798083527.24" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <var name="pgno" FONTSIZE="12"/>
@@ -40605,7 +40605,7 @@
                 <tab/>
                 <ITEXT CH="Dux Godefridus vēnit ad Cōnstantīnopolim. Vēnit cum magnō exercitū, duōbus diēbus ante nātīvitātem Dominī nostrī (Christmās 1096). Godefridus hospitātus est extrā urbem. Sed inīquus imperātor Alexius imperāvit Turcopōlīs"/>
                 <ITEXT FEATURES="inherit superscript" CH="1"/>
-                <ITEXT CH=" et Pincinātīs invādere illōs et occīdere eōs. Balduīnus, frāter Godefridī, audīvit cōnsilium imperātōris. Balduīnus invēnit eōs occīdentēs gentem suam et, Deō iuvante, superāvit eōs. Balduīnus apprehendit sexāgintā ex iīs, partem occīdit, partem praesentāvit frātrī suō. Imperātor audīvit quod Balduīnus occīdit Turcopōlēs et Pinzinacōs eius, valdē īrātus erat. Tunc Godefridus trānsīvit flūmen Brāchium cum exercitū suō. Imperātor permīsit eum habēre omnem mercātum ibi sīcut in Cōnstantīnopolī."/>
+                <ITEXT CH=" et Pincinātīs invādere illōs et occīdere eōs. Balduīnus, frāter Godefridī, audīvit cōnsilium imperātōris. Balduīnus invēnit eōs occīdentēs gentem suam et, Deō iuvante, superāvit eōs. Balduīnus apprehendit sexāgintā ex iīs, partem occīdit, partem praesentāvit frātrī suō. Imperātor audīvit hoc et valdē īrātus erat. Tunc Godefridus trānsīvit flūmen Brāchium cum exercitū suō. Imperātor permīsit eum habēre omnem mercātum ibi sīcut in Cōnstantīnopolī."/>
                 <para PARENT="Latin"/>
             </StoryText>
         </PAGEOBJECT>
@@ -40686,6 +40686,8 @@
                 <ITEXT CH="Godefridus: Godfrey; singular masculine nominative from Godefridus, Godefridī"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="habēre: to have; present active infinitive from habeō, habēre, habuī, habitum"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="hoc: this; singular neuter accusative from hic, haec, hoc"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="hospitātus: hospitātus est = he was lodged; singular masculine nominative participle from hospitor, hospitārī, hospitātum"/>
                 <para PARENT="Vocab"/>
@@ -40795,16 +40797,21 @@
                 <ITEXT CH=" [1.d: How Bohemond joined the Crusade]"/>
                 <para PARENT="Latin"/>
                 <tab/>
-                <ITEXT CH="Ante Boamundus erat in Cōnstantīnopolī, erat in obsidiōne Malfī. Boamundus audīvit quod innumerābilis gēns Chrīstiānōrum dē Francigēnīs it ad Sepulchrum Dominī. Boamundus quoque voluit pugnāre contrā gentem pāgānōrum. Ergō Boamundus rogāvit: &quot;Quid signum sonet in certāmine?&quot;. Respōnsum erat: &quot;In bellō, nostrī mīlitēs clāmant 'Deus"/>
+                <ITEXT CH="Ante Boamundus erat in Cōnstantīnopolī, erat in obsidiōne Malfī. Boamundus audīvit innumerābilem gentem Chrīstiānōrum dē Francigēnīs vēnisse"/>
                 <ITEXT FEATURES="inherit superscript" CH="1"/>
+                <ITEXT CH=" ad Sepulchrum Dominī. Boamundus quoque voluit pugnāre contrā gentem pāgānōrum. Ergō Boamundus rogāvit: &quot;Quid signum sonet in certāmine?&quot;. Respōnsum erat: &quot;In bellō, nostrī mīlitēs clāmant 'Deus"/>
+                <ITEXT FEATURES="inherit superscript" CH="2"/>
                 <ITEXT CH=" vult! Deus vult!' Quoque nostrī mīlitēs bāiulant crucem Chrīstī inter scapulās.&quot; Boamundus sūmpsit pretiōsissimum pallium eius et incīdit in crucēs. Mīlitēs eius pōnunt crucēs super vestīmenta et iērunt ad Cōnstantīnopolim cum Boamundō."/>
                 <para PARENT="Latin"/>
             </StoryText>
         </PAGEOBJECT>
-        <PAGEOBJECT XPOS="136.0008" YPOS="6443.31310191083" OwnPage="13" ItemID="677199143" PTYPE="4" WIDTH="522" HEIGHT="37.6050955414012" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 37.6051 L0 37.6051 L0 0 Z" copath="M0 0 L522 0 L522 37.6051 L0 37.6051 L0 0 Z" gXpos="136.0008" gYpos="6443.31310191083" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT XPOS="136.0008" YPOS="6443.31310191083" OwnPage="13" ItemID="677199143" PTYPE="4" WIDTH="522" HEIGHT="69.7060063694262" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L522 0 L522 69.706 L0 69.706 L0 0 Z" copath="M0 0 L522 0 L522 69.706 L0 69.706 L0 0 Z" gXpos="136.0008" gYpos="6443.31310191083" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <ITEXT FEATURES="inherit superscript" CH="1"/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="Boamund heard an innumerable people of the Frankish-born Christians to have come (on crusade) to the Lord's Sepulchre."/>
+                <para PARENT="footnotes"/>
+                <ITEXT FONT="DejaVu Serif Italic" FEATURES="inherit superscript" CH="2"/>
                 <ITEXT FONT="DejaVu Serif Italic" CH="God wills (it)"/>
                 <ITEXT CH=". The meaning of this is that the Crusaders believed that the re-capturing of the route to the Holy Sepulchre was God's will."/>
                 <trail PARENT="footnotes"/>
@@ -40887,6 +40894,8 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="incīdit: he cut into; 3rd person singular perfect from incīdō, incīdere, incīdī, incīsum"/>
                 <para PARENT="Vocab"/>
+                <ITEXT CH="innumerābilem: countless; singular feminine accusative from innumerābilis, innumerābile"/>
+                <para PARENT="Vocab"/>
                 <ITEXT CH="innumerābilis: countless; singular feminine nominative from innumerābilis, innumerābile"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="inter: among, between"/>
@@ -40958,6 +40967,8 @@
                 <ITEXT CH="tunc: then"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="vēnērunt: they came; 3rd person plural perfect from veniō, venīre, vēnī, ventum"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="vēnisse: to have come; perfect infinitive from veniō, venīre, vēnī, ventum"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="vestīmenta: clothes; plural neuter accusative from vestīmentum, vestīmentī"/>
                 <para PARENT="Vocab"/>
